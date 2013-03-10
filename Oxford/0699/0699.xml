@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="uniform">Decretum</title>
+        <title type="main">Concordia discordantium canonum ac primum de iure naturae et constitutionis [Electronic resource] / Gratianus</title>
+        <author>Gratian, 12th cent.</author>
+        <editor role="editor">Richter, Aemilius Ludwig, 1808-1864</editor>
+        <respStmt>
+          <resp>creation of machine-readable version</resp>
+          <name>Reuter, Timothy</name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <seg type="designation">Text data</seg>
+        <seg type="size">(2 files : ca. 1.51, 1.67 megabytes)</seg>
+      </extent>
+      <publicationStmt>
+        <authority>[Depositor details removed]<date>1987-01-14</date></authority>
+        <distributor>
+          <orgName type="OTA">University of Oxford Text Archive</orgName>
+          <placeName>Oxford</placeName>
+          <address>
+            <orgName type="OTA">University of Oxford Text Archive</orgName>
+            <orgName type="OUCS">Oxford University Computing
+          Services</orgName>
+            <addrLine>13 Banbury Road</addrLine>
+            <addrLine>Oxford</addrLine>
+            <addrLine>OX2 6NN</addrLine>
+          </address>
+          <email>ota@oucs.ox.ac.uk</email>
+        </distributor>
+        <idno type="ota">0699</idno>
+        <!--New OTA availability statement-->
+        <availability n="OTA-new" status="free" rend="visible">
+          <p>Freely available for non-commercial 
+         use provided that this header is included in its 
+         entirety with any copy distributed.</p>
+        </availability>
+        <!--Old Availability-->
+      </publicationStmt>
+      <notesStmt>
+        <note anchored="true">Mode of access: Online. OTA website</note>
+        <note anchored="true">Title proper taken from title at beginning of text</note>
+        <note anchored="true">Publication based on this text:  Wortkonkordanz zum Decretum Gratiani / bearbeitet von Timothy Reuter und Gabriel Silagi. -- M<g n="uuml">ü</g>nchen : Monumenta Germaniae Historica, 1990. -- 5 v. -- (Monumenta Germaniae historica. Hilfsmittel ; 10). -- Based on: Decretum magistri Gratiani. Editio Lipsiensis secunda / post Aemilii Ludovici Richteri ; curas ad librorum manu scriptorum et editionis Romanae fidem recognovit et adnotatione critica instruxit Aemilius Friedberg. Lipsiae : Ex officina Berhardi Tauchnitz, 1879. (Corpus Iuris Canonici ; 1). -- ISBN 3-88612-022-8 (set). -- ISBN 3-88612-035-X (v. 1). -- ISBN 3-88612-036-8 (v. 2). -- ISBN 3-88612-037-6 (v. 3). -- ISBN 3-88612-038-4 (v. 4).</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Transcribed from: Corpus Iuris Canonici. -- Editio Lipsiensis secunda / post Aemilii Ludovici Richteri ; curas ad librorum manu scriptorum et editionis Romanae fidem recognovit et adnotatione critica instruxit Aemilius Friedberg. -- Lipsiae : Ex officina Berhardi Tauchnitz, 1879-81. -- 2 v. -- Issued in 15 facsiculi, 1876-81. -- Each vol. (pars) has also special t.p. -- "A collection of patristic texts, conciliar decrees, and papal pronouncements"--Concise Oxford Dictionary of the Christian Church. -- Contents: Pars I. Decretum magistri Gratiani -- pars II. Decretum collectiones.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Concordance</p>
+      </projectDesc>
+      <samplingDecl>
+        <p/>
+      </samplingDecl>
+      <editorialDecl>
+        <p>Encoding format: OCP markup employed</p>
+        <p>Hyphens from printed version have been removed</p>
+        <p>Obvious printing errors have been corrected, but not if there is a possiblity that these could represent medieval ms. readings (for details of emendations see the introduction to G. Silgagi and T reuter, Wortkonkordanz zum Decretum Gratiani, Munich, 1989/90</p>
+        <p>Some abbreviations have been expanded</p>
+        <p>Friedberg's use of quotation marks has been rationalised (single quotes [27 hex] for quotes within quotes) and completed as far as possible, as has his somewhat erratic use of square brackets to distinguish additions made by the Correctores Romani to the text. No attempt has been made to distinquish between opening and closing quotes</p>
+        <p>Some of the text has been enclosed between a minus and a plus sign to denote commentary. These include: page numbers; chapter, book, etc. divisions; square-bracketed additions by the CR; the word PALEA; the 13th century paragraph divisions (@. 1, etc.); titles</p>
+      </editorialDecl>
+      <refsDecl>
+        <p>L = line</p>
+        <p>S = page</p>
+        <p>T = text type</p>
+        <p>T A = dictum ante</p>
+        <p>T P = dictum post</p>
+        <p>T Q = quaestionatio</p>
+        <p>T I = inscriptio</p>
+        <p>T R = rubric</p>
+        <p>T T = text, i.e. the piece of canon law being quoted</p>
+        <p>P = palea: 1 for yes, 0 for no</p>
+        <p>1 = the major division</p>
+        <p>2 = the number of the major division</p>
+        <p>3 = the number of the Quaestio, in the case of the Causae</p>
+        <p>4 = the number of the chapter</p>
+        <p>Any further queries regarding encoding can be addressed to T. Reuter at the MGH, email: A400101@DM0LRZ01.EARN</p>
+      </refsDecl>
+      <classDecl>
+        <taxonomy xml:id="OTASH">
+          <bibl>University of Oxford Text Archive Subject Headings</bibl>
+        </taxonomy>
+        <taxonomy xml:id="lcsh">
+          <bibl>Library of Congress Subject Headings</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date>[198-?]</date>
+      </creation>
+      <langUsage>
+        <language ident="lat">Latin</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="#OTASH">
+          <term type="genre">Legal formularies</term>
+        </keywords>
+        <keywords scheme="#lcsh">
+          <term type="topical">Canon Law</term>
+          <term type="genre">Legal formularies -- 12th century</term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="http://www.ota.ox.ac.uk/processing">
+          <term type="class">legacy</term>
+          <term type="license">Free for non-commercial use</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change><date>2000-09-14</date><label>Cataloguer</label><name>Webb, Anton</name>Header changed in accordance with ISBD(ER) guidelines and expanded. Validated in the TEI Lite DTD using XMetal 2.0
+      </change>
+      <change><date when="1998-01-14">14 Jan 1998</date><label>cvt (converter)</label><name>Burnard, Lou</name>Header auto-generated from TOMES
+      </change>
+      <change><date>1990-1991</date><label>edt (Editor)</label><name>Day, Michael</name>The following information was at the beginning of a MARC record used to to generate this TEI header, and may contain useful information:Bibliographic details for source text are taken from NUC pre-1956 imprints, (under: Catholic Church. Corpus juris canonici), and checked and revised with the edition in the Bodleian (Shelfmark K.6.173). Although Reuter used a copy of the 1879 Leipzig edition, a reprint of the text was published in 1955 by Akademische Druk-u Verlagsanstalt (Graz, Austria).
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="OTA-filemap" rend="visible" n="unrestricted">
+        <ab type="file">
+          <seg type="part">1</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="gratian1.699"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">2</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="gratian2.699"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">3</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="pp150199.699"/>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>
