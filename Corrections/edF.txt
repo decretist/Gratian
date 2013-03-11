@@ -686,7 +686,7 @@ colunt me, mandata et doctrinas hominum docentes."
 <T P> -Gratianus.+ Liquido igitur apparet, quod consuetudo naturali
 iuri postponitur.
 <1 D><S 16><L 6>
-<2 9> -DISTINCTIO IX+
+<2 9> -DISTINCTIO IX.+
 -GRATIANUS.+
 -I. Pars.+ <T A> Quod autem constitutio naturali iuri cedat
 multiplici auctoritate probatur.
@@ -2459,7 +2459,7 @@ omnium decessorum nostrorum, que de ecclesiasticis ordinibus
 et canonum promulgata sunt disciplinis, ita a uestra
 dilectione custodiri mandamus, ut si quis in illa commiserit,
 ueniam sibi deinceps nouerit denegari." -]+ <P 0>
-<S 60><L 1>
+<S 60><L 1> -60+
 <T T> Dicendo uero: "omnia decretalia constituta," nullum
 de decretalibus constitutis pretermisit, quod non mandauerit
 esse custodiendum. Et rursus asserendo: "omnium
@@ -5720,7 +5720,7 @@ indesinenter, ut uincat populus, qui sub ipso est, hostes inuisibiles
 Amalechitas, qui sunt demones inpugnantes eos,
 qui uolunt pie uiuere in Christo.
 <1 D><S 135><L 28>
-<2 37> -DISTINCTIO XXXVII+
+<2 37> -DISTINCTIO XXXVII.+
 -GRATIANUS.+
 -I. Pars.+ <T A> Sed queritur, an secularibus litteris oporteat eos
 esse eruditos? De his ita scribitur in Concilio Cartaginensi IV.:
@@ -6157,7 +6157,7 @@ salute animarum, uerum etiam de extrinseca utilitate et
 cautela sciat esse solicitus.
 <S 145><L 1> -145+
 <1 D><S 145><L 1>
-DISTINCTIO XL.
+<2 40> -DISTINCTIO XL.+
 -GRATIANUS.+
 -I. Pars.+ <T A> Oportet quoque episcopum esse ornatum et
 hospitalem. Ornamenta episcopalia uirtutes debent intelligi,
