@@ -39621,8 +39621,8 @@ uel ecclesiasticis expoliatis, aliis carcere et ergastulo reclusis, ad
 unitatem catholicae fidei coacti redierunt. -(Qu. I.)+ Hic primum
 queritur, an militare peccatum sit? -(Qu. II.)+ Secundo, quod
 bellum sit iustum, et quomodo a filiis Israel iusta bella gerebantur?
-+(Qu. III.)- Tertio, an iniuria sociorum armis sit propulsanda?
-+(Qu. IV.)- Quarto, an uindicta sit inferenda? -(Qu. V.)+
+-(Qu. III.)+ Tertio, an iniuria sociorum armis sit propulsanda?
+-(Qu. IV.)+ Quarto, an uindicta sit inferenda? -(Qu. V.)+
 Quinto, an sit peccatum iudici uel ministro reos occidere?
 -(Qu. VI.)+ Sexto, an mali sint cogendi ad bonum? -(Qu. VII.)+
 Septimo, an heretici suis et ecclesiae rebus sint expoliandi, et
