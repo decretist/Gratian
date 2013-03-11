@@ -53,8 +53,6 @@
 ** Any further queries may be addressed to T. Reuter at the MGH, e-
 ** mail A400101@DM0LRZ01.EARN
 */
-
-
 <1 D><S 1><L 1>
 -CONCORDIA
 DISCORDANTIUM CANONUM
@@ -2109,7 +2107,6 @@ sinodo statuta dicuntur, cum septuaginta capitula (ut Athanasius
 scribit) in ea statuta monstrentur? His ita respondetur: Capitula
 Nicenae sinodi quedam in desuetudinem abierunt:
 uiginti tantum in Romana ecclesia habentur.
-
 <S 50><L 1> -50+
 Unde Stephanus Papa scribit, dicens Luitberto
 Episcopo Maguntino:
@@ -4273,7 +4270,6 @@ fraude eius detecta, quod sibi futurum esset prenunciatum
 fuit? Ait enim: "Pecunia tua tecum sit in
 perditionem: cor enim tuum non est rectum coram Deo.
 Penitentiam itaque age ab hac nequitia tua, et roga
-
 <S 100><L 1> -100+
 Deum, si forte remittatur tibi hec cogitatio cordis
 tui: in felle enim amaritudinis et obligatione iniquitatis uideo
@@ -6189,7 +6185,6 @@ quid forte est utilitatis aut salutis, inquirere negligat. Qui
 enim rebelliter uiuit, et discere atque bona agere recusat,
 magis diaboli quam Christi membrum esse ostenditur, et
 potius infidelis quam fidelis monstratur.
-
 <1 D><S 144><L 31>
 <2 39> -DISTINCTIO XXXIX.+
 -GRATIANUS.+
@@ -10995,7 +10990,6 @@ Unde in Niceno Concilio: -[c. 6.]+
 uel tres contradicant, obtineat sentencia plurimorum.
 <T T> Sane, si communi omnium consensu rationabiliter probato
 secundum ecclesiasticam regulam, duo uel tres animositate
-
 <S 250><L 1> -250+
 ducti per contentionem contradicant, obtineat
 plurimorum sentencia sacerdotum.
@@ -13146,7 +13140,6 @@ et qui iniqua gerit benedicitur."
 <T I> Idem in Psalmo CII. -[ad uers. Faciens misericordias.]+
 <T T> Qui uenatoribus donant, quare donant? dicant mihi, quare
 dant uenatori? Hoc in illo amant, in quo nequissimus
-
 <S 300><L 1> -300+
 est hoc in illo pascunt, hoc in illo uestiunt, ipsam nequitiam
 publicam spectaculis omnium. Qui donant istrionibus
@@ -15326,7 +15319,6 @@ aliquo a patriarchis differant? quam obedientium archiepiscopi
 eis debeant? primates et patriarchae diuersorum sunt nominum,
 sed eiusdem offitii. Ab archiepiscopis, quotiens necesse fuerit,
 episcopi ad primates appellant, sed a primatibus ad archiepiscopos
-
 <S 350><L 1> -350+
 appellari non licet. Debent quoque obedientiam primatibus
 archiepiscopi in omnibus, que sibi ab eis fuerint iuste
@@ -17440,7 +17432,6 @@ crismatis nummos dari, similiter pro baptismo et
 communione. Hoc symoniacae heresis detestata
 est sancta sinodus et anathematizauit, et ut de cetero nec
 pro ordinatione, nec pro crismate, uel baptismo, uel balsamo
-
 <S 400><L 1> -400+
 nec pro sepultura, uel communione quicquam
 exigant statuit; sed gratis dona Christi gratuita
@@ -19806,7 +19797,6 @@ regimine episcopatus alienati indubitanter existunt.
 <T A> Quod autem expoliatus ante iudicem stare non possit, multis
 auctoritatibus probatur.
 Ait enim Iohannes papa: -[I. ad Zachariam Archiepisc.]+
-
 <S 450><L 1> -450+
 <4 1> -C. I.+ <T R> Ante litem contestatam possessori cuncta sunt
 restituenda.
@@ -22109,7 +22099,6 @@ offensae se confidat futurum inmunem, si in his, que salubriter
 sequenda deprompsit auctoritas apostolica, siue
 episcopum, siue presbiterum, seu diaconum uiderit
 excedentem, et non protinus ad aures Romani Pontificis
-
 <S 500><L 1> -500+
 deferre curauerit, probationibus dumtaxat conpetenter
 exhibitis, ut transgressoris ultio fiat ceteris
@@ -24323,7 +24312,6 @@ panis frangitur, ut iniustitiae seductus acquiescat.
 -@. 2.+ Et qui freneticum ligat, et qui lethargicum excitat,
 ambobus molestus ambos amat. -@. 3.+ Quis nos potest amplius
 amare quam Deus? Et tamen nos non solum docere
-
 <S 550><L 1> -550+
 suauiter, uerum etiam salubriter terrere non cessat. Fomentis
 lenibus, quibus consolatur, sepe etiam mordacissimum
@@ -26610,7 +26598,6 @@ suo discedere.
 <T T> Nonne directa sunt uerba canonum: "Qui clericorum
 ab episcopo suo ante tempus sententiae pro dubia
 suspicione discesserit, manifestam in eum manere censuram?"
-
 <S 600><L 1> -600+
 -@. 1.+ Lex enim ecclesiastica pontificem ab aliis
 accusatum prius, quam sub luce obiecta constiterint exigit
@@ -28715,7 +28702,6 @@ in aliquo uel ipsi scandalum patiamini, uel aliis scandalum
 faciatis: sed sit uobis summi studii summaeque cautelae,
 ne quis in hanc sanctorum congregationem pollutus
 introeat, ne quis Iebuseus habitet in uobis. Vides
-
 <S 650><L 1> -650+
 enim, quia dicit scriptura, quod non potuerunt eicere filii
 Iuda Iebuseos de Ierusalem. Iebuseus autem interpretatur
@@ -30987,7 +30973,6 @@ fuerit, irritum erit, et ultioni canonicae subiacebit.
 agente, de rebus eius nichil est usurpandum.
 <T I> Item ex Concilio Ylerdensi. -[c. 16.]+
 <T T> Hec huius placiti constitutione inter nos censura
-
 <S 700><L 1> -700+
 placuit custodiri, ut defuncto antistite, uel etiam adhuc
 in supremis agente, nullus clericorum, cuiuslibet ordinis
@@ -33327,7 +33312,6 @@ reus probatur. -@. 1.+ His ita respondetur: Non omnia,
 que ordinandum inpediunt, ordinatum deiciunt; non enim potest
 ad sacerdotium prouehi qui aliquando insaniuit. Verumtamen,
 si post sacerdotium furere ceperit, non ideo sacerdotio carebit,
-
 <S 750><L 1> -750+
 nisi forte numquam ad sanae mentis offitium illum redire contingat.
 Sicut de quodam episcopo Gregorius scribit in
@@ -35648,7 +35632,6 @@ presumant. Si quid tamen culpae extiterit, pro qualitate
 personarum uel regula precedentium canonum in persona
 habeatur, non in facultate districtum. -]+ <P 0>
 <T P> -Gratian.+ Si ergo delictum personae in dampnum ecclesiae
-
 <S 800><L 1> -800+
 conuerti non potest, quin procurator condicionem ecclesiae potest
 facere meliorem, non deteriorem; si peccato abbatis possessiones
@@ -37856,7 +37839,6 @@ inuitum, et sub hac occasione paterna seu materna hereditate
 a fratribus suis priuatum esse, atque contra omnem (ut
 dictum est) uoluntatem suam quasi regularem illum monachum
 permanere uoluit. Super qua re diligenti cura
-
 <S 850><L 1> -850+
 inuestigantes, etiam sub adiuratione patrem ipsius, si uerum
 diceret, interrogauimus; sed idem clericus Atto respondit,
@@ -37966,7 +37948,6 @@ scandalizentur. Causa etiam illorum statutum est hoc, qui regularem
 disciplinam subterfugientes peregrinationis uota sibi assumunt,
 quod nec monacho, nec alicui clerico licet, ne hac occasione
 ad secularem conuersationem redeat.
-
 <1 C><S 852><L 9>
 <T Q><2 21> -CAUSA XXI.+
 -GRATIANUS.+
@@ -40245,7 +40226,6 @@ inde, et inmundum ne tetigeritis." Quomodo ergo malos
 tollerabimus pro pace, a quibus exire et recedere iubemur,
 ne tangamus inmundum? Nos istam recessionem spiritualiter
 intelligimus: illi corporaliter. Nam et ego clamo cum
-
 <S 900><L 1> -900+
 Propheta; equalia sumus uasa, utitur nobis Deus in
 dispensatione uestra. Clamamus nos, et dicimus uobis,
@@ -42756,7 +42736,6 @@ Quicumque etenim ad bonum cogitur, solo timore, non amore
 ducitur: non sunt ergo mali cogendi ad bonum. -@. 5.+ His ita
 respondetur: Si bonum, ad quod mali coguntur, semper inuiti
 tollerarent, et numquam uoluntarii seruirent, inutiliter ad illud
-
 <S 950><L 1> -950+
 cogerentur. Sed quia humanae naturae est et ea, que in dissuetudinem
 ducuntur, abhorrere, et consueta magis diligere,
@@ -45105,7 +45084,6 @@ quam sodalitates euitet equaliter. Eorum
 conuenticula non ecclesia, sed conciliabula sunt appellanda.
 Cum eis neque orandum est, neque psallendum.
 -+
-
 <S 1000><L 1> -1000+
 <4 36> -C. XXXVI.+ <T R> Canonum obseruatores cum hereticis nullum
 debent inire certamen.
@@ -46099,7 +46077,6 @@ auctoritas uidetur esse seruanda, ut eorum subueniatur
 inopiae, non ut suarum diuitiarum augmento, et possessionum
 non modica extensione porrecta, baptismales seu parrochianae
 ecclesiae penitus destruantur.
-
 <1 C><S 1019><L 54>
 <T Q><2 26> -CAUSA XXVI.+
 -GRATIANUS.+
@@ -47452,7 +47429,6 @@ cum moniali mechatus fuerit.
 subdiaconus, aut lector, aut psalmista, aut hostiarius cum
 muliere sanctificata Deo mechatus fuerit, deponatur, quia
 sponsam Christi corrupit; si uero laicus, excommunicetur.
-
 <S 1050><L 1> -1050+
 <4 7> -C. VII.+ <T R> Viduae et puellae, que post religionis habitum
 nubunt, a conmunione suspendantur.
@@ -49802,7 +49778,6 @@ similiter oportet intellegi.
 <3 2> -QUESTIO II.+
 -GRATIANUS.+
 <T A> Sponsalia ante septennium contrahi non possunt. Solo enim
-
 <S 1100><L 1> -1100+
 consensu contrahuntur, qui interuenire non potest, nisi ab
 alterutra parte id intelligatur, quod inter eos agitur. Probantur
@@ -52158,7 +52133,6 @@ debitum uxori, et illa diffitetur, cui potius habenda sit fides, merito
 queritur.
 De his in Concilio apud Conpendium habito ita
 statutum est:
-
 <S 1150><L 1> -1150+
 <4 3> -C. III.+ <T R> In ueritate uiri consistat, si mulier negat
 se cognitam ab eo.
@@ -54557,7 +54531,6 @@ homini abstulisset pudicitiam, continentiam, suo dominio eum
 subiugauit."  <T I> Et paulo post:  <T T> -@. 1.+ "Adam amissa temperantia
 factus est intemperans; perdita karitate malus inuentus
 est."
-
 <S 1200><L 1> -1200+
 <4 33> -[C. XXXIII.]+ <T I> Item Ambrosius -[lib. VI. epist. 14.]+
 ad Sabinum.
@@ -57194,7 +57167,6 @@ nec nuptias liceat in Quadragesima celebrari.
 Pascae, et tribus ebdomadibus ante festiuitatem sancti Iohannis
 et ab Aduentu domini usque post Epiphaniam nuptias
 celebrare. Quod si factum fuerit, separentur.
-
 <S 1250><L 1> -1250+
 <4 11> -C. XI.+ <T R> De eodem.
 <T I> Item Nycolaus ad consulta Bulgarorum. -[c. 48.]+
@@ -59423,7 +59395,6 @@ dicitur, cum clausa usque biennium permansisset,
 placuit, ut in fide catholica (introductis illic B. Sebastiani
 et S. Agathae martiris reliquiis) dedicari debuisset,
 quod et factum est.
-
 <S 1300><L 1> -1300+
 <4 23> -C. XXIII.+ <T R> De eodem.
 <T T> Agapitus Papa uas catholicum, euangelii tuba, preco
@@ -61504,7 +61475,6 @@ spiritualem escam accipimus.
 Non ergo corporalis esca, sed spiritualis. Unde et Apostolus
 de tipo eius ait, quia patres nostri eandem
 escam spiritalem manducauerunt. Corpus enim Dei
-
 <S 1350><L 1> -1350+
 corpus est spirituale: corpus Christi corpus est diuini
 spiritus.
@@ -63587,7 +63557,6 @@ uero presente episcopo non signet infantes, nisi forte at
 episcopo fuerit illi preceptum. -@. 2.+ Nec liceat presbitero
 prius episcopo in baptisterium introire, sed cum
 episcopo, nisi forte aut absens fuerit, aut egrotus.
-
 <S 1400><L 1> -1400+
 <4 125> -C. CXXV.+ <T R> Qui baptizandi accipit offitium sine crismate
 proficisci non debet.

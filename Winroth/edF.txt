@@ -6061,7 +6061,6 @@ quid forte est utilitatis aut salutis, inquirere negligat. Qui
 enim rebelliter uiuit, et discere atque bona agere recusat,
 magis diaboli quam Christi membrum esse ostenditur, et
 potius infidelis quam fidelis monstratur.
-
 <1 D><S 144><L 31>
 <2 39> -DISTINCTIO XXXIX.+
 -GRATIANUS.+
@@ -37825,7 +37824,6 @@ scandalizentur. Causa etiam illorum statutum est hoc, qui regularem
 disciplinam subterfugientes peregrinationis uota sibi assumunt,
 quod nec monacho, nec alicui clerico licet, ne hac occasione
 ad secularem conuersationem redeat.
-
 <1 C><S 852><L 9>
 <T Q><2 21> -CAUSA XXI.+
 -GRATIANUS.+
@@ -45955,7 +45953,6 @@ auctoritas uidetur esse seruanda, ut eorum subueniatur
 inopiae, non ut suarum diuitiarum augmento, et possessionum
 non modica extensione porrecta, baptismales seu parrochianae
 ecclesiae penitus destruantur.
-
 <1 C><S 1019><L 54>
 <T Q><2 26> -CAUSA XXVI.+
 -GRATIANUS.+
