@@ -8265,7 +8265,6 @@ honoris falsas Deo penitencias offerunt, in pristini honoris
 gradum reparari minime poterunt.
 Sed obicitur illud Hormisdae Papae, qui scribit omnibus
 Episcopis per uniuersas prouincias:
-<1 D><S 190><L 13>
 <4 29> -C. XXIX.+ <T R> Diaconus aut presbiter in adulterio deprehensi
 reparari non possunt.
 <T T> Si quis diaconus aut presbiter post acceptam benedictionem
@@ -15547,7 +15546,6 @@ quam paterna pecunia est assecutus? -(Qu. VI.)+ Sexto, an illi,
 qui ab eo iam symoniaco ignoranter ordinati sunt, sint abiciendi,
 an non? -(Qu. VII.)+ Septimo, si renuncians suae heresi sit recipiendus
 in episcopali dignitate, uel non?
-<1 C><S 357><L 27>
 <3 1> -QUESTIO I.+
 -GRATIANUS.+
 -I. Pars.+ <T A> Quod autem spiritualia emere peccatum sit, probatur
@@ -16069,7 +16067,6 @@ fructus non producitur, maior etiam calamitas in futuro
 metuitur, de tam sinistro principio quis felix exitus
 speratur?
 Hinc Augustinus ait:
-<1 C><S 371><L 12>
 <4 29> -C. XXIX.+ <T R> Symoniacorum sacramenta effectu gratiae carent.
 <T T> Sicut eunuchus fuit, qui Ioseph conparauit, ita qui
 gratiam mercatur, uiuum semen non habet siccis genitalibus.
@@ -16490,7 +16487,6 @@ baptizatum, baptizetur et ordinetur iterum. -]+ <P 0>
 -Gratian.+ <T P> Quod autem cetera sacramenta ab hereticis ministrari
 non possint, testatur Ieronimus in Aggeo Propheta:
 -[cap. 2.]+
-<1 C><S 381><L 4>
 <4 61> -C. LXI.+ <T R> Non placent Deo que ab hereticis offeruntur.
 <T T> Sic populus iste hereticorum omnium est in conspectu
 meo, dicit Dominus, omne, quod fecerint, quod mihi
@@ -16850,7 +16846,6 @@ finem etiam euangelizaturum cum ceteris misit.
 <S 389><L 1> -389+
 Nam apostoli talem consuetudinem non habuerunt, ne
 habendam docuerunt.
-<1 C><S 389><L 3>
 <4 86> -C. LXXXVI.+ <T R> De eodem.
 <T I> Item Nicolaus papa Michaeli Inperatori. -[in epist. que
 incipit: "Proposueramus."]+
@@ -17241,7 +17236,6 @@ ostendit, subiungens: "Quicumque comederint ex eo,
 contaminabuntur, quia sibi ad iudicium sument."
 Hinc etiam Augustinus in libro II. contra epistolam Parmeniani:
 -[cap. 5.]+
-<1 C><S 396><L 51>
 <4 98> -C. XCVIII.+ <T R> Sacramenta quamuis obsint indigne tractantibus,
 prosunt tamen per eos digne sumentibus.
 <T T> Per Ysaiam dicit Dominus: "Facinorosus, qui
@@ -17726,7 +17720,6 @@ lege repetundarum extra ordinem puniuntur, et plerumque
 uel exilio puniuntur, uel etiam durius, prout admiserint.
 -@. 4.+ Hac lege dampnatus testimonium publice
 dare, aut iudex esse postulareue prohibetur.
-<1 C><S 407><L 14>
 <3 2> -QUESTIO II.+
 -GRATIANUS.+
 -I. Pars.+ <T A> Sequitur secunda questio, qua queritur, an pro
@@ -17934,7 +17927,6 @@ consequantur.
 <T P> -Gratian.+ Multorum auctoritatibus luce clarius constat,
 quod ab ingressuris monasterium non licet pecuniam exigere, ne
 et ille, qui exigit, et ille, qui soluit, symoniae crimen incurrat.
-<1 C><S 411><L 21>
 <3 3> -QUESTIO III.+
 -GRATIANUS.+
 <T A> Sed adhuc obicitur, qui ingressuri monasterium pecunias
@@ -18275,7 +18267,6 @@ perfruatur.
 <T P> -Gratian.+ De secunda questione et tertia quid sacri canones
 diffiniant, auctoritatibus hinc inde in medium deductis
 patefactum est.
-<1 C><S 418><L 26>
 <3 4> -QUESTIO IV.+
 -GRATIANUS.+
 -I. Pars.+ <T A> Nunc ergo de quarta questione est pertractandum,
@@ -18534,7 +18525,6 @@ rerum restituere conpellatur. -]+ <P 0>
 et illius, quod non oportuit eum scire. A reatu ergo criminis
 excusat eum ignorantia paterni delicti, quod etsi oportuisset
 eum scire, infirmitate tamen etatis deprehendere non poterat.
-<1 C><S 423><L 18>
 <3 5> -QUESTIO V.+
 -GRATIANUS.+
 -I. Pars.+ <T A> Quod uero quinto loco queritur, an liceat ei esse
@@ -18604,7 +18594,6 @@ offitio permaneat. Quod si fortasse ecclesiae utilitas
 exegerit, ut curam regiminis assumat, liceat ei ex concessione
 episcopi sui fratrumque obedientia sacerdotali offitio
 fungi.
-<1 C><S 424><L 36>
 <3 6> -QUESTIO VI.+
 -GRATIANUS.+
 <T A> Quid uero de his fieri debeat, qui ignoranter a symoniacis
@@ -18663,7 +18652,6 @@ reatum criminis pertinet cuius conscientiam non habuit, nec ad
 electionis uel ordinationis cassationem, ad quam alias non per
 prauam illorum cupiditatem peruenisse docetur.
 <S 426><L 1> -426+
-<1 C><S 426><L 1>
 <3 7> -QUESTIO VII.+
 -GRATIANUS.+
 -I. Pars.+ <T A> Nunc autem de septima tractandum est questione,
@@ -19225,7 +19213,6 @@ dandum ei, qui causa dilationis uocem appellationis exhibuerit?
 ordinum in accusatione maiorum sint audiendi? -(Qu. VIII.)+
 Octauo, quomodo fieri debeat accusatio, an in scriptis, an sine
 scripto?
-<1 C><S 438><L 32>
 <3 1> -QUESTIO I.+
 -GRATIANUS.+
 -I. Pars.+ <T A> Quod autem nullus sine iudiciario ordine dampnari
@@ -19736,7 +19723,6 @@ ad limina seu sedem confluens apostolicam referebat.
 Igitur decernente nobiscum sancta sinodo, in presentia
 depositi, et ab offitio sacerdotali excommunicati, atque a
 regimine episcopatus alienati indubitanter existunt.
-<1 C><S 449><L 36>
 <3 2> -QUESTIO II.+
 -GRATIANUS.+
 <T A> Quod autem expoliatus ante iudicem stare non possit, multis
@@ -19790,7 +19776,6 @@ episcopos recta sapientes, et in ecclesia conuenientes, ubi
 testes essent singulorum, qui oppressi uidebantur, nec
 prius eos respondere, quam omnia sua eis et ecclesiis
 eorum legibus integerrime restituantur.
-<1 C><S 451><L 8>
 <3 3> -QUESTIO III.+
 -GRATIANUS.+
 -I. Pars.+ <T A> Qua autem pena feriendi sint qui in accusatione
@@ -19957,7 +19942,6 @@ integrum prouinciae tuae," et adiecit: "Ut autem scias, quid sit
 in integrum restituere, honoribus et ordini tuo, et omnibus
 ceteris."
 <S 455><L 1> -455+
-<1 C><S 455><L 1>
 <3 5> -QUESTIO V.+
 -GRATIANUS.+
 -I. Pars.+ <T A> Deficientibus uero accusatoribus reus non uidetur
@@ -20393,7 +20377,6 @@ a liminibus ecclesiae extraneus habeatur.
 addiderunt, ex eorum exemplo intelligendum est; exemplo
 enim suae satisfactionis noluerunt prescribere ceteris legem
 purgandi.
-<1 C><S 465><L 21>
 <3 4> -QUESTIO IV.+
 -GRATIANUS.+
 -I. Pars.+ <T A> Quod uero quarto loco querebatur: An duorum
@@ -20450,7 +20433,6 @@ Dei repente prosiliunt. Quorum uero uita adeo laudabilis
 est, ut omnibus imitanda apareat, de quorum assertione nulla
 dubitatio nasci poterit, eorum testimonio duorum uel trium testium
 quilibet iure conuinci et dampnari poterit.
-<1 C><S 466><L 35>
 <3 6> -QUESTIO VI.+
 -GRATIANUS.+
 -I. Pars.+ <T A> Sequitur sexta questio, qua queritur: Quo remedio
@@ -20853,7 +20835,6 @@ aliis omnibus, que in appellationibus statuta sunt
 uel antiqua prosapia, uel ab auctoritate anteriorum
 constitutionum, uel a nostra humanitate, intactis illibatisque
 custodiendis.
-<1 C><S 475><L 36>
 <4 29> -[C. XXIX.]+
 <T I> Digestis titulo Quando appellandum sit, lege 1. -[@. Biduum]+
 <T T> Biduum uel triduum appellationis ex die sententiae
@@ -21212,7 +21193,6 @@ pronunciare, uel iustam. -@. 25.+ Hec omnia in VII. libro
 Codicis inuenies, a titulo de appellationibus et consultationibus
 usque ad titulum ne liceat in una eademque
 causa.
-<1 C><S 483><L 22>
 <3 7> -QUESTIO VII.+
 -GRATIANUS.+
 -I. Pars.+ <T A> Quod uero laici in accusatione episcoporum non
@@ -21721,7 +21701,6 @@ puritate uitae et sanctitate conuersationis intelligitur. Solus enim
 Petrus inter apostolos primatum gerebat.
 Hinc Augustinus ait ad Ieronimum: -[epist. XIX.
 prope finem]+
-<1 C><S 493><L 44>
 <4 34> -C. XXXIV.+ <T R> Non episcopi nomen, sed uita maiorem facit.
 <T T> Quamquam secundum uocabula, que usus
 obtinuit, episcopatus sit presbiterio maior, Augustinus
@@ -22175,7 +22154,6 @@ eundem gradum conscendere ualent." Cum ergo monachi ad
 sacerdotii gradum laudabiliter pertingere ualeant, patet, quod
 et ipsi sacerdotes libere accusare possunt.
 <S 503><L 1> -503+
-<1 C><S 503><L 1>
 <3 8> -QUESTIO VIII.+
 -GRATIANUS.+
 -I. Pars.+ <T A> De accusationibus uero, qualiter fieri debeat
@@ -22673,7 +22651,6 @@ recidit, crebro percussam.
 <T P> -Gratian.+ Unde datur intelligi, quod anathematizati intelligendi
 sunt non simpliciter a fraterna societate omnino separati,
 sed a corpore Christi (quod est ecclesia).
-<1 C><S 514><L 15>
 <3 5> -QUESTIO V.+
 -GRATIANUS.+
 <T A> Quod uero testes de domo accusatorum producendi non sint,
@@ -23106,7 +23083,6 @@ suus alibi aut longius ad iudicium pertrahendum.
 <T I> Item ex decreto Adriani Papae.
 <T T> Qui crimen obicit sciat se probaturum. Reuera
 ibi causa agatur ubi crimen admittitur.
-<1 C><S 524><L 18>
 <3 7> -QUESTIO VII.+
 -GRATIANUS.+
 -I. Pars.+ <T A> Quod iudex esse non possit quem cum reo par aut
@@ -23330,7 +23306,6 @@ uitam suam in melius commutare didicerint. Ac per hoc, dum
 ab ecclesia tollerati fuerint, eorum iudicium subterfugere
 non licet.
 <S 529><L 1> -529+
-<1 C><S 529><L 1>
 <3 8> -QUESTIO VIII.+
 -GRATIANUS.+
 <T A> Quod autem episcopus ab uno tantum audiri uel iudicari
@@ -25485,7 +25460,6 @@ siue diaconus, uel in quocumque ecclesiastico ordine positi
 fuerint, non debent suscipi in ecclesia, sed omni
 necessitate cogantur, ut redeant ad ecclesiam suam.
 Quod si permanserint, excommunicare eos oportet.
-<1 C><S 577><L 6>
 <4 24> -C. XXIV.+ <T R> De eodem.
 <T I> Item ex Concilio Antioceno. -[c. 3.]+
 <T T> Si quis presbiter, uel diaconus, uel quilibet clericus, deserta
@@ -28179,7 +28153,6 @@ eligant. Nam si sua unicuique episcopo iurisdictio non
 seruatur, quid aliud agitur, nisi ut per nos, per quos ecclesiasticus
 ille ordo custodiri debuit, confundatur? et
 cetera.
-<1 C><S 638><L 9>
 <4 40> -C. XL.+ <T R> A laicis iudicibus clerici non sunt obprimendi.
 <T I> Idem Ianuario Episcopo Karalitano. -[lib. III. epist. 26.]+
 <T T> Fratris et coepiscopi nostri Felicis, et Quiriaci abbatis
@@ -28683,7 +28656,6 @@ audire contempnant, taceat in illo tempore, ne det sanctum
 canibus, et mittat margaritas ante porcos, qui conuersi
 conculcent eas; et imitetur Ieremiam dicentem:
 "Solus sedebam, quia amaritudine repletus sum."
-<1 C><S 650><L 36>
 <4 24> -C. XXIV.+ <T R> Cum pagano comedere, sed cum excommunicato
 minime licet.
 <T I> Item Iohannes Crisostomus, in epistola ad Ebreos.
@@ -29190,7 +29162,6 @@ a iustitiae confessione recedunt. Acceptio nummorum
 preuaricatio ueritatis est. Unde et pro iusto
 dicitur: "Qui excutit manus suas ab omni munere, iste
 in excelsis habitabit."
-<1 C><S 662><L 7>
 <4 67> -C. LXVII.+ <T R> In prepositorum operibus totum sibi ratio
 uendicet.
 <T I> Idem Mauricio inperatori.
@@ -30311,7 +30282,6 @@ Necesse est ergo, ut eorum consequantur uitam, quorum in ecclesia
 gradum administrant. Non ergo aliquid propriam sibi
 uendicabunt, sed erunt eis omnia communia.
 Item Urbanus Papa ait: -[in epistola unica, c. 2.]+
-<1 C><S 686><L 14>
 <4 26> -C. XXVI.+ <T R> Res ecclesiae quasi communes episcopus
 dispenset.
 <T T> Res ecclesiae non quasi propriae, sed ut communes
@@ -30799,7 +30769,6 @@ patrem uestrum, qui in celis est," oportet etiam presenti
 testificatione predicari, et bonae famae preconiis non taceri.
 Quapropter nec clericorum quispiam etc.
 <S 697><L 1> -697+
-<1 C><S 697><L 1>
 <4 28> -C. XXVIII.+ <T R> Oblationum et reddituum ecclesiarum
 tres portiones presbitero dispensandae credantur.
 <T I> Item Simplicius papa Florentio, et Equitio
@@ -31297,7 +31266,6 @@ suam obsequium ei uel obedientiam prebeant.
 <T P> -Gratian.+ Pro remuneratione etiam inpensi obsequii res ecclesiasticae
 utiliter possunt donari.
 Unde in IV. Concilio Tolletano -[c. 36.]+ legitur:
-<1 C><S 708><L 28>
 <4 66> -C. LXVI.+ <T R> Que de rebus ecclesiae in remuneratione obsequii
 prestantur rata permanebunt.
 <T T> Quicumque suffragio cuiuslibet aliquid ecclesiasticae
@@ -32085,7 +32053,6 @@ nec credentes iudicium Dei habendi sunt.
 Unde et quidam Patrum hoc scriptis suis inseruit, congruente
 sententia, qua ait: "Amico quippiam rapere furtum
 est, ecclesiae uero fraudare sacrilegium est."
-<1 C><S 724><L 21>
 <4 11> -C. XI.+ <T R> Qui oblata ecclesiis aut testamento relicta retinere
 presumpserint excommunicentur.
 <T I> Item ex Concilio Agatensi. -[c. 4.]+
@@ -33358,7 +33325,6 @@ symoniae subire non prohibetur.
 Unde in primo Codicis libro Inp. Leo Augustus Armasio,
 Prefecto Pretorii:
 <S 752><L 1> -752+
-<1 C><S 752><L 1>
 <4 4> -C. IV.+ <T R> Lesae maiestatis, et publicorum iudiciorum, et
 symoniae accusatio equaliter proponatur.
 <T T> Sane quisquis hanc sanctam et uenerandam antistitis
@@ -34210,7 +34176,6 @@ nisi forte cum abbatis inperio. Similiter, ut nullus eorum,
 id est monachorum, forensis negocii susceptor uel executor
 existat, nisi id quod monasterii exposcit utilitas,
 abbate sibi nichilominus inperante.
-<1 C><S 770><L 22>
 <4 36> -C. XXXVI.+ <T R> Ad clericatus miliciam non eligantur desertores
 monasteriorum.
 <T I> Item Augustinus ad Aurelium. -[ep. LXXVI.]+
@@ -34655,7 +34620,6 @@ eos corrigatis expetimus.
 <T P> -Gratian.+ Cum autem reprehenduntur, quia contempta
 episcopi dispositione hoc faciunt, intelligitur, quod, si episcopo
 disponente hoc fecerint, inreprehensibiles inueniantur.
-<1 C><S 779><L 22>
 <4 57> -C. LVII.+ <T R> Anathema sit qui preter conscientiam episcopi
 decimas uel oblationes dispensare uoluerit.
 <T I> Item Simacus Episcopus Ecclesiae catholicae urbis Romae
@@ -35143,7 +35107,6 @@ possunt. Aliae uero, que non sunt certis limitibus distinctae, et
 de quibus certa diffinitio non olim processit, prescriptione tolluntur.
 -+
 Unde Innocentius Papa ait:
-<1 C><S 790><L 26>
 <4 6> -C. VI.+ <T R> Limitis possessio prescribi non potest.
 <T T> Inter memoratos fratres nostros, Fulgentium Astigitanum
 et Honorium Cordubensem episcopos, discussio
@@ -35619,7 +35582,6 @@ sacerdotes habeant, alii uero detrimentum patiantur, sed
 sicut una est fides catholica, ita necesse est, ut ille, qui prouisor
 est loci, quamuis multae sint ecclesiae, omnibus tamen
 fideliter distribuat.
-<1 C><S 800><L 42>
 <P 1> -PALEA.+
 <4 2> -C. II.+ <T R> De eodem.
 <T I> Unde Urbanus II.:
@@ -36467,7 +36429,6 @@ Deo dicata, et ecclesias infringunt, et deposita uel alia
 quelibet exinde abstrahunt, dampnum nouies conponant,
 et emunitatem tripliciter, et uelut sacrilegi canonicae sententiae
 subigantur.
-<1 C><S 820><L 39>
 <4 22> -C. XXII.+ <T R> Nisi canonice iudicatum episcopum conprehendens
 laicus, excommunicetur.
 <T I> Item Alexander II.
@@ -38750,7 +38711,6 @@ ita peccat, qui consulendi, quomodo ille, qui nocendi
 uoluntate mentitur, nec tantum nocet qui uiatorem mentiendo
 in aduersum iter mittit, quantum is, qui uiam uitae
 mendacio fallente deprauat.
-<1 C><S 871><L 10>
 <4 13> -C. XIII.+ <T R> Non est aliquo modo decipiendus quilibet.
 <T I> Item Augustinus in libro de conflictu uiciorum atque
 uirtutum. -[c. 19.]+
@@ -39246,7 +39206,6 @@ occurrerunt eis, quibus iurauerant seniores Israel. Illi autem
 uidentes se esse deceptos, uoluerunt delere eos, sed pepercit eis
 Iosue propter iuramentum seniorum Israel.
 Unde Ambrosius in libro de Offitiis: -[III., c. 10.]+
-<1 C><S 881><L 37>
 <4 23> -C. XXIII.+ <T R> Quedam, licet a Deo prohibeantur, tamen
 iuramento firmata non sunt euitanda.
 <T T> "Innocens credit omni uerbo." Non uituperanda
@@ -40030,7 +39989,6 @@ mercenarius uocatur qui uidet lupum uenientem, et dimittit oues,
 et fugit. -@. 2.+ Hinc etiam ecclesia auxilium ab inperatore ad
 sui defensionem petere monetur.
 Unde Augustinus ad Bonifatium ait: -[epist. L.]+
-<1 C><S 896><L 53>
 <4 2> -C. II.+ <T R> Ab inperatore ecclesia auxilium postulare debet.
 <T T> Maximianus episcopus Vagiensis auxilium petiuit ab
 inperatore Christiano contra hostes ecclesiae, non tam sui
@@ -40403,7 +40361,6 @@ iterum in timore, sed accepistis spiritum adoptionis filiorum, in
 quo clamamus: Abba pater." -@. 2.+ Hinc etiam Gregorius
 ait in expositione euangelii: "Simile factum est regnum celorum
 homini regi, qui fecit nuptias filio suo."
-<1 C><S 904><L 29>
 <4 16> -C. XVI.+ <T R> In lege cuique permittebatur diligere amicum,
 et odire inimicum.
 <T T> Cum in lege scriptum sit: "Diliges amicum tuum, et
@@ -40761,7 +40718,6 @@ uellent consumere, prohibiti sunt, et Samaritani ad penitenciam
 sunt expectati, ut Christo predicante conuerterentur ad fidem.
 Unde Ambrosius ait: -[lib. VII. commentariorum ad c. 9.
 Lucae u. 54.]+
-<1 C><S 911><L 26>
 <4 26> -C. XXVI.+ <T R> Non semper est in eos, qui peccant, uindicta
 exercenda.
 <T T> Quod Christus discipulos increpauit, quia ignem
@@ -41185,7 +41141,6 @@ de his, qui primi uenerant, dictum est: introduc
 eos; nunc dictum est: conpelle. Ita significata sunt ecclesiae
 primordia adhuc crescentis, ut essent uires etiam
 conpellendi.
-<1 C><S 919><L 42>
 <4 39> -C. XXXIX.+ <T R> Heretici utiliter patiuntur que utiliter
 catholici inferunt.
 <T I> Idem super Iohannem. -[tractatu XI. ad c. 3.]+
@@ -41628,7 +41583,6 @@ odium exerceatur, sed ut prauitas corrigatur. Sed cum
 uindicta aliquando inferatur dampnis rerum, aliquando flagellis,
 aliquando etiam morte: queritur, an sit peccatum iudici uel ministro
 reos morti tradere?
-<1 C><S 928><L 32>
 <3 5> -QUESTIO V.+
 -GRATIANUS.+
 -I. Pars.+ <T A> Quod autem nulli liceat aliquem occidere, illo
@@ -42105,7 +42059,6 @@ diligenti studio corrigant. Quod si Dei timorem pre oculis
 non habentes negligere post secundam et tertiam ammonitionem
 inuenti fuerint, omni communione usque ad condignam
 se nouerint satisfactionem priuatos.
-<1 C><S 938><L 36>
 <4 27> -C. XXVII.+ <T R> Contrariae fortitudines non solum homines sunt
 sed ultrices irae Dei.
 <T I> Item Ieronimus super Iohel. -[ad c. 2.]+
@@ -42546,7 +42499,6 @@ circumcellionibus supplicans rogabat, ut uerberibus eos coherceret,
 non morte perderet. Quamuis enim supplicando spatium
 uitae eis reseruari poposcit, non tamen legum seueritatem,
 qua tales morte plectuntur, non obseruandam docuit.
-<1 C><S 947><L 21>
 <3 6> -QUESTIO VI.+
 -GRATIANUS.+
 <T A> Quod autem queritur, an mali sint cogendi ad bonum? facile
@@ -42965,7 +42917,6 @@ dicuntur, nisi eos conpescueris, innoxius non habeberis.
 <S 956><L 1> -956+
 Scriptum quippe est: "Qui crimina, que potest emendare,
 non corrigit, ipse conmittit."
-<1 C><S 956><L 3>
 <4 13> -C. XIII.+ <T R> Crimina pro Deo punire non est crudelitas
 sed pietas.
 <T I> Item Ieronimus ad Riparium. -[contra Vigilantium]+
@@ -44029,7 +43980,6 @@ manus inponitur, ut hic accipiatur quod illic non est,
 nec dari potest: manifestum est, nec remissionem peccatorum
 per eos dari posse, quos constat Spiritum sanctum
 non habere.
-<1 C><S 978><L 38>
 <4 32> -C. XXXII.+ <T R> Proprio spolientur honore qui contra pacem
 ecclesiae nituntur.
 <T I> Item Liberius Papa. -[in ep. ad Athanasium]+
@@ -44468,7 +44418,6 @@ sed et Romana sancta ecclesia quosdam episcopos
 etiam post mortem anathematizauit, licet pro fide in
 uita sua non essent accusati, et utrumque apud nos gesta
 habita significant.
-<1 C><S 987><L 45>
 <3 3> -QUESTIO III.+
 -GRATIANUS.+
 -I. Pars.+ <T A> Quod autem pro peccato alicuius tota familia
@@ -44920,7 +44869,6 @@ uidendum est, quid intersit inter scisma et heresim, et qui sint
 heretici, et quot sint hereticorum sectae?
 Differentiam autem inter scisma et heresim Ieronimus in
 epistola ad Galathas assignat, dicens:
-<1 C><S 997><L 33>
 <4 26> -C. XXVI.+ <T R> Scismatis et heresis differentia.
 <T T> Inter heresim et scisma hoc esse arbitror, quod
 heresis peruersum dogma habeat, scisma post episcopalem
@@ -45680,7 +45628,6 @@ credita est, et ad nostrum reatum tendit, si paternarum
 regulae sanctionum nobis consentientibus uel negligentibus
 uiolentur.
 <S 1013><L 1> -1013+
-<1 C><S 1013><L 1>
 <4 3> -C. III.+ <T R> Priuilegio suae dignitatis aliquis ecclesiam
 exuere non debet.
 <T I> Item Gregorius Augustino, Anglorum Episcopo.
@@ -46839,7 +46786,6 @@ est, quando de peccatis occultis penitentes uel in extremis agentes
 ad gratiam reconciliationis accedunt. Hec reconciliatio potest
 fieri per sacerdotem.
 Unde Euaristus Papa ait:
-<1 C><S 1037><L 13>
 <4 4> -C. IV.+ <T R> Iussione episcopi presbiteri de occultis peccatis
 penitentes reconcilient.
 <T T> Presbiteri de occultis peccatis iussione episcopi
@@ -47558,7 +47504,6 @@ qualitate cognoscat. -@. 3.+ In his autem omnibus ita cautum
 stude te uigilantemque ostendere, ut culpam tuam non
 geminare neglectu, sed aliquantisper ualeas sollicitudine
 minuere.
-<1 C><S 1054><L 26>
 <4 19> -C. XIX.+ <T R> Districtae custodiae tradatur que a religionis
 proposito ad secularem habitum rediit.
 <T I> Idem Sergio Defensori. -[lib. VII. Indict. 1. ep. 10.]+
@@ -47877,7 +47822,6 @@ exegerat offerendum? Cum enim quisque non reddit quod
 non inperio conpulsus, sed consilio conmonitus uouit, tanto
 magis fraudati uoti auget iniquitatem, quanto minus habuit
 uouendi necessitatem.
-<1 C><S 1061><L 40>
 <4 42> -C. XLII.+ <T R> De uiduis, que primam fidem irritam
 fecerunt.
 <T I> Item Gelasius. -[in epistola ad Episcopos Lucaniae
@@ -48248,7 +48192,6 @@ fornicationis causa, uirum uxorem dimittere nulla
 ratio concedit, quia post, quam copulatione coniugii
 uiri atque mulieris unum corpus efficitur, non potest ex
 parte conuerti, et ex parte remanere in seculo.
-<1 C><S 1069><L 20>
 <4 22> -C. XXII.+ <T R> Sine uxoris consensu religionis propositum uir
 sumere non ualet.
 <T I> Item ex VIII. Sinodo.
@@ -50862,7 +50805,6 @@ auctor si ipsa de nuptiis suis electionem sibi uendicet.
 Expetita magis debet uideri a uiro, quam ipsa uirum
 expetisse. Verecundiam premittat ante, quam nubat, quo ipsum
 coniugium plus conmendet uerecundia."
-<1 C><S 1124><L 22>
 <4 14> -[C. XIV.]+
 <T I> Item in libro Numerorum. -[c. XXX. u. 4. seqq.]+
 <T T> "Mulier, si quippiam uouerit, et se constrinxerit iuramento,
@@ -51208,7 +51150,6 @@ in hoc loco ceteras extraordinarias uoluptates, ipsarum quoque
 opera nuptiarum, si non uerecunde et cum honestate
 quasi sub oculis Dei fiant, ut tantum liberis seruiatur
 immunditiam et luxuriam nominauit.
-<1 C><S 1131><L 17>
 <4 13> -C. XIII.+ <T R> Inmoderatus usus mulierum Salomonem ad
 idolatriam traxit.
 <T I> Item Gregorius. -[in Moralibus lib. XII. c. 12.]+
@@ -51505,7 +51446,6 @@ alterius, et se non totum putat. Tu iugalem repudias
 tuum, et sepe mutandum putas? muta et si uno
 defecerit die, superduc riualem, et statim, incognita
 causa, quasi cognitam pudoris exequeris iniuriam?
-<1 C><S 1137><L 34>
 <4 18> -C. XVIII.+ <T R> Similiter de uxore intelligitur.
 <T I> Item Augustinus. -[de sermone Domini in monte,
 lib. I. c. 32.]+
@@ -53008,7 +52948,6 @@ esse nimis iustus.' Debet enim iusticiam temperare moderatio.
 Nam quemadmodum tibi curandus prebeatur,
 quem fastidio habeas? qui contemptui se, non conpassioni
 medico suo putet futurum?"
-<1 DP><S 1169><L 45>
 <4 48> -[C. XLVIII.]+ <T I> Idem.
 <T T> "Libenter ignosco, prompte indulgeo, misericordiam
 <S 1170><L 1> -1170+
@@ -53507,7 +53446,6 @@ Saul? Et ego abieci eum.' In cinere igitur et sacco
 postulat inpleri quod promiserat Deus, non quod esset incredulus
 futurorum, sed ne securitas negligentiam, et negligentia
 preparet offensam."
-<1 DP><S 1180><L 16>
 <4 76> -C. LXXVI.+ <T R> Operibus misericordiae non Deum emimus,
 sed nosmetipsos redimimus.
 <T I> Item Ambrosius in sermone in Dominica de
@@ -54616,7 +54554,6 @@ eum." Verum hec auctoritas Apostoli quantum illi sentenciae
 faueat, atque illa erroris secta quam ueritati sit aduersa,
 Ieronimus ostendit, scribens contra Iouinianum: -[lib. II. in
 principio]+
-<1 DP><S 1202><L 31>
 <4 40> -[C. XL.]+
 <T T> "Si enim, 'omnis,' inquit, 'qui natus est ex Deo, non peccat,
 et a diabolo temptari non potest:' quomodo precipit, ut caueant,
@@ -55634,7 +55571,6 @@ offensio) oportet, ut cottidiana sit remissio? Cur docuisset
 orantes dicere: 'Dimitte nobis debita nostra,' nisi ipse
 misericors perseueraret, qui nos ab hac petitione non uult
 deficere?"
-<1 DP><S 1221><L 5>
 <4 33> -[C. XXXIII.]+ <T I> Item Augustinus ad Macedonium.
 -[epist. LIV.]+
 <T T> "In tantum autem hominum iniquitas aliquando progreditur,
@@ -57004,7 +56940,6 @@ si semper uiueret, semper peccaret. At Dei est miserentis,
 quod operatur finem peccanti; ob hoc etiam sine fine torquetur,
 quia numquam uirtute ditatur; semper plenus
 iniquitate, semper sine karitate, torquetur sine fine."
-<1 C><S 1247><L 17>
 <2 33> <3 4> -QUESTIO IV.+
 -GRATIANUS.+
 -I. Pars.+ <T A> Quod autem orationis tempore coniugali operi
@@ -58010,7 +57945,6 @@ Papa alibi ait: "Relictam consanguineorum uxoris suae,"
 Pascalis uero II., scribens Regino Episcopo,
 tertium genus affinitatis assignat, cuius copula non ultra secundum
 gradum inuenitur prohibita. Ait enim:
-<1 C><S 1270><L 23>
 <4 22> -C. XXII.+ <T R> Duorum consobrinorum coniuges uni et
 eidem nubere non possunt.
 <T T> Porro duorum consobrinorum coniuges, quamuis diuersis
@@ -58409,7 +58343,6 @@ et iuramento probare noluerint, uel nequiuerint,
 coniugium nullatenus dissoluatur; sed conpetens eis penitencia
 propter infamiam uel peccati maculam (si forte in
 hoc contraxerint aliquam) iniungatur.
-<1 C><S 1278><L 27>
 <4 4> -C. IV.+ <T R> Suae confessioni relinquitur quorum incestum
 nullus iurando affirmat.
 <T I> Item ex Concilio Urbani Papae habitu in Apulia.
@@ -59486,7 +59419,6 @@ ecclesiae dedicatae.
 ad aliud opus iungi, nisi ad aliam ecclesiam, uel igni
 conburenda, uel ad profectum in monasterio fratribus;
 in laicorum opera non debent admitti.
-<1 DC><S 1303><L 27>
 <4 39> -C. XXXIX.+ <T R> Vestimenta sacra et uasa pre uetustate
 consumpta incendantur, et cineres eorum in loca
 occulta proiciantur.
@@ -60463,7 +60395,6 @@ bibat, de hoc seculo migrauerit in unitate
 corporis Christi constitutus. Sacramenti quippe illius
 participatione ac beneficio non priuatur, quando in se
 hoc, quod illud sacramentum significat, inuenitur.
-<1 DC><S 1327><L 4>
 <4 37> -C. XXXVII.+ <T R> Dum hostia frangitur, passio Christi ad
 memoriam reuocatur.
 <T I> Idem in libro sentenciarum Prosperi.
@@ -60941,7 +60872,6 @@ quia ad salutem non accipit, nichil accipit. Corpus
 enim et sanguis Domini nichilominus erat in
 illis, quibus dicebat Apostolus: "Qui manducat indigne,
 iudicium sibi manducat et bibit."
-<1 DC><S 1339><L 7>
 <4 69> -C. LXIX.+ <T R> Quibus exemplis preter naturam substantia panis
 et uini in corpus et sanguinem Christi conuerti probetur.
 <T I> Item Ambrosius de sacramentis.
@@ -62500,7 +62430,6 @@ nescire se profitentur, quolibet modo formam baptismatis
 acceperunt rebaptizandi non sunt; sed per inpositionem
 manus uirtute Spiritus sancti, quam ab hereticis
 accipere non potuerunt, catholicis copulandi sunt.
-<1 DC><S 1375><L 32>
 <4 39> -C. XXXIX.+ <T R> Et per bonos et per malos ministros eque
 baptizat Christus.
 <T I> Item Augustinus super Iohannem. -[tract. V. ad c. 1.]+
@@ -63044,7 +62973,6 @@ exprimit sepulturae, per quam Christo consepulti estis
 in baptismo, et cum Christo resurrexistis in fide, ut peccatis
 absoluti in sanctitate uirtutum Christum uiuatis
 imitando.
-<1 DC><S 1388><L 21>
 <4 79> -C. LXXIX.+ <T R> De his, qui semel, non tertio in baptismate
 merguntur.
 <T I> Item ex Canonibus Apostolorum. -[c. 50.]+
@@ -63595,7 +63523,6 @@ salutarem atque ad baptismi sanctificationem uenitur,
 scire debemus et fidere, quia illic diabolus opprimitur, et
 homo Deo dicatus diuina indulgentia liberatur.
 <S 1402><L 1> -1402+
-<1 DC><S 1402><L 1>
 <4 128> -C. CXXVIII.+ <T R> De his, qui usque ad exitum uitae
 suscipere baptisma differunt.
 <T I> Item Iohannes Crisostomus in epistola ad Ebreos.
