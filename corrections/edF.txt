@@ -23967,7 +23967,7 @@ etc.  <T I> ut supra eisdem uerbis.
 <1 C><S 544><L 5>
 <T Q><2 5> -CAUSA V.+
 -GRATIANUS.+
-<T A> In infamiam cuiusdam episcopi cartula accusationis occulte
+In infamiam cuiusdam episcopi cartula accusationis occulte
 conscribitur; tandem accusator procedit in publicum. Episcopus
 semel litteris euocatus, causae suae die statuta adesse non
 ualens, per procuratorem iudici se representauit; absque sinodali
@@ -24380,7 +24380,7 @@ nisi digne penituerit, coherceatur.
 <1 C><S 553><L 16>
 <T Q><2 6> -CAUSA VI.+
 -GRATIANUS.+
-<T A> Duo fornicatores et infamia notati quendam religiosum episcopum
+Duo fornicatores et infamia notati quendam religiosum episcopum
 de symonia accusare nituntur; reus alterius prouinciae
 archiepiscopi iudicium expetit; tandem in probatione deficit accusator;
 reus cogitur ad innocentiae suae assertionem. -(Qu. I.)+
