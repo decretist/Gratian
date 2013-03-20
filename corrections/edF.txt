@@ -15522,7 +15522,7 @@ consecratis, et de ordinationibus, que per pecuniam fiunt,
 contineat.
 <S 357><L 1> -357+
 <1 C><S 357><L 3>
-<T Q><2 1> -CAUSA I.+
+<2 1><T Q> -CAUSA I.+
 -GRATIANUS.+
 Quidam habens filium obtulit eum ditissimo cenobio: exactus
 ab abbate et a fratribus decem libras soluit, ut filius susciperetur,
@@ -19194,7 +19194,7 @@ pateat quod dicturi sumus, exemplum ponatur sub oculis, in quo
 auctoritates hinc inde controuersantes distinguantur, et quid
 sanctorum patrum sentiat auctoritas liquido intimetur.
 <1 C><S 438><L 13>
-<T Q><2 2> -CAUSA II.+
+<2 2><T Q> -CAUSA II.+
 -GRATIANUS.+
 Quidam episcopus de lapsu carnis a laico inpetitur; duo monachi,
 unus subdiaconus, et duo Leuitae aduersus ipsum testimonium
@@ -22223,7 +22223,7 @@ de ui, et senatusconsulto cautum est, ita ut liceat alii ex integro
 repetere reum. Sed intra quod tempus, uidebimus; et utique
 XXX. dies utiles obseruandi sunt."
 <1 C><S 504><L 31>
-<T Q><2 3> -CAUSA III.+
+<2 3><T Q> -CAUSA III.+
 -GRATIANUS.+
 Quidam episcopus a propria sede deiectus est, petit restitui;
 post restitutionem ducitur in causam, inducias postulat, tandem
@@ -23629,7 +23629,7 @@ audiri. Maiestatis autem crimen excipimus." Similiter: -@. 4.+
 eodem quo serui suplicio tenebuntur, luituri penas ante
 prohibitae delationis exordium."
 <1 C><S 536><L 20>
-<T Q><2 4> -CAUSA IV.+
+<2 4><T Q> -CAUSA IV.+
 -GRATIANUS.+
 Quidam in excommunicatione constitutus episcopum accusare
 disponit; adolescentem infra decimum et quartum etatis suae
@@ -23965,7 +23965,7 @@ uoluerint.
 <T T> Quod si accusatorum personae in iudicio episcoporum
 etc.  <T I> ut supra eisdem uerbis.
 <1 C><S 544><L 5>
-<T Q><2 5> -CAUSA V.+
+<2 5><T Q> -CAUSA V.+
 -GRATIANUS.+
 In infamiam cuiusdam episcopi cartula accusationis occulte
 conscribitur; tandem accusator procedit in publicum. Episcopus
@@ -24378,7 +24378,7 @@ aut clericum fatigare presumpserit et conuictus fuerit,
 ab ecclesiae liminibus et catholicorum communione,
 nisi digne penituerit, coherceatur.
 <1 C><S 553><L 16>
-<T Q><2 6> -CAUSA VI.+
+<2 6><T Q> -CAUSA VI.+
 -GRATIANUS.+
 Duo fornicatores et infamia notati quendam religiosum episcopum
 de symonia accusare nituntur; reus alterius prouinciae
@@ -24950,7 +24950,7 @@ fama non uexat. Tunc enim auctoritate eiusdem Gregorii
 propter scandalum remouendum, famam suam reum purgare
 oportet.
 <1 C><S 566><L 6>
-<T Q><2 7> -CAUSA VII.+
+<2 7><T Q> -CAUSA VII.+
 -GRATIANUS.+
 Quidam longa inualetudinem grauatus episcopus alium sibi
 substitui rogauit, cuius precibus summus Pontifex annuit, et quod
@@ -26004,7 +26004,7 @@ pontifici, ut eum uel triginta diebus tecum esse constituas,
 eumque carnibus indifferenter uti necessaria probatione
 conpellas.
 <1 C><S 589><L 28>
-<T Q><2 8> -CAUSA VIII.+
+<2 8><T Q> -CAUSA VIII.+
 -GRATIANUS.+
 In extremis agens quidam episcopus successorem sibi ex
 testamento instituit; inde suorum amicorum patrocinio in eundem
@@ -26544,7 +26544,7 @@ omnibus peruersitatibus semper liberi. Unde culpantur
 hii, qui circa fratres aliter egerint, quam huius sedis rectoribus
 placere cognouerint.
 <1 C><S 600><L 26>
-<T Q><2 9> -CAUSA IX.+
+<2 9><T Q> -CAUSA IX.+
 -GRATIANUS.+
 Sententia excommunicationis notatus quidam archiepiscopus
 aliquot clericos alterius metropolitani ordinauit; quendam capellanum
@@ -27058,7 +27058,7 @@ uidit paratum ad corrigenda uicia subditorum, sine eius auctoritate
 illos corrigere noluit, sed illum tantum de eorum correctione
 admonuit.
 <1 C><S 612><L 35>
-<T Q><2 10> -CAUSA X.+
+<2 10><T Q> -CAUSA X.+
 -GRATIANUS.+
 Quidam laicus basilicam a se factam a diocesiana lege segregare
 querit; episcopus ecclesiam cum omni dote sua ad suam
@@ -27648,7 +27648,7 @@ ad consignationem uenienti susceptionis parare
 conuiuium, quia nec eo pretextu pauperibus incuti dampna
 uolumus aut qualibet ratione permittimus.
 <1 C><S 626><L 28>
-<T Q><2 11> -CAUSA XI.+
+<2 11><T Q> -CAUSA XI.+
 -GRATIANUS.+
 Clericus aduersus clericum questionem de prediis agitauit,
 quem ad ciuilem iudicem producere uoluit reus non nisi ante
@@ -29785,7 +29785,7 @@ Eos uero, qui aut spontanee, aut negligenter
 inciderint, sub ea uolumus disciplinae cohercione
 suscipi, ut ceteris metus incutiatur.
 <1 C><S 675><L 27>
-<T Q><2 12> -CAUSA XII.+
+<2 12><T Q> -CAUSA XII.+
 -GRATIANUS.+
 Quidam clerici propria relinquere uolunt; de suis et ecclesiae
 rebus testamenta conficiunt; de rebus ecclesiae nonnulla largiuntur.
@@ -31677,7 +31677,7 @@ sine cognatione decesserit, hereditas eius ad ecclesiam,
 ubi deseruiuit, euoluatur. Similiter de sanctimonialibus.
 -+
 <1 C><S 717><L 16>
-<T Q><2 13> -CAUSA XIII.+
+<2 13><T Q> -CAUSA XIII.+
 -GRATIANUS.+
 Diocesiani cuiusdam baptismalis ecclesiae, cladibus bellorum
 pressi, hostili metu conpulsi domicilia sua transtulerunt in
@@ -32392,7 +32392,7 @@ aliquid quod humanitatis est facere. At si presbiter
 est, non deponatur; cunctis tamen diebus uitae suae
 penitenciam agat. -]+ <P 0>
 <1 C><S 732><L 8>
-<T Q><2 14> -CAUSA XIV.+
+<2 14><T Q> -CAUSA XIV.+
 -GRATIANUS.+
 Canonici cuiusdam ecclesiae questionem mouent de prediis;
 testes ex fratribus suis producunt; negociatoribus pecuniam crediderunt,
@@ -32930,7 +32930,7 @@ deformis, ancilla aut ingenua, paupera aut opulenta sed
 qualiscumque illa fuerit, una est fornicatio ita in furto,
 quantumcumque quis abstulerit, furti crimen incurrit.
 <1 C><S 744><L 13>
-<T Q><2 15> -CAUSA XV.+
+<2 15><T Q> -CAUSA XV.+
 -GRATIANUS.+
 Clericus quidam crimine carnis lapsus esse perhibetur
 ante, quam sacerdotalem benedictionem consequeretur. Postquam
@@ -33723,7 +33723,7 @@ illatae neminem a communione tua suspendas, quia
 non statim qui accusatur reus est, sed qui conuincitur criminosus.
 -+
 <1 C><S 761><L 5>
-<T Q><2 16> -CAUSA XVI.+
+<2 16><T Q> -CAUSA XVI.+
 -GRATIANUS.+
 Quidam abbas habebat parrochitanam ecclesiam; instituit
 ibi monachum, ut offitium celebraret populo; possedit eam per
@@ -36070,7 +36070,7 @@ retinere in locum suum. Ipse autem non potest aliquem
 ordinare de suis propinquis uel amicis sine uoluntate
 fratrum.
 <1 C><S 812><L 10>
-<T Q><2 17> -CAUSA XVII.+
+<2 17><T Q> -CAUSA XVII.+
 -GRATIANUS.+
 Quidam presbiter infirmitate grauatus fieri se uelle monachum
 dixit; ecclesiae et beneficio in manu aduocati renunciauit.
@@ -36762,7 +36762,7 @@ perniciem monachorum aut incendium monasterii occasione
 suorum exardescat, laudabilius sua sibi non dico redduntur, sed
 auferri sinuntur, quam ab illo ista inferantur.
 <1 C><S 828><L 13>
-<T Q><2 18> -CAUSA XVIII.+
+<2 18><T Q> -CAUSA XVIII.+
 -GRATIANUS.+
 Quidam abbas consecratus in episcopum prius monasterio
 multa contulit, postea in episcopatu plura acquisiuit; cui dum
@@ -37249,7 +37249,7 @@ seruitutis offitia, ut angariae operum, crebrae receptiones, annuae
 exactiones, mulctationes peccantium, a quibus omnibus monasteria
 libera sunt.
 <1 C><S 839><L 4>
-<T Q><2 19> -CAUSA XIX.+
+<2 19><T Q> -CAUSA XIX.+
 -GRATIANUS.+
 Duo clerici ad monasterium transire uolunt; uterque licentiam
 ab episcopo suo petiit; unus relicta propria ecclesia eo inuito,
@@ -37441,7 +37441,7 @@ fuerant, in causam ingratitudinis inciderunt." <T I> Item: <T T> -@. 1.+
 "Non liceat parentibus liberos suos ad solitariam uitam transeuntes
 abstrahere de monasterio."
 <1 C><S 843><L 11>
-<T Q><2 20> -CAUSA XX.+
+<2 20><T Q> -CAUSA XX.+
 -GRATIANUS.+
 Duo pueritiae annos agentes a parentibus monasterio traditi
 sunt; unus inuitus, alter spontaneus cucullam induit. Ad annos
@@ -37855,7 +37855,7 @@ disciplinam subterfugientes peregrinationis uota sibi assumunt,
 quod nec monacho, nec alicui clerico licet, ne hac occasione
 ad secularem conuersationem redeat.
 <1 C><S 852><L 9>
-<T Q><2 21> -CAUSA XXI.+
+<2 21><T Q> -CAUSA XXI.+
 -GRATIANUS.+
 Archipresbiter cuiusdam ecclesiae preposituram alterius accepit,
 nec priorem uult relinquere; secularium quoque negociorum
@@ -38225,7 +38225,7 @@ Hoc tamen breuiter suggero, quia aliquantulum expecto, et
 si ad me uenire distulerint, exercere in eos districtionem
 canonicam nullo modo cessabo.
 <1 C><S 860><L 32>
-<T Q><2 22> -CAUSA XXII.+
+<2 22><T Q> -CAUSA XXII.+
 -GRATIANUS.+
 Quidam episcopus iurauit falsum quod putabat uerum, quo
 conperto archidiaconus eius iurauit se numquam prestaturum ei
@@ -39606,7 +39606,7 @@ Unde Urbanus II. ait:
 rerum dispensatio conmissa fuerit, sibi iurare
 conpellat. -]+ <P 0>
 <1 C><S 889><L 19>
-<T Q><2 23> -CAUSA XXIII.+
+<2 23><T Q> -CAUSA XXIII.+
 -GRATIANUS.+
 Quidam episcopi cum plebe sibi conmissa in heresim lapsi
 sunt; circumadiacentes catholicos minis et cruciatibus ad heresim
@@ -43365,7 +43365,7 @@ similiter peniteant. Qui nec eum impugnabant, nec
 uulnerabant, nec consilio nec auxilio cooperatores fuerunt,
 sed tantum affuerunt, extra noxam sint.
 <1 C><S 965><L 36>
-<T Q><2 24> -CAUSA XXIV.+
+<2 24><T Q> -CAUSA XXIV.+
 -GRATIANUS.+
 Quidam episcopus in heresim lapsus aliquos de sacerdotibus
 suis offitio priuauit, et sentencia excommunicationis notauit. Post
@@ -45312,7 +45312,7 @@ diuinas scripturas cupiamus. Propterea Apostolus
 ait: "ut probati manifesti fiant." Hii autem
 Deo probati sunt, qui bene possunt docere.
 <1 C><S 1006><L 32>
-<T Q><2 25> -CAUSA XXV.+
+<2 25><T Q> -CAUSA XXV.+
 -GRATIANUS.+
 Sancta Romana ecclesia quandam baptismalem ecclesiam
 suis muniuit priuilegiis, decimationes suae diocesis ex integro sibi
@@ -45970,7 +45970,7 @@ inopiae, non ut suarum diuitiarum augmento, et possessionum
 non modica extensione porrecta, baptismales seu parrochianae
 ecclesiae penitus destruantur.
 <1 C><S 1019><L 54>
-<T Q><2 26> -CAUSA XXVI.+
+<2 26><T Q> -CAUSA XXVI.+
 -GRATIANUS.+
 Quidam sacerdos sortilegus esse et diuinus conuincitur apud
 episcopum; correctus ab episcopo noluit cessare; excommunicatur;
@@ -47183,7 +47183,7 @@ sepe etiam nos monere non dubitant.
 <T T> Demonium sustinenti licet petras uel herbas habere
 sine incantatione.
 <1 C><S 1046><L 34>
-<T Q><2 27> -CAUSA XXVII.+
+<2 27><T Q> -CAUSA XXVII.+
 -GRATIANUS.+
 Quidam uotum castitatis habens desponsauit sibi uxorem;
 illa priori condicioni renuncians, transtulit se ad alium, et nupsit
@@ -48630,7 +48630,7 @@ quando, etiamsi non stringit manum, corde tamen et ore
 consentit ducere, et mutuo se concedunt unus alii, et mutuo
 se suscipiunt." -]+ <P 0>
 <1 C><S 1078><L 26>
-<T Q><2 28> -CAUSA XXVIII.+
+<2 28><T Q> -CAUSA XXVIII.+
 -GRATIANUS.+
 Quidam infidelis in coniugio positus ad fidem conuersus est,
 uxor uero odio Christianae fidei ab eo discessit. Ille quamdam
@@ -49248,7 +49248,7 @@ habuit unam, et post baptismum alteram, bigamus iudicatur, et,
 licet uitae merito et industria scientiae polleat, tamen in episcopum
 ordinari non potest.
 <1 C><S 1091><L 6>
-<T Q><2 29> -CAUSA XXIX.+
+<2 29><T Q> -CAUSA XXIX.+
 -GRATIANUS.+
 Cuidam nobili mulieri nunciatum est, quod a filio cuiusdam
 nobilis petebatur in coniugem; prebuit illa assensum. Alius uero
@@ -49469,7 +49469,7 @@ uno coniugio permanentes dominis seruiant suis. Et hoc in
 illis obseruandum est, ubi legalis coniunctio fuit, et per
 uoluntatem dominorum.
 <1 C><S 1095><L 17>
-<T Q><2 30> -CAUSA XXX.+
+<2 30><T Q> -CAUSA XXX.+
 -GRATIANUS.+
 Populorum frequentia quidam inpeditus filium suum de baptismate
 suscepit, dum crederet se alienum suscipere; uxor eius,
@@ -50032,7 +50032,7 @@ non poterit, quibus deficientibus, iudicis sentencia rite absolutus,
 reatum adulterii uterque incurrit, dum utroque eorum uiuente
 aliis se copulauerint.
 <1 C><S 1108><L 15>
-<T Q><2 31> -CAUSA XXXI.+
+<2 31><T Q> -CAUSA XXXI.+
 -GRATIANUS.+
 Uxorem cuiusdam alius constuprauit; eo mortuo adulter
 adulteram sibi in uxorem accepit; filiam ex ea susceptam cuidam
@@ -50356,7 +50356,7 @@ seruetur.
 suorum frangere. Verum hoc de illis intelligendum est, que
 illorum consensu contrahuntur.
 <1 C><S 1115><L 16>
-<T Q><2 32> -CAUSA XXXII.+
+<2 32><T Q> -CAUSA XXXII.+
 -GRATIANUS.+
 Quidam, cum non haberet uxorem, quandam meretricem
 sibi coniugio copulauit, que erat sterilis, neptis ingenui, filia originarii;
@@ -51941,7 +51941,7 @@ iugis continentia. Hec ergo, et si qua alia sunt, que
 rectissime uouentur, cum homines uouerint, nulla condicione
 rumpenda sunt, que sine ulla condicione uouerunt.
 <1 C><S 1148><L 22>
-<T Q><2 33> -CAUSA XXXIII.+
+<2 33><T Q> -CAUSA XXXIII.+
 -GRATIANUS.+
 Quidam uiri maleficiis inpeditus uxori suae debitum reddere
 non poterat. Alius interim clanculo eam corrupit; a uiro suo
@@ -57339,7 +57339,7 @@ uir uoluerit reuocare permissum. Vota uero continentiae ita
 alterius permissu ab altero ualent offerri, quod post permissionem
 non ualent in irritum deduci.
 <1 C><S 1256><L 23>
-<T Q><2 34> -CAUSA XXXIV.+
+<2 34><T Q> -CAUSA XXXIV.+
 -GRATIANUS.+
 Quidam uir in captiuitatem ductus est; postea uxor eius,
 audiens illum mortuum, nupsit alii; demum ille, de captiuitate
@@ -57539,7 +57539,7 @@ permittantur coniugia, quam forte deterius delinquant.
 Fornicaria autem sine spe coniugii maneat.
 <S 1261><L 1> -1261+
 <1 C><S 1261><L 1>
-<T Q><2 35> -CAUSA XXXV.+
+<2 35><T Q> -CAUSA XXXV.+
 -GRATIANUS.+
 Quidam mortua uxore sua aliam sibi matrimonio copulauit,
 que uxori defunctae quarto gradu consanguinitatis, uiro
@@ -58789,7 +58789,7 @@ et filias ad secundum maritum genuerit, debere eas
 nepotibus prioris mariti coniungi, sancta Romana sinodus
 prorsus inhibuit. -]+ <P 0>
 <1 C><S 1288><L 27>
-<T Q><2 36> -CAUSA XXXVI.+
+<2 36><T Q> -CAUSA XXXVI.+
 -GRATIANUS.+
 Filiam cuiusdam patre ignorante quidam muneribus illexit,
 ad conuiuium inuitauit; finito conuiuio iuuenis uirginem oppressit.
