@@ -13219,7 +13219,7 @@ loco insolentem Dominus infrenat iactantiam.
 <T T> Pasce fame morientem. Quisquis enim pascendo hominem
 seruare poteris, si non paueris, occidisti.
 <S 303><L 1> -303+
-<4 32> -[C. XXXII.]+
+<4 22> -[C. XXII.]+
 <T I> Item Ieronimus.
 <T T> Qui clementiam non habet, nec indutus est uiscera
 misericordiae et lacrimarum, quamuis spiritalis sit, non
@@ -13228,14 +13228,14 @@ adinpleuit legem Christi.
 esse percussorem, id est ad uindictam facilem.
 Unde Gregorius scribit Iohanni Episcopo Corintiorum:
 -[libro XI., epist. 49.]+
-<4 33> -C. XXXIII.+ <T R> Ad uindictam facilis episcopus esse non debet.
+<4 23> -C. XXIII.+ <T R> Ad uindictam facilis episcopus esse non debet.
 <T T> Si quid uero de quocumque clerico ad aures tuas peruenerit,
 quod te iuste possit offendere, facile non credas,
 nec ad uindictam te res accendat incognita; sed presentibus
 ecclesiae tuae senioribus diligenter ueritas est perscrutanda
 et tunc, si qualitas rei poposcerit, canonica districtio culpam
 feriat delinquentis.
-<4 34> -C. XXXIV.+ <T R> De quodam episcopo, qui ante missarum
+<4 24> -C. XXIV.+ <T R> De quodam episcopo, qui ante missarum
 solempnia, die dominico ad exarandam messem
 cuiusdam profectus est.
 <T I> Idem Ianuario Episcopo. -[lib. VII. Indict. 2. epist. 1.]+
