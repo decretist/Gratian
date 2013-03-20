@@ -7,7 +7,7 @@ import re
 def main():
     f = open('./edF.txt', 'r')
     file = f.read()
-    themata = re.findall('\<T Q\>\<2 \d{1,3}\>(.*?)\<3 \d{1,2}\>', file, re.S)
+    themata = re.findall('\<2 \d{1,3}\>\<T Q\>(.*?)\<3 \d{1,2}\>', file, re.S)
     # re.S (re.DOTALL) makes '.' special character match any character including newline.
     # print('36: ' + str(len(themata)))
     for thema in themata:
