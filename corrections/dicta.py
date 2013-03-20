@@ -1,7 +1,11 @@
 #!/usr/local/bin/python3
+#
 # Paul Evans (10evans@cardinalmail.cua.edu)
 # 11 March 2013
 # 12 March 2013
+#
+# dicta.py | fmt > dicta.txt
+#
 import re
 def main():
     f = open('./edF.txt', 'r')

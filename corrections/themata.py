@@ -3,6 +3,8 @@
 # Paul Evans (10evans@cardinalmail.cua.edu)
 # 19 March 2013
 #
+# themata.py | fmt > themata.txt
+#
 import re
 def main():
     f = open('./edF.txt', 'r')
