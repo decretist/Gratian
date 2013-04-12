@@ -9327,7 +9327,7 @@ offitiis ualet associari. Unde in alio capitulo prefatae constitucionis
 hec causa redditur: "Iniustum est enim, ut monachis
 rurale opus facientibus serui eorum otio torpeant ac deliciis
 affluant."
--V. Pars.+ <T P> -Gratian.+ Quod autem serui ecclesiarum (quo
+-V. Pars.+ <T P> -Gratian.+ Quid autem serui ecclesiarum (quo
 nomine etiam monasterii seruos significari intelligimus) ad sacrae
 religionis propositum debeant assumi, auctoritate beati Gregorii
 probatur, qui generali Sinodo residens dixit:
@@ -20126,7 +20126,7 @@ deinceps suum exequatur offitium.
 <T I> Item Siluester Papa.
 <T T> Accusatum symoniacum necesse habuimus summopere
 per scripturam prohibere, ne missarum solempnia celebrare
-debuisset, donec quid esset uerius potuissemus cognoscere.]+ <P 0>
+debuisset, donec quid esset uerius potuissemus cognoscere. -]+ <P 0>
 -+
 <P 1> -[PALEA.+
 <4 15> -C. XV.+ <T I> Item ex Concilio Triburiensi.
