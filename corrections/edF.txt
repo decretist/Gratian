@@ -19184,7 +19184,7 @@ ab omnibus fidelibus respuendos, et si commoniti non resipuerint,
 ab exteris potestatibus obprimendos. Omnia
 enim crimina ad conparationem symoniacae heresis quasi
 pro nichilo reputantur. -]+ <P 0>
-<T A> -Gratian.+ His breuiter premissis ad ea ueniamus, que ecclesia
+<T P> -Gratian.+ His breuiter premissis ad ea ueniamus, que ecclesia
 seueritate disciplinae parata est ulcisci, ostendentes, quibus
 accusantibus uel testificantibus quilibet sint conuincendi; quo
 iudice quisque debeat dampnari uel absolui; si causa uiciata
@@ -31476,7 +31476,7 @@ ualeat possidere.
 <T P> -Gratian.+ Ecce ostensum est, quomodo res ecclesiae sine
 culpa dari possunt, et constare his, quibus datae fuerint.
 <S 713><L 1> -713+
-<3 2> -QUESTIO III.+
+<3 3> -QUESTIO III.+
 -GRATIANUS.+
 -I. Pars.+ <T A> Nunc queritur, si ante tempus suae ordinationis
 nichil habere uidebantur, quid de his fieri debeat, que post ordinationem
