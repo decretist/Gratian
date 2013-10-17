@@ -34987,7 +34987,7 @@ concessit. Sed illud Iohannis Papae intelligendum est de illis
 capellis, que cum omni iure suo ab episcopis monachis conceduntur.
 Istud autem Urbani intelligendum est de illis, quas
 abbates in propriis prediis edificant in uillis uel in castellis suis.
-<3 5> -[QUESTIO V.]+
+-[QUESTIO V.]+
 -GRATIANUS.+
 <T A> Tales, etsi ius territorii habeant, tamen potestatem gubernandi
 populum, et spiritualia ministrandi non habent. Quod
