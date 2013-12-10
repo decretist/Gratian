@@ -1,0 +1,155 @@
+Canon,edF col.,edF col.,Sg fol.,Sg fol.,Sg incipit,Sg explicit,edF footnote,Clavis match,Notes
+D.27 c.6,99,99,3a,3b,Femina que post obitum mariti sui,id quod spopondit reuertatur,,DS05.06.046 close,reuertatur and spopondit transposed
+D.28 c.10,103,103,4a,4a,Quia sunt culpȩ in quibus culpa,fuit marito tradiderit,,,
+D.28 c.13,104,104,4a,4b,"De siracusanȩ urbis antistite, optauimus",ȩcclesiȩ dominio sociaret,finis canonis: Ans. Polyc.,,incipit 3rd sentence of Ans. 6.40
+D.31 c.1,111,111,5b,6a,Ante triennium omnium ȩcclesiarum subdiaconi siciliȩ,caste uicturum promiserit,,,5 Clavis matches for shorter text with same explicit
+D.31 c.8,113,113,7a,7a,Si quis uituperat nuptias et dormientem,estimat anathema sit,,,"7 Clavis matches with explicit ""possint (or valeat) anathema sint"""
+D.38 c.1,141,141,12b,12b,Ignorantia mater cunctorum errorum maxime sacerdotibus,et doctrina consistat,,,
+D.38 c.4,141,141,12b,12b,"Nulli sacerdotum liceat canones ignorare, nec",possit regulis obuiare,finis canonis: Ans.,14 exact,
+D.46 c.1,167,167,14a,14a,"Hoc habet proprium arrogantium doctrina, ut",uix dominando dignantur,,,taken directly from Moralia in Job
+D.46 c.2,168,168,14a,14b,Sunt inquit nonnulli qui dum malefacta,de malis recusat,,,taken directly from Moralia in Job
+D.50 c.11,181,181,15b,15b,Quemquam criminaliter cadentem in locum quo,"antiquus, insidiando dilaniet",,,
+D.54 c.21,213,213,20b,20b,"Admittuntur passim ad sacrum ordinem, quibus","accesserit, uel uoluntas",,,
+D.55 c.12,218,218,21b,21b,Precepta canonum quibus ȩcclesiastica regitur disciplina,faciente prolapsus probatur,,,"edF lines 5-17 missing. No Clavis matches with ""prolapsus"" in explicit"
+D.60 c.4,227,227,21b,22a,Nullus in ȩpiscopatum ordinetur nisi in,sint et scientiȩ,,,
+D.61 c.13,231,231,22b,23a,"Nullus inuitis detur ȩpiscopus, tunc alter",non timeant refutare,,2 close,"BG01.006 and KT01.085 (Köln 124 f.40r): ""Nullus invitis detur episcopus cleri plebis"""
+D.63 c.27,243,243,25a,25a,"Vota ciuium, testimonia populorum, arbitrium honoratorum",ordinationibus sacerdotum constituantur,,DS02.01.018a close,"false positive: Clavis splits canon between a and b at ""Et infra"""
+D.69 c.1,256,256,26b,26b,Quoniam uidemus multos sine manus inpositione,illum presbiterum esse,,,"""ȩpiscopo facta noscatur [90° turn] dum constet illum presbiterum esse"" §2 missing"
+D.77 c.2,272,272,27b,28a,In singulis gradibus hec tempora sunt,pontificatum sperare potest,,,§1 missing
+C.1 q.1 c.16,362,362,29b,29b,Cito turpem sequitur lepra mercedem et,corpus animamque commaculat,,,§1 missing
+C.1 q.1 c.17,363,363,29b,29b,Qui perfectionem spiritus quam acceperant perdiderunt,dare non potuit,,,
+C.1 q.1 c.19,364,364,30a,30a,Petrus cum symon magice artis consuetudine,rectum apud deum,,,
+C.1 q.1 c.23,367,368,30b,30b,Duces inquit eius in muneribus iudicabant,cum offerente dampnauit,,,§§2-4 missing
+C.1 q.1 c.77,385,385,33b,33b,Intra catholicam ecclesiam in ministerio corporis,transfundit in sanguinem,,,
+C.1 q.1 c.82,386,387,34a,34a,Vt euidenter ostenderet dominus a spiritu,dimittit non uos,,,
+C.1 q.1 c.113,402,402,34b,34b,Ordinationes que interueniente pretio uel precibus,falsas esse diuidicamus,,,
+C.1 q.2 c.8,410,410,36b,36b,Non est meum dicere quale peccatum sit,ȩcclesiȩ aliquid prat (?),,,
+C.1 q.3 c.9,415,416,37b,38a,Ex multis temporibus hoc detestabile malum,omnibus manifestum existit,,,
+C.1 q.7 c.4,428,429,42a,42a,Conuenientibus apud nicenam bythinie et considentibus,et cetera,,,
+C.1 q.7 c.18,434,435,43b,44a,Exigunt cause ut non solum in,amplius inpune committa,,,
+C.2 q.1 c.18,446,447,46b,47a,Multi corriguntur ut petrus multi tollerantur,in crimine nominatur,,,§3 missing
+C.2 q.5 c.6,456,456,50b,51a,Habet hoc proprium antiqui hostis inuidia,sacerdotem decet exhibeat,,,
+C.2 q.5 c.19,461,462,52a,52a,Omnibus uobis uisu aut auditu notum,et cetera,,,
+C.2 q.6 c.11,469,469,54a,54b,Decreto nostro uestram rogantes karitatem mandamus,ab omnibus iudicetur,,,
+C.2 q.6 c.13,470,470,54b,54b,Arguta sapientia tua utinam in bono,carceralis (?) custodie mancipauit,,4 false positives,§§1-2 missing
+C.2 q.6 c.28,473,475,55a,55a,Anteriorum legum acerbitati plurima remedia interponentes,et cetera,,,
+C.3 q.1 c.2,505,505,67a,67a,Episcopi si a propriis sedibus aut,illis obici debeat,,,
+C.3 q.1 c.3,505,506,67a,67a,Redintegrata sunt omnia expoliatis uel eiectis,absceserant funditus revocandi,,,
+C.3 q.3 c.2,510,510,68a,68a,De induciis inquit episcoporum super quibus consuluilstis diuersas,magis domini sacerdotibus,,,§1 missing
+C.3 q.6 c.3,519,519,69b,69b,Si quis episcoporum super certis accusatur,foro suo audiri,,,missing in middle
+C.3 q.8 c.1,529,529,71a,71a,Accusatores episcoporum omni careant suspitione quia,ipsum fieri precipiunt,,,§§3-4 missing
+C.3 q.9 c.8,531,531,71b,71b,Qui accusare alium elegerit presens per,accusatores presentes habeat,,,
+C.4 q.5 c.1,542,543,73b,73b,Quisquis episcoporum accusatur ad primates prouincie,communicet non purgetur,,NB174 close,
+C.5 q.5 c.2,549,550,76a,76a,Non omnis qui parcit amicus est,terrere non cessat,,,
+C.6 q.1 c.7,555,555,77b,77b,Si omnia in hoc seculo uindicata,agitatur quam karitatis,,,
+C.6 q.1 c.21,559,560,78a,78b,Quero ergo quis peccet grauius qui,auaro scienti coequatur,,,§1 missing
+C.6 q.4 c.1,563,563,79a,79a,Si quis episcopus criminaliter in iudicio,fuerit dirimant questionem,,,
+C.6 q.4 c.5,564,565,79b,79b,Si quis episcopus criminaliter accusatus intra,iudicari non poterit,,,
+C.7 q.1 c.6,568,568,80b,80b,Nouatianus episcopus non est qui cornelio,emulatione praua deficere,,,§1 missing
+C.7 q.1 c.11,570,571,80b,81a,Sicut uir non debet adulterare uxorem,aut innupta permaneat,,,
+C.7 q.1 c.13,571,572,81b,81b,Qualiter ordinati a nobis sacerdotis corporis,deberi episcopum ordinari,,,
+C.7 q.1 c.17,574,575,81b,82a,Petisti ut cum nostro consulto superueniente,huc ueniat ordinandus,,,
+C.7 q.1 c.34,579,579,82b,82b,Mutationes inquit episcoporum scitote communi utilitate,ac proprie uoluntatis,,,missing in middle
+C.7 q.1 c.44,584,584,83b,83b,Episcopalis (?) qualitas nos ammonet episcoporum sedes,liberior existere ualeas,,,
+C.8 q.1 c.3,590,590,85a,85a,Episcopo non licere pro se alterum,et electione clericorum,,,
+C.8 q.1 c.4,590,591,85a,85a,Episcopo non liceat ante finem vite,constitutio erit irrita,,,
+C.8 q.1 c.6,591,591,85a,85a,Moyses amicus dei cui facie ad,sunt obsequiis deliniti,,,
+C.9 q.1 c.2 [palea],601,601,87b,87b,illicite manus inponunt qui potestatem ordinandi,est uulnus infigitur,,,
+C.9 q.1 c.3 [palea],601,601,87b,87b,Per illicitam manus ipositionem uulneratum caput,collatum minime probatur,,,
+C.9 q.2 c.10,605,605,88b,88b,Lugdunensis parochie clericos quos contra statuta,detrimentum fore perpenderet,,,
+C.9 q.3 c.5,607,607,89a,89a,Archiepiscopus nichil de episcoporum causis aut,gaudet concordia altissimus,,,
+C.9 q.3 c.8,608,609,89b,89b,Conquestus est apostolatui nostro frater noster,canonum penitus interdicat,,,
+C.11 q.1 c.33,635,635,95a,95a,Nullus clericus uel diaconus uel presbiter,intret in curiam (?),,,
+C.11 q.3 c.32,653,653,96b,96b,Omnis christianus karissimi qui a sacerdotibus,ecclesiastica communione remouetur,,,
+C.11 q.3 c.47,656,657,97b,97b,Secundum catholicam fidem nec dei nature,noceri patitur quemquam,,,quote missing
+C.11 q.3 c.87,667,667,99b,99b,Illud plane non temere dixerim quod,tenet columba dimittit,,,missing in middle
+C.12 q.1 c.8,678,679,101a,101a,Quia fraternitas tua monasterii regulis erudita,deo auctore conseruent,,,§2 missing
+C.12 q.1 c.9,679,679,101a,101a,Scimus uos non ignorare quod actenus,suum esse dicebat,,,
+C.12 q.1 c.10,679,680,101a,101b,Nolo ut aliquis de nobis inueniat,possit felicitatis hereditatem,,,missing in middle
+C.12 q.1 c.18,683,683,101b,102a,Certe ego sum qui statueram nullum,habeat necessitatem simulandi,,,
+C.12 q.1 c.21,684,684,102a,102a,Sint manifeste res proprie episcopi si,propinquos aut seruos,,,
+C.12 q.1 c.23,684,685,102a,102b,Episcopus ecclesiasticarum rerum habeat potestatem ad,taliter dispensant exponantur,,,
+C.12 q.2 c.21,693,694,105a,105a,Indigne ad altare domini properare permittitur,percutit anathemate feriatur,,,
+C.12 q.2 c.35,699,699,105b,105b,Diaconi uel presbiteri in parrochia constituti,uisi sunt presumpsisse,,"2 exact, 1 close",
+C.12 q.2 c.70,710,710,107a,107b,Aurum ecclesia habet non ut seruet,eius operatus est,,3,§1 missing; different scribe?
+C.12 q.2 c.71,710,711,107b,107b,Gloria episcopi est pauperibus prouidere ignominia,fraudare sacrilegium est,,,
+C.14 q.3 c.1,735,735,116b,116b,Si feneraueris hominem idest (?) si mutuam,in hoc inprobandus,,,
+C.14 q.3 c.3,735,735,116b,116b,Plerique refugientes precepta legis cum dederint,inponas usura est,,,§2 missing
+C.14 q.6 c.1,742,743,118a,118a,Si res aliena propter quam peccatum,dixi restitui potest,finis canonis: Ivo XV,IT03.28.006,
+C.15 q.1 c.11,749,749,120a,120a,Nec is qui inuitis aliquod homicidium,minister est ultionis,,,§1 missing
+C.15 q.3 c.1,751,751,121a,121a,De crimine quod publicorum fuerat (?) iudiciorum,non exacta subscriptione,,,
+C.15 q.6 c.1,754,755,122b,122b,Si sacerdotibus ecclesie uel auctoribus quedam,set sponte confiteri,,,
+C.15 q.7 c.1,756,757,123a,123a,Sexta actione conperimus fragitanum cordubensis ecclesie,auferre non potest,,,
+C.15 q.7 c.5,758,758,123b,123b,Reliquorum clericorum causas solus episcopus audiat,agnoscat et finiat,,,
+C.16 q.1 c.8,763,763,125b,125b,Placuit communi nostro concilio ut nullus,et cetera,,,
+C.16 q.1 c.12,764,764,125b,126a,Qui uere et pure solitariam eligunt,necessariam monasteriis exhibere,,,missing in middle
+C.16 q.1 c.20,766,766,126b,127a,De presentium portitore quod defensor factus,supplicantium necessitas poscit,,,
+C.16 q.1 c.48,776,776,130a,130b,Et temporis qualitas et locorum uicinitas,prouidentique cura disponas,,,
+C.16 q.1 c.57,779,780,131a,131a,In canonibus in gangrensi ecclesia apostolica,constitutus est ... anathema sit,,,§1 missing
+C.16 q.1 c.62,781,782,131b,131b,Nulli episcoporum liceat a subiecto sacerdote,in angariis inferre,,,
+C.16 q.1 c.66,784,784,132a,132b,Decime tributa sunt egentium animarum quod,suis usibus reseruauit,,,
+C.16 q.2 c.1,785,786,133a,133a,Visis litteris karitatis uestre quibus satis,cum uoluerit aufertur,,,
+C.16 q.3 c.1,788,788,134a,134a,Per singulas ecclesias rusticanas parrochianas permanere,xxx annos gubernauerunt,,,
+C.16 q.3 c.5,789,790,134a,134b,Licet regulis contineatur antiquis parrochias uniquique,plebs deuota conuenit,finis canonis: Ivo Coll. tr. P. 60,4 exact,
+C.16 q.3 c.11,792,792,135b,135b,Clerici quilibet quantacumque diuturnitate temporis de,ecclesie rem fuisse,,,
+C.16 q.3 c.12,792,793,135b,136a,Si episcopus humanitatis intuitu mancipiola uineolas,ecclesia preiuditium patiatur,,,
+C.16 q.6 c.2,798,798,137b,137b,Si episcopum quod absit talem culpam,non est conuertendum,,,
+C.16 q.7 c.1,800,800,138a,138a,Decimas quas in usum pietatis concessas,dampnationis periculum incurere,finish canonis: Ans. Polyc.,24,
+C.16 q.7 c.3,801,801,138a,138a,Peruenit ad nos,,,,left margin
+C.16 q.7 c.22,806,807,138b,139a,Nona actione didicimus quosdam ex nostro,concilio manebit obnoxius,,,missing in middle
+C.18 q.2 c.5,829,830,142b,143a,Quam sit necessarium monasteriorum quieti prospicere,aliquem honorem promoueat,,,§5 missing
+C.18 q.2 c.26,836,837,144a,144a,Peruenit ad me quod in ecclesiis,clericorum ambitu destruantur,,,missing in middle
+C.19 q.3 c.5,841,841,145b,145b,Quoniam a quibusdam uiris quedam uenerabilis,hos deponi precipimus,,,
+C.21 q.1 c.1,852,852,148a,148a,Clericus ab instanti tempore non connumeretur,et cetera,,,
+C.21 q.3 c.1 [palea],855,856,148b,149a,Peruenit in sanctam synodum quia de,propter timorem dei,,,
+C.21 q.5 c.2,859,859,149b,149b,Si quis a proprio episcopo depositus,fuerit depromta sententia,,,
+C.22 q.1 c.1,861,861,150a,150a,Omne quod in pacis federa uenit,sacramenti uincula ligant,,,
+C.22 q.1 c.16,865,865,150b,151a,Mouet te utrum eius fide utendum,est penale periurium,finis canonis: Ans. Polyc.,10,
+C.22 q.2 c.8,869,870,151b,152a,Primum est capitale mandatium et longe,deceptorem arbitretur aliorum,,,missing in middle
+C.22 q.2 c.14 §3,871,871,152b,152b,Manifestum est non esse culpandum aliquando,inuenitur sanctis concessum,,,nothing missing
+C.22 q.4 c.8,877,877,153b,153b,Unusquisque simplicem sermonem proferat uas suum,saltantium choros promiserat,,,
+C.22 q.4 c.22,880,881,154a,154b,Inter cetera ut rogaueras a patre,conditio necessitatis extorsit,,,missing in middle
+C.22 q.4 c.23,881,881,154b,155a,Innocens credit omni uerbo non uituperanda,suam fidem solueret,,,
+C.22 q.5 c.20,888,888,158a,158b,Cauete fratres mendatium quia omnes qui,christi non facere,,,
+C.23 q.1 c.2,891,892,159a,159b,Paratus debet esse homo iustus et,utique non prohibuit,,,missing in middle
+C.23 q.1 c.3,892,892,159b,159b,Noli estimare neminem posse placere deo,facere contra dominum,,,estimare/existimare
+C.23 q.1 c.5,893,893,159b,160a,Militare non est delectum set propter,contenti stipendiis uestris,,,
+C.23 q.2 c.2,894,895,160a,160b,Dominus iubet ad iesum naue ut,iniurias ablatum est,,,
+C.23 q.4 c.5,900,900,161a,161a,Quisquis uel quod potest arguendo corrigit,inprobat firmitate subportat,,,
+C.23 q.4 c.7,900,901,161a,161b,Quisquis in ecclesia bene uixerit nichil,non habet criminis,,FE01.05.40,
+C.23 q.4 c.15,903,903,161b,161b,Hec uita que inter celum est,bonus non est,,2 (hec autem),
+C.23 q.4 c.18,905,906,162a,162a,Quidam cum malorum bonorumque conmixtionem in,de ecclesia recedamus,,,
+C.23 q.8 c.7,954,955,163a,163a,Igitur cum sepe a saracenorum partibus,litus descendere decermimus,,,
+C.23 q.8 c.13,956,956,163b,163b,Legi zelum finees auctoritatem helyȩ zelum,deo set pietas,,2 close,
+C.23 q.8 c.14,956,956,163b,164a,Occidit fenees hominem et reputatum est,quod factum est,,,
+C.23 q.8 c.24,962,962,164b,164b,Secundum canonicam auctoritatem et constitutionem domini,ad satisfactionem priuetur,finis canonis: Burch. Ivo Decr. 56.,,
+C.27 q.1 c.1,1047,1047,165a,165a,Sicut bonum est castitatis premium ita,cum christianis conmunicent,finis canonis: Ivo Decr. 147.,GE02.05.035,
+C.27 q.1 c.41,1060,1061,165b,165b,Nuptiarum bonum semper quidem est bonum,et cetera,,,
+C.27 q.2 c.1,1063,1063,166a,166a,Matrimonium non facit coitus set uoluntas,adhuc maritus est,,,
+C.27 q.2 c.3,1063,1063,166b,166b,Beata uirginitatis uotum proposuit in corder,eos coniuges facit,,,
+C.27 q.2 c.12,1065,1065,167a,167a,Qui desponsatam peullam proximi sui acceperit,uxor fieri debebat,,AH13.065,
+C.27 q.2 c.19,1067,1068,167a,167b,Sunt qui dicunt religionis gratia coniugia,et cetera,,,
+C.27 q.2 c.21,1068,1069,167b,167b,Agathosa latrix presentium,,,,
+C.27 q.2 c.46,1076,1076,169b,169b,Desponsatas puellas et post aliis raptas,ante fuerant desponsate,,AM45.003,
+C.30 q.3 c.1,1100,1100,173b,173b,Ita diligere debet homo eum qui,meus esset elegit,,,
+C.32 q.5 c.1,1132,1132,178b,179a,Tollerabilius est mentem quam carnem habere,deo casti simus,,,
+C.32 q.5 c.9,1134,1134,179a,179a,Magis timeamus ne sensu interiore corrupto,ne femine constuprentur,,,
+C.32 q.7 c.1,1140,1140,179b,179b,Interueniente divorcio non aboletur confederatio nuptialis,sint etiam separati,,,
+C.32 q.7 c.7,1141,1142,179b,179b,,,,,inscription only
+C.33 q.2 c.8,1152,1154,182b,182b,Ammonere te lacrimis et multo gemitu,et cetera,,,
+de Pen. D.1 c.3,1159,1159,183a,183a,Sacrifitium deo s. c.,et cetera,,,
+de Pen. D.1 c.4,1159,1159,183a,183a,Dixi confitebor a. m.,,,,
+de Pen. D.1 c.44,1168,1168,183b,184a,Agite penitentiam qualis (?) agitur (?) in ecclesia,et cetera,,,
+C.33 q.4 c.7 §1,1248,1249,184b,185a,Cum propria uxore dormiens nisi lotus,fieri non potest,,,
+C.33 q.5 c.5,1252,1252,185b,185b,Secundum uerbo apostolica si uir continere,tue cederet infirmati,,,
+C.34 q.1-2 c.1,1256,1257,185b,186a,Cum per bellicam cladem et per,statum uoluntaria redintegratione,,,
+C.35 q.2-3 c.1,1264,1264,187b,187b,De affinitate consanguinitas per gradus congationis,pretendit heredum successionem,,,
+C.35 q.2-3 c.2,1264,1264,187b,188a,Coniunctiones consanguineorum fieri prohibemus quas (?) diuine,in herditate suscipiunt,,,
+C.35 q.2-3 c.3,1264,1264,188a,188a,De propinquis qui ad affinitatem per,post obitum eius,,,
+C.35 q.2-3 c.8,1265,1266,188a,188b,De incestis coniunctionibus nichil prorsus uenie reseruamus,et cetera,,,
+C.35 q.2-3 c.10,1266,1266,188b,188b,Nec eam quam aliquis ex propria,illicita pollutione maculavit,,,
+C.35 q.2-3 c.20,1268,1269,189a,189a,Quedam lex romana permittit ut duorum,licenter sibi iungatur,,,
+C.35 q.5 c.2,1271,1274,190a,192a,Ad sedem apostolicam perlata est questio,graduum inueniatur uarietas,,,
+C.35 q.5 c.4,1275,1275,192a,192a,Parentele gradus taliter conputamus siquidem ego,modum cetere successiones,,,
+C.35 q.5 c.6,1275,1277,192b,193a,Primo gradu superiori linea continentur pater,filii filiȩque successionis,,,§7 missing except successionis
+C.36 q.2 c.3,1290,1290,199b,199b,Si quis ne dicam rapere,et cetera,,,
