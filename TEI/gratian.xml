@@ -1,0 +1,16 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+  <!-- [ TEI Header information ]  -->
+  </teiHeader>
+  <text>
+    <body>
+    <!-- [ body of text ... ]  -->
+      <div n="1" type="part">
+      </div>
+      <div n="2" type="part">
+      </div>
+      <div n="3" type="part">
+      </div>
+    </body>
+  </text>
+</TEI>
