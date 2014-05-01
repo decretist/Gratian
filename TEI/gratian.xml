@@ -1,11 +1,67 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
   <!-- [ TEI Header information ]  -->
+    <fileDesc>
+      <titleStmt>
+        <title>Concordia discordantium canonum</title>
+        <author>Gratian, active 12th century</author>
+        <editor>Friedberg, Emil</editor>
+      </titleStmt>
+      <publicationStmt><p></p></publicationStmt>
+      <sourceDesc><p></p></sourceDesc>
+    </fileDesc>
   </teiHeader>
   <text>
     <body>
     <!-- [ body of text ... ]  -->
       <div n="1" type="part">
+        <div n="7" type="distinction">
+          <div n="1" type="dictum_ante">
+            <ab>Ius autem constitutionis cepit a iustificationibus,
+            quas Dominus tradidit Moisi dicens: "Si emeris seruum
+            ebreum etc."
+            Unde Ysidorus in libro V. Ethimologiarum ait:</ab>
+          </div>
+          <div n="1" type="canon">
+            <div type="canon_rubric">
+              <ab>De conditoribus legum.</ab>
+            </div>
+            <div type="canon_text">
+              <ab>Moises gentis Hebreae primus omnium diuinas leges
+              sacris literis explicauit. Foroneus rex Grecis primus leges
+              iudiciaque constituit. Mercurius Trismegistus primus leges
+              Egiptiis tradidit. Solon primus leges Atheniensibus edidit.
+              Licurgus primus Lacedemoniis iura ex Apollinis
+              auctoritate confinxit. Numa Pompilius, qui Romulo successit
+              in regno, primus leges Romanis edidit. Deinde cum populus
+              seditiosos magistratus ferre non posset, decemuiros
+              legibus scribendis creauit, qui leges ex libris Solonis in latinum
+              sermonem translatas XII. tabulis exposuerunt.</ab>
+            </div>
+          </div>
+          <div n="2" type="canon">
+            <div type="canon_rubric">
+              <ab>Nomina eorum, qui leges XII. tabularum exposuerunt.</ab>
+            </div>
+            <div type="canon_text">
+              <ab>Fuerunt autem hi App. Claudius, Genutius, Sextius,
+              Veturius, Iulius, Manlius, Sulpitius, Curiatius, Romilius,
+              Posthumius. Hi decemuiri legum conscribendarum electi
+              sunt. Leges autem redigere in libris primus consul Pompeius
+              instituere uoluit, sed non perseuerauit obtrectatorum
+              metu. Deinde Cesar cepit id facere, sed ante interfectus
+              est. Paulatim autem antiquae leges uetustate atque incuria
+              obsoleuerunt, quarum etsi iam nullus est usus, notitia tamen
+              necessaria uidetur. Nouae a Constantino Cesare
+              ceperunt et reliquis succedentibus, erantque permixtae et
+              inordinatae. Postea Theodosius minor Augustus ad similitudinem
+              Gregoriani et Ermogeniani codicem factum constitutionum
+              a Constantini temporibus sub proprio cuiusque
+              imperatoris titulo disposuit, quem a suo nomine Theodosianum
+              uocauit.</ab>
+            </div>
+          </div>
+        </div>
       </div>
       <div n="2" type="part">
       </div>
