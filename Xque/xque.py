@@ -10,17 +10,17 @@
 import re
 import sys
 # http://snowball.tartarus.org/otherapps/schinke/intro.html
-ignore = ['absque', 'abusque', 'adaeque', 'adusque', 'apsque',
-	  'atque', 'attorque', 'concoque', 'contorque', 'coque',
-	  'cuique', 'cuiusque', 'decoque', 'denique', 'deque',
-	  'detorque', 'excoque', 'extorque', 'incoque', 'intorque',
-	  'itaque', 'neque', 'oblique', 'obtorque', 'optorque',
-	  'peraeque', 'plenisque', 'praetorque', 'quaeque', 'quamque',
-	  'quandoque', 'quaque', 'quarumque', 'quasque', 'quemque',
-	  'quibusque', 'quique', 'quisque', 'quoque', 'quorumque',
-	  'quosque', 'quotusquisque', 'quousque', 'recoque',
-	  'retorque', 'susque', 'torque', 'ubique', 'undique',
-	  'usque', 'uterque', 'utique', 'utribique', 'utroque']
+ignore = ['atque', 'quoque', 'neque', 'itaque', 'absque', 'apsque',
+	  'abusque', 'adaeque', 'adusque', 'denique', 'deque',
+	  'susque', 'oblique', 'peraeque', 'plenisque', 'quandoque',
+	  'quisque', 'quaeque', 'cuiusque', 'cuique', 'quemque',
+	  'quamque', 'quaque', 'quique', 'quorumque', 'quarumque',
+	  'quibusque', 'quosque', 'quasque', 'quotusquisque',
+	  'quousque', 'ubique', 'undique', 'usque', 'uterque',
+	  'utique', 'utroque', 'utribique', 'torque', 'coque',
+	  'concoque', 'contorque', 'detorque', 'decoque', 'excoque',
+	  'extorque', 'obtorque', 'optorque', 'retorque', 'recoque',
+	  'attorque', 'incoque', 'intorque', 'praetorque']
 def main():
     string = sys.stdin.read()
     words = re.split('\W', string)
