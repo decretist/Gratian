@@ -20,7 +20,8 @@ ignore = ['atque', 'quoque', 'neque', 'itaque', 'absque', 'apsque',
 	  'utique', 'utroque', 'utribique', 'torque', 'coque',
 	  'concoque', 'contorque', 'detorque', 'decoque', 'excoque',
 	  'extorque', 'obtorque', 'optorque', 'retorque', 'recoque',
-	  'attorque', 'incoque', 'intorque', 'praetorque']
+	  'attorque', 'incoque', 'intorque', 'praetorque',
+          'que']
 def main():
     string = sys.stdin.read()
     words = re.split('\W', string)
