@@ -1,5 +1,10 @@
 Data
 ====
-This folder contains data from the Catholic University 186 (Wa) manuscript of
-Gratian's _Decretum_ in CSV format. The files are encoded in UTF-16 to preserve
-non-ASCII characters (e.g., e-caudata).
+Sg short canons
+---------------
+__Sg sort canons.csv__ contains data from the Sankt Gallen 673 (Sg) manuscript
+of Gratian's _Decretum_ in CSV format.
+Burchard glosses
+----------------
+The other files contain data from the Washington 186 (Wa) manuscript of
+Gratian's _Decretum_ in CSV format.
