@@ -2,7 +2,7 @@ Data
 ====
 Sg short canons
 ---------------
-__Sg sort canons.csv__ contains data from the Sankt Gallen 673 (Sg) manuscript
+__Sg short canons.csv__ contains data from the Sankt Gallen 673 (Sg) manuscript
 of Gratian's _Decretum_ in CSV format.
 Burchard glosses
 ----------------
