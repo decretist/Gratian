@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/usr/bin/python
 #
 # tags.py | egrep "<1 |<2 |<3 |<4 |<S |<T A>|<T P>|<T Q>|<T T>" > bones.txt
 # fgrep "<S" bones.txt | sort -n -k 2 > tmp0
