@@ -1,0 +1,11 @@
+ignore = ['absque', 'abusque', 'adaeque', 'adusque', 'apsque',
+	  'atque', 'attorque', 'concoque', 'contorque', 'coque',
+	  'cuique', 'cuiusque', 'decoque', 'denique', 'deque',
+	  'detorque', 'excoque', 'extorque', 'incoque', 'intorque',
+	  'itaque', 'neque', 'oblique', 'obtorque', 'optorque',
+	  'peraeque', 'plenisque', 'praetorque', 'quaeque', 'quamque',
+	  'quandoque', 'quaque', 'quarumque', 'quasque', 'quemque',
+	  'quibusque', 'quique', 'quisque', 'quoque', 'quorumque',
+	  'quosque', 'quotusquisque', 'quousque', 'recoque',
+	  'retorque', 'susque', 'torque', 'ubique', 'undique',
+	  'usque', 'uterque', 'utique', 'utribique', 'utroque']
