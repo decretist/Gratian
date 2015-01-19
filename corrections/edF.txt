@@ -13523,7 +13523,7 @@ portant. Aut certe mensas nummularioum sacerdotum
 dicit scripturas. Nouo enim testamento succedente
 priori, euersae sunt scripturae illorum. -]+ <P 0>
 <P 1> -[PALEA.+
-<4 12> -C. XII.+ <T R> <T R> De eodem.
+<4 12> -C. XII.+ <T R> De eodem.
 <T I> Item ex uerbis Augustini. -(hinc inde collectis, et in
 summam redactis ad Psal. LXX. uers. Quoniam
 non cognoui.)+
