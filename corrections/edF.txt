@@ -3683,7 +3683,7 @@ Paulus Apostolus ad Timotheum: "Manus cito nemini imposueris,
 et nichil sine preiudicio facias in alteram partem declinando."
 -+
 <P 1> -[PALEA.+
-<4 1> -C. I.+ <T R> <T R> De eodem.
+<4 1> -C. I.+ <T R> De eodem.
 <T R> Ex decretis Siluestri Papae in Sinodo Romana c. 9.
 <T T> Nullus acolitorum uel subdiaconorum rem consecratam
 a presbitero aliis porrigat, (quia aliud est minister,
