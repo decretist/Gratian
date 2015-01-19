@@ -9422,7 +9422,7 @@ et Dei condicionis inimicus. -@. 1.+ Si quis, cum
 clericus fuerit, absciderit semetipsum, omnino dampnetur,
 quia suus est homicida.
 <4 5> -C. V.+ <T R> Non producantur ad clerum, qui se ipsos abscidunt.
-<T P> Item ex Concilio Arelatensi II. -[c. 7.]+
+<T I> Item ex Concilio Arelatensi II. -[c. 7.]+
 <T T> Hii, qui se carnali uicio repugnare nescientes abscidunt,
 ad clerum peruenire non possunt.
 <T P> Item Innocentius scribit Felici Nuceriano Episcopo:
