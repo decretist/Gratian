@@ -14485,7 +14485,7 @@ frontibus baptizatos crismate tangere debeant, concedimus.
 "Quamuis corepiscopis": -[Dist. LXVIII.]+
 <4 2> -C. II.+ <T R> Presbiteri ultra suum modum contendere non
 presumant.
-<T I> Item Gelasius. <T P>  -[Papa Episcopis per Lucaniam, etc.
+<T I> Item Gelasius. -[Papa Episcopis per Lucaniam, etc.
 epist. V. c. 8.]+
 <T T> Presbiteros ultra suum modum tendere prohibemus,
 nec episcopali fastigio debita sibimet audacter assumere,
