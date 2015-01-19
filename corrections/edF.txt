@@ -27424,7 +27424,7 @@ antiquam consuetudinem et auctoritatem renouentur. -]+ <P 0>
 <P 1> -[PALEA.+
 <4 6> -C. VI.+ <T R> De eodem.
 <T I> Item ex Concilio Cartaginensi.
-<T R> De precariis, que a rectoribus ecclesiarum inrationabiliter
+<T T> De precariis, que a rectoribus ecclesiarum inrationabiliter
 fiebant, et se suosque successores pena graui
 obligabant, ut facta ipsorum nequiuissent dissoluere, precipimus,
 ut nemo successor in antecessoris sui pena sit
