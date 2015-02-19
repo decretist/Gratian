@@ -20,14 +20,12 @@ def traverse(tree):
         subtree = tree[1][i]
         if isinstance(subtree[1], list):
             tag = subtree[0]
-            # print(tag)
+            print(tag)
             traverse(subtree)
         elif isinstance(subtree[1], str):
             tag = subtree[0]
             text = subtree[1]
-            # print(tag, text)
-            if tag == '<T T>':
-                print(text)
+            print(tag, text)
     return            
 
 def preprocess(text):
