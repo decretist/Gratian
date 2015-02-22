@@ -271,6 +271,10 @@ sicut illa, que parit, uel illud, quod gignitur, nec
 statim post partum baptizari prohibetur.
 Unde eidem Augustino Gregorius
 scribit, dicens:
+Cum enixa fuerit mulier, post quot dies intrare ecclesiam
+debeat, testamenti ueteris preceptione didicisti: quia
+pro masculo XXXIII., pro femina uero LXVI. diebus debet
+abstinere; quod tamen sciendum, quia in misterio accipitur.
 Mulier in ipsa qua genuerit hora gratias actura
 ecclesiam intrare non prohibetur.
 Si mulier eadem hora, qua genuerit, actura gratias
@@ -294,6 +298,11 @@ ad eius concubitum uir non accedat.
 Item.
 Ad eius uero concubitum uir suus accedere non debet,
 quousque qui gignitur ablactetur.
+Praua autem in coniugatorum moribus consuetudo
+surrexit, ut mulieres filios quos gignunt, nutrire contemnant,
+eosque aliis mulieribus ad nutriendum tradant; quod uidelicet
+ex sola causa incontinentiae uidetur inuentum, quia
+dum se continere nolunt, despiciunt lactare quos gignunt.
 Si autem filios suos ex praua consuetudine aliis ad
 nutriendum tradunt, nisi purgationis tempus transierit,
 uiris suis non debent admisceri: quippe et sine partus
@@ -366,6 +375,41 @@ cecidisse. Sin uero ex turpi cogitatione uigilantis oritur
 illusio in mente dormientis, patet animo reatus suus.
 Videt enim, a qua radice inquinatio illa processerit, quia
 quod cogitauit sciens, hoc pertulit nesciens.
+Peccatum non dicitur perpetratum cogitatione
+solum, sed delectatione et consensu.
+Sed pensandum est, ipsa cogitatio utrum in suggestione,
+in delectatione, uel (quod maius est) peccati consensu
+acciderit. Tribus enim modis impletur omne peccatum,
+uidelicet suggestione, delectatione, consensu: suggestio
+quippe fit per diabolum, delectatio per carnem, consensus
+per spiritum; quia et primo culpam serpens suggessit, Eua
+uelut caro delectata est, Adam uelut spiritus consensit.
+Et necessaria est magna discretio, ut inter suggestionem
+delectationem et consensum iudex sui animus presideat.
+Cum enim malignus spiritus peccatum suggerit in
+mente, si nulla peccati delectatio sequatur, peccatum
+omnimodo perpetratum non est; cum uero caro delectari
+ceperit, tunc peccatum incipit nasci; si autem etiam ad
+consensionem ex deliberatione descendit, tunc peccatum
+cognoscitur perfici. In suggestione igitur peccati semen
+est, in delectatione fit nutrimentum, in consensu perfectio.
+Et sepe contingit, ut hoc, quod malignus spiritus seminat
+in cogitatione, caro in delectationem trahat, nec tamen
+animus eidem delectationi consentiat. Et cum caro sine
+anima delectari nequeat, ipse tamen animus carnis uoluptatibus
+reluctans in delectatione carnali aliquo modo ligatur
+inuitus, ut ei ex ratione contradicat, nec consentiat, et tamen
+delectatione ligatus sit, sed ligatum se uehementer
+ingemiscat. Unde et ille celestis exercitus precipuus
+miles gemebat dicens: "Video aliam legem in membris
+meis repugnantem legi mentis meae, et captiuum me ducentem
+in lege peccati que est in membris meis." Si autem
+captiuus erat, minime repugnabat: quapropter et
+captiuus erat, et repugnabat. Igitur legi mentis eius lex,
+que in membris est, repugnabat; si autem repugnabat,
+captiuus non erat. Ecce itaque homo est (ut ita dixerim)
+captiuus, et liber: liber ex iustitia, quam diligit; captiuus
+ex delectatione, quam portat inuitus.
 Quando sit peccatum nocturnis imaginibus illudi.
 Item Ysidorus Sententiarum libro.
 Non est peccatum, quando nolentes imaginibus nocturnis
@@ -571,11 +615,36 @@ Quod autem constitutio naturali iuri cedat
 multiplici auctoritate probatur.
 Ait enim Augustinus ad Bonifatium:
 Leges principum naturali iuri preualere non debent.
+Imperatores, quando pro falsitate contra ueritatem
+constituunt malas leges, probantur bene credentes et coronantur
+perseuerantes; quando autem pro ueritate contra
+falsitatem constituunt bonas leges terrentur seuientes et
+corriguntur intelligentes.
 Quicumque legibus imperatorum, que pro
 Dei ueritate feruntur, obtemperare non uult, acquirit grande
 supplicium. Quicumque ergo legibus imperatorum, que
 contra uoluntatem Dei feruntur, obtemperare non uult,
 acquirit grande premium.
+Nam et temporibus prophetarum omnes reges, qui
+in populo Dei non prohibuerunt, nec euerterunt, que contra
+Dei precepta fuerant instituta, culpantur, et qui prohibuerunt
+et euerterunt, super aliorum merita laudantur.
+Et rex Nabuchodonosor, cum seruus esset idolorum, constituit
+sacrilegam legem, ut simulacrum adoraretur; sed
+eius impiae constitutioni qui obedire noluerunt, pie fideliterque
+fecerunt. Idem tamen rex, diuino correctus miraculo,
+piam et laudabilem legem pro ueritate constituit, ut
+quicumque diceret blasphemiam in Deum Sidrac, Misac et
+Abdenago, cum domo sua penitus interiret.
+Principes tenentur et ipsi uiuere legibus suis.
+Item ex uerbis Isidori libro III. Sententiarum, de summo
+bono, c. 53.
+Iustum est, principem legibus obtemperare suis. Tunc
+enim iura sua ab omnibus custodienda existimet, quando et
+ipse illis reuerentiam prebet. Principes legibus teneri suis,
+nec in se conuenit, posse damnare iura, que in subiectis
+constituunt. Iusta est enim uocis eorum auctoritas, si
+quod populis prohibent, sibi licere non patiantur.
 Scripturis canonicis tractatorum litterae deseruiunt.
 Idem in Prologo libri III. de Trinitate.
 Noli meis litteris quasi canonicis scripturis
@@ -1341,6 +1410,194 @@ uitae suae participes fuerunt, legenda decernimus.
 Item decretales epistolae, quas beatissimi Papae diuersis
 temporibus ab urbe Romana pro diuersorum Patrum consolatione
 dederunt, uenerabiliter suscipiendae sunt.
+Item gesta sanctorum martirum, qui multiplicibus
+tormentorum cruciatibus et mirabilibus confessionum
+triumphis irradiant. Quis ita esse catholicorum
+dubitet, et maiora eos in agonibus fuisse perpessos, nec
+suis uiribus, sed gratia Dei et adiutorio uniuersa tolerasse?
+Sed ideo secundum antiquam consuetudinem singulari
+cautela in sancta Romana ecclesia non leguntur, quia et
+eorum, qui conscripsere, nomina penitus ignorantur, et ab
+infidelibus aut idiotis superflua, aut minus apta, quam
+rei ordo fuerit, scripta esse putantur: sicut cuiusdam
+Quirici et Iulitae, sicut Gregorii aliorumque huiusmodi
+passiones, que ab hereticis perhibentur conscriptae.
+Propter quod, ut dictum est, ne uel leuis subsannandi
+oriretur occasio, in sancta Romana ecclesia non
+leguntur. Nos tamen cum predicta ecclesia omnes martires
+et eorum gloriosos agones, qui Deo magis quam hominibus
+noti sunt, omni deuotione ueneramur. Item
+uitas Patrum, Pauli, Antonii, Ilarionis et omnium eremitarum,
+quas tamen uir beatissimus scripsit Ieronimus,
+cum omni honore suscipimus. Item actus B. Siluestri,
+apostolicae sedis presulis, licet eius, qui conscripsit,
+nomen ignoremus, a multis tamen in urbe Roma catholicis
+legi cognouimus, et pro antiquo usu multae hoc imitantur
+ecclesiae. Item scripta de inuentione S. crucis dominicae,
+et alia scripta de inuentione capitis B. Iohannis
+Baptistae, nouellae quidem reuelationes sunt, et nonnulli
+eas catholici legunt, sed cum hec ad catholicorum
+manus peruenerint, B. Pauli apostoli sententia precedat:
+"Omnia probate, quod bonum est tenete." Item
+Rufinus uir religiosus plurimos ecclesiastici operis edidit
+libros, nonnullas etiam scripturas interpretatus est; sed
+quoniam B. Ieronimus in aliquibus eum de arbitrii libertate
+notauit, illa sentimus, que predictum B. Ieronimum
+sentire cognoscimus: et non solum de Rufino, sed etiam de
+uniuersis quos uir sepius memoratus zelo Dei et fidei
+religione reprehendit. Item Origenis nonnulla opuscula,
+que uir beatissimus Ieronimus non repudiat, legenda
+suscipimus, reliqua autem omnia cum auctore suo dicimus
+esse renuenda. Item chronicon Eusebii Cesariensis,
+atque eiusdem historiae ecclesiasticae libros, quamuis in
+primo narrationis suae libro tepuerit, et postea in laudibus
+atque excusatione Origenis scismatici unum conscripserit
+librum: propter rerum tamen notitiam singularem,
+que ad instructionem pertinent, usquequaque
+non dicimus renuendos. Item Orosium uirum eruditissimum
+collaudamus, quia ualde nobis necessariam aduersus
+paganorum calumpnias ordinauit historiam, miraque
+breuitate contexuit. Item uenerabilis uiri Sedulii
+pascale opus, quod heroicis descripsit uersibus, insigni
+laude proferimus. Item Iuuenci nichilominus
+laboriosum opus non spernimus, sed miramur.
+Ceterum, que ab hereticis, siue scismaticis
+conscripta uel predicata sunt, nullatenus recipit catholica
+et apostolica ecclesia Romana. E quibus pauca,
+que ad memoriam uenerunt, et a catholicis uitanda sunt,
+credimus esse subdenda. Imprimis Arriminensem
+sinodum, a Constantio Cesare Constantini filio congregatam
+mediante Tauro prefecto, ex tunc et nunc et usque
+in eternum confitemur esse dampnatam. Item
+itinerarium nomine Petri apostoli, quod appellatur sancti
+Clementis liber VIII., apocrifum. Actus nomine
+Andreae apostoli, apocrifi. Actus nomine Philippi
+apostoli, apocrifi. Actus nomine Petri apostoli,
+apocrifi. Actus nomine Thomae apostoli, apocrifi.
+Euangelium nomine Thaddei, apocrifum.
+Euangelium nomine Thomae apostoli, quo utuntur
+Manichei, apocrifum. Euangelium nomine Barnabae,
+apocrifum. Euangelium nomine Bartholomei
+apostoli, apocrifum. Euangelium nomine Andreae
+apostoli, apocrifum. Euangelia, que falsauit Lucianus,
+apocrifa. Euangelia, que falsauit Ircius,
+apocrifa. Liber de infantia Saluatoris, apocrifus.
+Liber de natiuitate Saluatoris, et de S. Maria,
+et de obstetrice Saluatoris, apocrifus.
+Liber, qui appellatur Pastoris, apocrifus. Libri omnes,
+quos fecit Lenticius, discipulus diaboli, apocrifi.
+Liber, qui appellatur Fundamentum, apocrifus. Liber,
+qui appellatur Thesaurus, apocrifus. Liber, qui appellatur
+de filiabus Adae, uel Geneseos, apocrifus
+Centimetrum de Christo Virgilianis compaginatum uersibus,
+apocrifum. Liber, qui appellatur Actus Teclae
+et Pauli apostoli, apocrifus. Liber, qui appellatur
+Nepotis, apocrifus. Liber prouerbiorum, qui
+ab hereticis conscriptus et S. Xisti nomine signatus est,
+apocrifus. Reuelatio, que appellatur Pauli apostoli
+apocrifa. Reuelatio, que appellatur Thomae Apostoli,
+apocrifa. Reuelatio, que appellatur Stephani,
+apocrifa. Liber, qui appellatur Transitus S. Mariae,
+apocrifus. Liber, qui appellatur Penitentia Adae,
+apocrifus. Liber Ogiae nomine Gigantis, qui ab
+hereticis cum dracone post diluuium pugnasse perhibetur,
+apocrifus. Liber, qui appellatur Testamentum Iacob,
+apocrifus. Liber, qui appellatur Penitentia Origenis,
+apocrifus. Liber, qui appellatur Penitentia S. Cipriani,
+apocrifus. Liber, qui appellatur Penitentia Iamnis
+et Mambrae, apocrifus. Liber, qui appellatur Sortes
+apostolorum, apocrifus. Liber Lusanae, apocrifus.
+Liber canonum Apostolorum, apocrifus.
+Liber Phisiologus, qui ab hereticis conscriptus est et B.
+Ambrosii nomine presignatus, apocrifus. Historia
+Eusebii Pamphili, apocrifa. Opuscula Tertulliani
+siue Africani, apocrifa Opuscula Postumiani
+et Galli, apocrifa. Opuscula Montani, Priscillae et
+Maximillae, apocrifa. Opuscula omnia Fausti
+Manichei, apocrifa. Opuscula alterius Clementis
+Alexandrini, apocrifa. Opuscula Cassiani presbiteri
+Galliarum, apocrifa. Opuscula Victorini Pictauiensis,
+apocrifa. Opuscula Fausti Regiensis
+Galliarum, apocrifa. Opuscula Frumentii, apocrifa.
+Epistola Iesu ad Agbarum, regem, apocrifa.
+Passio Georgii, apocrifa. Passio Cirici et Iulitae,
+apocrifa. Scriptura, que appellatur Contradictio
+Salomonis, apocrifa. Philacteria omnia,
+que non angelorum, ut illi confingunt, sed demonum
+magis arte conscripta sunt, apocrifa. Hec et omnia
+his similia, que Simon Magus, Nicolaus, Cerinthus,
+Marcion, Basilides, Ebion, Paulus etiam Samosatenus, Fotinus
+et Bonosus et qui simili errore defecerunt, Montanus
+quoque cum suis obscenissimis sequacibus, Apollinaris,
+Valentinus siue Manicheus, Faustus, Sabellius,
+Arrius, Macedonius, Eunomius, Nouatus, Sabbatius, Celestius,
+Donatus, Eustathius, Iouinianus, Pelagius,
+Iulianus et Latiensis, Celestinus, Maximinus, Priscianus
+ab Hispania, Lampedius, Dioscorus, Eutices,
+Petrus, et alius Petrus, e quibus unus Alexandriam, alius
+Antiociam maculauit, Acatius Constantinopolitanus, cum
+consortibus suis, nec non et omnes hereses, quas ipsi
+eorumque discipuli, siue schismatici docuerunt uel conscripserunt,
+quorum nomina minime retinentur, non solum
+repudiata, uerum etiam ab omni Romana et apostolica
+ecclesia eliminata, atque cum suis auctoribus auctorumque
+sequacibus sub anathematis indissolubili uinculo, in eternum
+confitemur esse dampnata.
+Ceterum, qui libri in ecclesiasticis offitiis
+per anni circulum a nonnullis legantur (quod ritum illum
+apostolica non reprobat, sed sequitur ecclesia) pro fidelium
+edificatione adnotandum censuimus.
+Quidam, quod in septuagesima ponunt pentateuchum
+usque in XV. diem ante Pascha, XV. die
+ponunt Ieremiam usque in cenam Domini. In cena Domini
+legunt tres lectiones de lamentatione Ieremiae:
+"Quomodo sedet sola ciuitas, etc." et tres de tractatu S.
+Augustini in psalmum LIV.: "Exaudi Deus orationem
+meam et ne despexeris," et tres de Apostolo, ubi ait in
+epistola ad Corinthios: "Conuenientibus uobis in unum."
+Secunda lectio sic incipit: "Similiter et calicem postquam
+cenauit, etc." Tertia: "De spiritualibus autem
+nolumus uos ignorare, fratres." In parasceue tres lectiones
+de lamentatione Ieremiae, et tres de tractatu S.
+Augustini in psalmum LXIII: "Exaudi Deus orationem
+meam, cum deprecor," et tres de Apostolo, ubi ait in
+epistola ad Ebreos: "Festinemus ingredi in illam requiem,
+etc." Secunda lectio: "Omnis namque pontifex."
+Tertia: "De quo grandis nobis sermo." In sabbato sancto
+tres lectiones de lamentatione Ieremiae prophetae, et
+tres de tractatu S. Augustini in eumdem psalmum LXIII.:
+"Exaudi Deus orationem meam, cum deprecor," et tres
+de Apostolo, ubi ait in epistola ad Ebreos: "Christus
+assistens pontifex futurorum bonorum." Secunda lectio:
+"Ubi enim testamentum est." Tertia: "Umbram enim
+habens lex futurorum bonorum." In pascha Domini homilias
+ad ipsum diem pertinentes, infra hebdomadam homilias.
+In octauis paschae ponunt actus apostolorum et
+epistolas canonicas et apocalipsin, usque in ocatauas pentecostes.
+In octauis pentecostes ponunt libros regum et
+paralipomenon usque in calendas augusti. In dominica prima
+mensis augusti ponunt Salomonem usque in calendas septembris.
+In dominica prima septembris ponunt Iob Tobiam,
+Hester, Esdram usque in calendas octobris. In dominica
+prima mensis octobris ponunt librum Machabeorum usque
+in calendas nouembris. In dominica prima mensis
+nouembris ponunt Ezechielem et Danielem et minores prophetas
+usque in calendas decembris. In dominica prima
+mensis decembris ponunt Esaiam prophetam usque ad
+natiuitatem Domini. In natali Domini legunt primum
+de Esaia tres lectiones. Prima lectio: "Primo tempore
+alleuiata est terra Zabulon, etc." Secunda: "Consolamini,
+consolamini." Tertia: "Consurge, consurge".
+Deinde leguntur sermones uel homiliae ad ipsum diem
+pertinentes. In natali S. Stephani homilia de ipso die. In
+natali S. Ioannis similiter. In natali innocentium similiter.
+In natali S. Siluestri similiter. In octaua natalis Domini
+homilia de ipso die. In dominica prima post natiuitatem
+Domini ponunt epistolas Pauli usque in septuagesimam.
+In epiphania lectiones tres de Esaia. Prima lectio incipit:
+"Omnes sitientes." Secunda: "Surge, illuminare Ierusalem."
+Tertia: "Gaudens gaudebo in Domino." Deinde
+leguntur sermones uel homiliae ad ipsum diem pertinentes.
 Apostolorum canones, qui per Clementem
 Romanum Pontificem, sicut quidam asserunt, dicuntur esse translati,
 sunt quinquaginta.
@@ -1472,7 +1729,12 @@ Patrum, temporibus Iulii Papae, sub Constantino principe.
 Secunda in Constantinopolim CL. Patrum, contra
 Macedonium et Eudoxium, temporibus Damasi Papae et
 Gratiani principis, quando Nectarius eiusdem urbis episcopus
-est ordinatus.
+est ordinatus. Quarta in Calcedone
+DCXXX. Patrum, sub Leone Papa, temporibus
+Martiani principis, contra Euticen nefandissimorum
+monachorum presulem. Quinta in Constantinopolim
+temporibus Iulii Papae, sub Iustiniano principe.
+contra Theodorum et omnes hereticos.
 Prima autem sinodus in Nicea, CCCXVIII. Patrum,
 contra Arrium Alexandrinum presbiterum, qui tres gradus
 in trinitate asserebat, Patrem maiorem, Filium minorem,
@@ -1647,6 +1909,12 @@ sinodus non debet.
 Sinodum episcoporum absque huius sanctae sedis
 auctoritate (quamquam quosdam episcopos possitis congregare)
 non potestis regulariter facere.
+Neque ullum episcopum, qui hanc appellauerit apostolicam
+sedem, dampnare, antequam hinc sententia definitiua
+procedat. Nam si seculares in publicis iudiciis libellis
+utuntur appellatoriis, quanto magis sacerdotibus hec eadem
+agere licet, qui super illos sunt? de quibus dictum
+est: "Ego dixi, Dii estis?"
 Non est ratum concilium, quod auctoritate Romanae
 ecclesiae fultum non fuerit.
 Item Iulius Papa orientalibus episcopis.
@@ -1757,6 +2025,10 @@ ad exortationem et correctionem, que etsi non habent uim
 constituendi, habent tamen auctoritatem imponendi et indicendi,
 quod alias statutum est et generaliter seu specialiter obseruari
 preceptum.
+Ex Cabilonensi Concilio, c. 6.
+Placuit, ut conseruato metropolitani primatu ceteri
+episcopi, secundum suae ordinationis tempus, alius alii
+deferat locum.
 Unde Leo I. Thessalonicensi
 Episcopo:
 Bini conuentus per singulos annos ab episcopis
@@ -1867,6 +2139,7 @@ Quod si non potuerint occurrere, excusationes suas
 litteratorie subscribant; nisi autem rationem impedimenti
 sui apud primatem suum reddiderint, ecclesiae suae
 communione debent esse contenti.
+Item ex Concilio Turonensi.
 Episcopus non debet abbatem cogere ad sinodum ire,
 nisi aliqua rationabilis causa existat .
 A communione sit alienus, qui contempsit
@@ -1911,6 +2184,10 @@ rationem excommunicentur, quamdiu communi consensu
 de his placuerit dare sententiam. Nulli autem episcopo
 liceat propria apud semetipsum concilia facere, preter eos,
 quibus metropoles sunt creditae.
+Item ex Concilio Bylonensi.
+Annis singulis episcopus in sua diocesi sinodum faciat
+de suis clericis, nec non abbatibus, et discutiat alteros
+clericos et monachos.
 Singuli uero episcoporum suis ecclesiis notificare
 studeant, que in conciliis statuuntur.
 Unde in concilio Tolletano:
@@ -1977,6 +2254,13 @@ quoniam inter ipsos canones unum B. Leonis capitulum
 constat esse permixtum, quo ita omnia decretalia constituta
 sedis apostolicae custodiri mandantur, ut si quis in illa commiserit,
 nouerit sibi ueniam denegari.
+Ait enim c. 10. suarum decretalium: "Ne quid uero
+sit, quod pretermissum a nobis forte credatur, omnia decretalia
+constituta, tam beatae recordationis Innocentii, quam
+omnium decessorum nostrorum, que de ecclesiasticis ordinibus
+et canonum promulgata sunt disciplinis, ita a uestra
+dilectione custodiri mandamus, ut si quis in illa commiserit,
+ueniam sibi deinceps nouerit denegari."
 Dicendo uero: "omnia decretalia constituta," nullum
 de decretalibus constitutis pretermisit, quod non mandauerit
 esse custodiendum. Et rursus asserendo: "omnium
@@ -2977,6 +3261,25 @@ legimus. Ergo ad B. Innocentii Papae canonica decreta
 sanctitatem tuam transmittimus, et que sint tibi in consecrationibus
 et ordinibus obseruanda, principia paginae ad
 Decentium Eugubinum episcopum missae te affatim edocebunt.
+Ex Concilio Hispalensis II. c. 5.
+Ex epistola Simplicii Papae Seuero et Florentino Episcopis
+directa. Ad cognitionem nostri examinis Gabrenensis
+diaconi relatu peruenit de quibusdam ipsius ecclesiae
+clericis, quorum cum unus ad presbiterium, duo
+ad Leuitarum ministerium consecrarentur, episcopus
+eorum, oculorum dolore detentus, fertur manum suam super
+eos tantum posuisse, et presbiter quidam illis contra
+ecclesiasticum ordinem benedictionem dedisse; qui propter
+tantam presumptionis audaciam poterat accusatus iudicio
+presenti dampnari, si adhuc in corpore positus, non fuisset
+mortis uocatione preuentus. Sed quia iam ille examini
+diuino relictus humano iudicio accusari non potest, hi, qui
+supersunt, et ab eo non consecrationis titulum, sed ignominiae
+potius elogium acceperunt, ne sibi licentiam
+talis ultra usurpatio faciat, decreuimus, ut a gradu sacerdotalis
+uel leuitici ordinis, quem peruerse adepti sunt,
+depositi equo iudicio abiciantur. Tales enim merito
+iudicati sunt remouendi, quia praue inuenti sunt constituti.
 Item queritur, an eorum ordinatio sit rata habenda,
 quibus episcopus, oculorum languore impeditus manus,
 imponit, et presbiter super eos orationem dicit.
@@ -3110,6 +3413,12 @@ monstratum est. Nunc autem uidendum est de sacerdotibus et
 reliquis, an sine examinatione sint promouendi. De his ita scribit
 Paulus Apostolus ad Timotheum: "Manus cito nemini imposueris,
 et nichil sine preiudicio facias in alteram partem declinando."
+De eodem.
+Ex decretis Siluestri Papae in Sinodo Romana c. 9.
+Nullus acolitorum uel subdiaconorum rem consecratam
+a presbitero aliis porrigat, (quia aliud est minister,
+aliud assistens), nisi tantum supportet, quod ei sacerdos
+imposuerit suo ore benedictum.
 Ante probationem nullus ordinetur clericus.
 Item ex Concilio Cartaginensi III., c. 22.
 Nullus ordinetur clericus, nisi probatus uel episcoporum
@@ -3398,6 +3707,14 @@ risus, uel peccatum curae familiaris, (que uix sine
 culpa uel ab ipsis agitur, qui culpam qualiter declinare debeant
 sciunt,) que etiam post mortem grauant, si
 adhuc in uita positis minime fuerint relaxata.
+De eodem.
+Item Augustinus in libro de uera et falsa
+penitentia c. 18.
+Qui in aliud seculum distulit fructum conuersionis, prius
+purgabitur igne purgationis. Hic autem ignis, etsi,
+eternus non sit, miro tamen modo grauis est. Excellit
+enim omnem penam, quam umquam aliquis passus est in
+hac uita, uel pati potest.
 Alias autem ea tantum delicta significat, quorum
 est perpetua infamia. Unde illud Ieronimi: primum itaque sine
 crimine etc.
@@ -3591,6 +3908,22 @@ per ypocrisim ecclesiasticam regulam conturbare uoluit, et
 non legitime in uoto suo permansit, ut penitentiam agat
 de illusione nefanda, et reuertatur ad id, quod spopondit,
 et in sacro ministerio permaneat, quod inchoauit.
+Idem ibidem.
+Nam si consenserimus, quod omnia sacramenta
+ecclesiastica quisque prout uult fingat et non uere faciat
+omnis ordo ecclesiasticus turbabitur, nec catholicae fidei
+iura consistunt, nec canones sacri rite obseruantur. Quid
+enim profuit Simoni Mago baptismum sacrum ficte suscipere,
+et in Christianitate permansurum se finxisse, cum per Apostolum,
+fraude eius detecta, quod sibi futurum esset prenunciatum
+fuit? Ait enim: "Pecunia tua tecum sit in
+perditionem: cor enim tuum non est rectum coram Deo.
+Penitentiam itaque age ab hac nequitia tua, et roga
+Deum, si forte remittatur tibi hec cogitatio cordis
+tui: in felle enim amaritudinis et obligatione iniquitatis uideo
+te esse." Ideo tales, nisi resipiscant, spirituali gladio percutere
+censemus. Non enim fas est Spiritui sancto mentiri,
+sicut Ananias et Saphira mentiti sunt, et statim perierunt.
 In sacris ordinibus constituti, non ducant uxores:
 et si duxerint, separentur.
 Item Calixtus Papa.
@@ -4047,6 +4380,12 @@ et Leuitae pudicitiam ex die ordinationis suae obseruare
 debent, quibus uel sacerdotium, uel ministerium
 sine successione est, nec preterit dies, qua uel a sacrificiis
 diuinis, uel a baptismatis offitio uacent?
+Item ibidem.
+Nam sicut Paulus ad Corinthios scribit, dicens:
+"Abstinete uos ad tempus, ut uacetis orationi," et hoc
+utique laicis precepit: multo magis sacerdotes, quibus
+orandi et sacrificandi iuge sacrificium est, semper debebunt
+ab huiusmodi consortio abstinere.
 Qui ab uxoris offitiis abstinent, ad sacrificia
 admittantur.
 Idem Exsuperio Tolletano Episcopo.
@@ -4198,6 +4537,25 @@ secundo tertioue seruandum est, ne aut leuitico aut
 presbiterali honore, aut episcopali excellentia quisquam
 idoneus existimetur qui se a uoluptate luxuriae nec
 dum refrenasse detegitur.
+Item Gregorius Leoni Episcopo Catinensi,
+libro III. epistola 34.
+Multorum relatione comperimus, hanc apud uos olim
+consuetudinem tenuisse, ut subdiaconi suis licite miscerentur
+uxoribus. Quod ne denuo quisquam presumeret
+a Seruo dei sedis nostrae diacono ex auctoritate nostri decessoris
+est isto modo prohibitum, ut eodem tempore ii, qui
+iam uxoribus fuerant copulati, unum e duobus eligerent, id
+est, aut a suis uxoribus abstinerent, aut certe ministrare
+nulla ratione presumerent. Et quantum dicitur, Speciosus
+tunc subdiaconus pro hac re ab administrationis se suspendit
+offitio, et usque in obitus sui tempus notarii quidem gessit
+offitium, et a ministerio, quod subdiaconum oportuerat exhibere,
+cessauit. Et post aliqua: De cetero uero fraternitas
+tua sit omnino sollicita, ut quos ad hoc iam offitium
+contigerit promoueri, hoc quam maxime diligenter
+inspiciat, ne si uxores habent, miscendi se cum eis licentia
+potiantur, sed ad similitudinem sedis apostolicae eos cuncta
+obseruare sua nichilominus districtione constituat.
 Extra sacros ordines constituti ducant uxores et ab
 ecclesia stipendia accipiant.
 Item Gregorius Augustino Anglorum Episcopo.
@@ -4409,6 +4767,17 @@ non alicui omnino, qui in clero est, licere subintroductam
 mulierem habere, nisi forte aut matrem, aut sororem,
 aut amitam, aut etiam eas idoneas personas, que
 fugiant suspiciones.
+Item Ieronimus ad Nepotianum de uita
+clericorum, et alibi.
+Hospitiolum tuum aut raro, aut numquam mulierum
+pedes terant. Quia non potest toto corde cum Deo
+habitare, qui feminarum accessibus copulatur. Femina
+conscientiam secum pariter habitantis exurit.
+Numquam de formis mulierum disputes. Feminae
+nomen tuum nouerint uultum nesciant. Feminam,
+quam bene uideris conuersantem, mente dilige, non
+corporali frequentia. Si bonum est mulierem non
+tangere, malum est ergo tangere.
 Presbiter uxorem suam quasi sororem diligat
 et quasi hostem fugiat.
 Item Gregorius in Dialogorum libro IV.
@@ -4553,7 +4922,16 @@ filiae suae conuersatione uitanda uobis ammonentibus
 obedire distulerit, a uestro collegio excommunicatus abscedat.
 Quod si in hoc adhuc contumax apparuerit, a ministerio
 cessare debebit.
-.
+Ex Concilio Epaonensi c. 4.
+Episcopum, presbiterum aut diaconum canes ad
+uenandum, aut accipitres, aut huiusmodi res habere non
+licet. Quod si quis talium personarum in hac uoluptate
+sepius detentus fuerit, si episcopus est, tribus mensibus a
+communione suspendatur; diaconus uero ab omni
+offitio et communione suspendatur .
+Omnibus seruis Dei uenationes et siluaticas uagationes
+cum canibus, et ut accipitres aut falcones habeant
+interdicimus.
 Concubina autem hic ea intelligitur, que
 cessantibus legalibus instrumentis unita est, et coniugali affectu
 asciscitur; hanc coniugem facit affectus, concubinam uero lex
@@ -4569,6 +4947,21 @@ Item Ysidorus de distantia ueteris et noui testamenti.
 Christiano non dicam plurimas, sed nec duas simul
 habere licitum est, nisi unam tantum aut uxorem, aut certe
 loco uxoris (si coniux deest) concubinam.
+Ex dictis Augustini in libro VII. homiliarum,
+homilia 49.
+Audite carissimi membra Christi et matris catholicae
+ecclesiae filii! Quod dico competentibus et fidelibus
+audiant penitentes. Quod dico fidelibus, dico et competentibus,
+et penitentibus. Audiant catecumini, audiant omnes,
+omnes timeant, nemo contempnat; sit mihi in consolationem
+uester auditus, ne uobis sit in testimonium dolor
+meus. Competentibus dico, fornicari uobis non licet, sufficiant
+uobis uxores; audiat Deus, si uos surdi estis,
+audiant angeli, si uos contempnitis. Concubinas uobis
+habere non licet; et si non habetis uxores, tamen non
+licebit uobis habere concubinas, quas postea dimittatis
+et ducatis uxores, tanto magis dampnatio uobis erit, si
+uolueritis habere uxores et concubinas.
 Ceterum, si non talis concubina
 fuerit, et etas illius, de quo agitur, futurae incontinentiae suspicionem
 auferre dignoscitur, apostolica concessione ad ordinem
@@ -4775,6 +5168,25 @@ doctrinam rubentes buccas tumentiaque ora
 proferre? Si in loco apostolorum sumus, non solum
 sermonem eorum imitemur, sed conuersationem et
 abstinentiam.
+De eodem.
+Idem ad Oceanum, epistola 83.
+Venter mero estuans cito despumat in libidines.
+Ubi ebrietas, ibi libido dominatur et furor.
+De eodem.
+Idem ad Nepotianum, de uita clericorum.
+Vinolentum sacerdotem et Apostolus dampnat, et
+uetus lex prohibet. Sacerdotes, qui ministrant in templo
+Dei, prohibentur uinum et siceram bibere, ne in crapula
+et ebrietate aggrauentur corda eorum. Sicera hebreo
+sermone omnis potio nuncupatur, que inebriare potest.
+Et infra: Quicquid inebriat et statum mentis euertit,
+fuge similiter ut uinum. "Nolite, ait Apostolus, inebriari
+uino, in quo est luxuria." Et supra: Qui altario deseruiunt,
+uinum et siceram non bibant. Sponsa Christi uinum
+fugiat ut uenenum. Vinum et ebrietas incendium est.
+De eodem.
+Item Prosper de uita contemplatiua, libro II. capitulo 22.
+Luxuriam facit et nutrit uini perceptio nimia, non natura.
 In paradyso abstinentia, post paradysum edendi
 lasciuia cepit.
 Item Ambrosius in sermone de ieiunio Diuinum ad patrem
@@ -4969,6 +5381,14 @@ aut in sumptus domesticos aut in templi stipes, aut
 sordidum conuertit in lucrum. Heli sacerdos ipse fuit
 sanctus; sed quia filios suos non erudiuit in omni disciplina
 et correctione, supinus cecidit et mortuus est.
+Item ex responsione Adriani Papae ad
+Carolum, c. 49.
+Omnem uim uenenorum suorum in dialectica disputatione
+constituunt heretici, que philosophorum sententia
+definitur non astruendi uim habere, sed studium destruendi.
+Sed non in dialectica complacuit Deo saluum facere
+populum suum. Regnum enim Dei in simplicitate fidei
+est, non in contentione sermonis.
 B. Ieronimus ab angelo uerberatur, quia Ciceronis
 libros legebat.
 Item Rabanus de pressuris ecclesiasticis.
@@ -5264,6 +5684,24 @@ plane intelligit, dicat "Amen"; sed quia pie toleranda sunt
 ab eis, qui didicerint ut sono in foro, sic uoto in ecclesia
 benedici. Itaque forensis illa nonnumquam forte bona dictio
 numquam tamen benedictio dici potest.
+De eodem.
+Item Gregorius ad Leandrum Episcopum
+Hispalensem, in prefatione Moralium ad finem.
+Indignum uehementer existimo, ut uerba celestis oraculi
+restringam sub regulis Donati.
+Item Augustinus de uera religione,
+c. 49. et 50.
+Locutio diuinarum scripturarum secundum cuiusque linguae
+proprietatem accipienda est. Habet enim omnis lingua
+sua quedam propria genera locutionum, que cum in aliam
+linguam transferuntur, uidentur absurda.
+Item Ieronimus ad Pammachium,
+epistola LII., cuius initium est: Christiani interdum
+pudoris est.
+Ecclesiastica interpretatio etiamsi habet eloquii uenustatem,
+dissimulare eam debet et fugere, ut non otiosis
+philosophorum scolis paucisque discipulis, sed uniuerso
+loquatur hominum generi.
 Episcopus propter obprobrium senectutis a paruulis
 et a minimis discere non erubescat.
 Item Clemens Papa.
@@ -5617,6 +6055,13 @@ Nulli episcopi uel clerici in ecclesia conuiuentur, nisi
 forte transeuntes hospitiorum necessitate illic reficiantur.
 Populi etiam ab huiusmodi conuiuiis quantum fieri potest
 prohibeantur.
+De eodem.
+Item ex dictis B. Benedicti Abbatis.
+Oratorium hoc sit, quod dicitur; nec ibi quicquam aliud
+geratur uel condatur, quam quod diuinis ministeriis
+conueniat.
+De eodem.
+Item Augustinus.
 In oratorio preter orandi et psallendi cultum penitus
 nichil agatur, ut nomini huic et opera iugiter inpensa concordent.
 Pudicus quoque debet esse sacerdos, ut et moribus,
@@ -5877,6 +6322,50 @@ non plus, quam necesse est, seruitur corpori, sed sola eius
 infirmitas reficitur, ut ad usus exercendae uirtutis habeatur.
 Hec itaque si uos in uestris conuiuiis agitis, abstinentium,
 fateor, magistri estis.
+Item ex Concilio Nanetensi.
+Nullus presbiterorum, quando ad anniuersarium
+diem, trigesimum, aut septimum, uel tertium alicuius defuncti,
+aut quacumque uocatione ad collectam presbiteri
+conuenerit, se inebriare ullatenus presumat, nec precatus
+amore sanctorum uel ipsius animae bibere, aut alios
+ad bibendum cogere, uel se aliena precatione ingurgitare;
+nec plausus et risus inconditos, et fabulas inanes ibi referre,
+aut cantare presumat, aut turpia ioca uel urso, uel tornatricibus
+ante se fieri patiatur; nec laruas demonum
+ante se ferri consentiat, quia hoc diabolicum est et a sacris
+canonibus prohibitum.
+De eodem.
+Item ex eodem.
+Quando autem conuenerint presbiteri ad aliquod conuiuium,
+aliquis prior illorum uersum ante mensam incipiat
+et cibum benedicat. Et tunc secundum ordinem sedeant,
+alter alteri honorem prebentes; et per uices cibum et
+potum benedicant, et aliquis de illorum clericis aliquid de
+sancta scriptura legat. Et post refectionem similiter sanctum
+ymnum dicant ad exemplum Domini, sicut in cena
+fecisse legitur, et sic se contineant omnes presbiteri,
+maxime in talibus locis, ut non uituperetur ministerium
+illorum.
+De eodem.
+Item ex eodem.
+Quando presbiteri per calendas simul conueniunt post
+peractum diuinum misterium ad necessariam collationem,
+non quasi ad plenam refectionem, sed quasi ad
+prandium ibi ad tabulas resideant, ne per talia inhonesta
+conuiuia se inuicem grauent, quia indecens est et onerosum.
+Sepe etiam tarde ad ecclesiam redeuntes maius
+damnum de reprehensione consequuntur, quod de grauedine
+mutua contrahunt, quam lucrum ibi faciant. Nam
+de huiusmodi conuentu Paulus Corinthios reprehendit, qui
+inconuenienter cenam dominicam manducare conueniebant.
+Sic et qui ad cenam dominicam, id est ad collationem
+uerbi, sub occasione conueniunt, et ex ueritate uentris
+causa coniunguntur, reprehensibiles coram Deo et hominibus
+habentur. Et ideo peractis omnibus, qui uoluerint
+panem cum caritate in domo fratris sui simul cum fratribus
+frangant, et singuli singulos bibere faciant, et maxime
+ultra tertiam uicem poculum non contingant, et sic ad
+ecclesias redeant.
 Christiani ex simbolis conuiuia non celebrent.
 Item ex Concilio Laudicensi.
 Non oportet ministros altaris uel quoslibet
@@ -6895,6 +7384,31 @@ in apostolum electus est. Multi quoque ab heresi ad unitatem
 catholicae fidei reuertentes in suis ordinibus recepti sunt, alii uero
 ad episcopalem etiam gradum sunt promoti, utpote Augustinus
 et alii quam plures.
+De eodem.
+Iohannes Crisostomus a duabus sinodis orthodoxorum
+episcoporum fuit diiudicatus, sed iterum fuit restitutus.
+Marcellus episcopus Ancirae Galatiae depositus fuit, sed
+postmodum proprium recepit episcopatum. Asclepius diiudicatus
+a sinodo ecclesiam suam postea recepit. Lucius
+episcopus Adrianopolites dampnatus a Papa Iulio recepit
+ecclesiam sui episcopatus. Cirillus episcopus Ierosolimitanus
+depositus fuit, postea reconciliatus est ecclesiae suae.
+Simili modo Polichronium eiusdem ecclesiae Ierosolimitanae
+pontificem Sixtus Papa dampnauit et iterum ipse eum
+reconciliauit. Innocentius Papa Fotinum episcopum dampnauit,
+sed postea eum in proprium locum restituit ecclesiae
+suae. Misenum episcopum a Felice Papa dampnatum
+Gelasius Papa successor illius reconciliauit et ecclesiae
+suae restituit. Leontius, dum esset presbiter, depositus
+fuit, sed postea in Antiochia patriarcha extitit. Gregorius
+uero quartus Papa Theodosium, quem Eugenius eius antecessor
+presbiterii honore priuauerat, sanctae ecclesiae Signinae
+consecrauit episcopum. Ibas namque episcopus
+diiudicatus fuit, sed sancta sinodus canonica suam illi restituit
+ecclesiam. Rothadum uero episcopum sanctae Suessionensis
+ecclesiae, a sinodo, cui Carolus interfuit,
+condempnatum, et Sophronium Placentinum episcopum
+merito reprobatum, Nicolaus Papa ambos reconciliauit.
 Preterea Calixtus Papa de huiusmodi ita scribit:
 Clerici post lapsum in suis ordinibus
 reparari possunt.
@@ -7071,6 +7585,21 @@ Iudicio tamen episcopi dimittendus est, si in
 suo debeat recipi gradu, quia multociens hoc ipsum,
 quod de sacrosancto altario contaminatum est, in episcopi
 potestate dimissum est.
+Item Augustinus ad Bonifacium.
+Bene ualet sacerdos restitui ad honorem suum post peractam
+penitenciam, licet in hoc diuersi diuersa sentiant,
+dicentes, non posse restitui ad honorem. Sed sic dictum est
+propter simulatas penitencias quorundam, et propter affectatas
+honorum dignitates.
+Sacerdos quidem si cadit, ualet, et habet restitutionis
+locum post dignam peractam penitenciam in honorem
+suum, Propheta attestante, qui ait: "Numquid qui cadit
+non adiciet, ut resurgat?" Et B. Gregorius hoc dicit ad
+Secundinum inclusum, amicum suum: Etiam ab ipso Propheta
+in hoc argumentum habemus, qui, cum post peractum
+adulterium et homicidium perpetrauit, tamen postea
+peracta digna penitencia per Dei gratiam ad pristinum offitium
+restituitur.
 Quomodo igitur huiusmodi auctoritatum
 dissonantia ad concordiam reuocari ualeat, breuiter inspiciamus.
 Sunt quidam, quos non odium criminis, sed timor
@@ -7416,6 +7945,20 @@ Verum si presbiter adeo uestro studio obnoxius forte
 claruerit, precipimus, ut tale beneficium sibi ecclesiae suae
 concedatur, quo et ipse et sui sufficiens possint habere
 suae sustentacionis solatium.
+De eodem.
+Item ex Concilio Maticensi c. 6.
+Qui uero odii meditatione uel propter cupiditatem
+Iudeum uel paganum occiderit, quia imaginem Dei et
+spem futurae conuersionis exterminat, quadraginta dies
+in pane et aqua peniteat.
+De eodem.
+Si quis homicidium fecerit, si episcopus est, XV. annos
+peniteat, et deponatur; cunctos quoque dies uitae suae
+peregrinando finiat. Presbiter XII. annis peniteat, tres
+ex his in pane et aqua, et deponatur superioris sentencia.
+Diaconus X. annis peniteat, tres ex his in pane et aqua.
+Clericus et laicus VII. annis peniteat, tres ex his in pane et
+aqua, et ad gradum cuiuslibet sacerdocii accedere non presumat.
 Quinquennio a communione abstineant, qui casu
 homicidium faciunt.
 Item ex Concilio Neocesariensi.
@@ -7457,6 +8000,7 @@ uideatur, si hoc ita est, neque super hoc ambigi poterit,
 omni metu ac suspicione, quam ex admissae rei discrimine
 sustinet, secundum id, quod annotacione nostra conprehensum
 est, uolumus liberari.
+Item Imperator Antoninus.
 Frater uester rectius fecerit, si se presidi prouinciae obtulerit,
 qui, si probauerit, non occidendi animo hominem
 a se esse percussum, remissa homicidii pena secundum militarem
@@ -7515,6 +8059,10 @@ ueraciter afflictos non diu suspendere, uel desidiosos prolixiori
 tempore ab ecclesiae corpore segregare; ita tamen,
 ut sic offitiorum suorum loca recipiant, ne possint ad altiora
 offitia ulterius promoueri.
+Quod si iterato uelut canes ad uomitum reuersi
+fuerint, et ueluti sues in uolutabris luti iacuerint,
+non solum dignitate offitii careant, sed etiam sanctam communionem
+nisi in exitu non percipiant.
 Sed exemplo B. Petri (qui postquam trinae negationis
 maculas confessione diluit amoris, non solum in gradu sui
 apostolatus remansit, uerum etiam in pastorem totius ecclesiae a
@@ -7884,6 +8432,17 @@ in ambone publice legatur, et, si nullus contradixerit
 rite consecrabuntur. Porro seruus non canonice consecratus,
 postquam de gradu deciderit, eius condicionis
 sit, cuius fuerat ante gradum.
+Ex Concilio Cartaginensi I. c. 8.
+Magnus episcopus Astiagensis dixit, quid dilectioni
+uestrae uidetur, procuratores, actores et executores, seu
+curatores pupillorum si debeant ordinari? Gratus episcopus
+dixit: si post deposita uniuersa et reddita ratiocinia actus
+uitae ipsorum fuerint conprobati in omnibus, debent et
+cum laude cleri, si postulati fuerint, honore munerari.
+Si enim ante libertatem negociorum uel offitiorum ab
+aliquo sine consideratione fuerint ordinati, ecclesia infamatur.
+Uniuersi dixerunt: Recte omnia statuit sanctitas
+tua, ideoque ita est et nostra ista quoque sentencia.
 Post donum libertatis famuli ecclesiae deuocentur
 in clerum.
 Item ex Concilio Tolletano IX.
@@ -7907,6 +8466,7 @@ uero retento obsequio manumissi sunt, pro eo, quod adhuc
 patroni seruitute tenentur obnoxii, nullatenus sunt ad
 ecclesiasticum ordinem promouendi, ne, quando uoluerint
 eorum domini, fiant ex clericis serui.
+Ex Concilio Tolletano.
 De seruorum ordinatione, qui passim ad gradus ecclesiasticos
 promouentur, placuit omnibus cum sacris canonibus
 concordari debere, et statutum est, ut nullus episcoporum
@@ -7933,6 +8493,12 @@ Si quis obligatus est tributo seruili, uel aliqua condicione,
 uel patrocinio cuiuslibet domus, non est ordinandus
 clericus, nisi probatae uitae fuerit, et patroni consensus
 accesserit.
+Ex Concilio Tolletano c. 2.
+De rebus uero illorum uel peculiari, qui a propriis dominis
+libertate donantur, ut ad gradus ecclesiasticos iure
+promoueantur, statutum est, ut in potestate dominorum
+consistat, quicquid ante libertatem habuerunt utrum illis
+concedere, an sibi retinere uoluerint.
 Ceterum, si a dominis suis libertatem consecuti
 non fuerint, et ad ecclesiasticos ordines aliquo modo irrepserint,
 presbiter peculii amissione mulctetur, diaconus uero aut uicarium
@@ -8080,6 +8646,30 @@ nec dominus qualibet occasionis specie hunc audeat
 uenundare, sed ad libertatis proculdubio premia perducatur,
 quia hunc non ad uendendum, sed ad sibi seruiendum dicitur
 conparasse.
+Idem Ianuario Caralitano Episcopo, libro III.
+epistola 9.
+Si quilibet Iudeorum seruus ad uenerabilia loca confugerit
+causa fidei, nullatenus eum patiamini preiudicium
+sustinere; sed siue olim Christianus, siue nunc fuerit baptizatus,
+sine ullo Christianorum pauperum damno religioso
+ecclesiasticae pietatis patrocinio in libertatem modis omnibus
+defendatur.
+Item ex Concilio Tolletano XII. c. 9.
+Et si Iudeorum serui, nec dum adhuc conuersi,
+ad Christi gratiam conuolauerint, libertate donentur.
+Item ex Concilio Matisconensi I. c. 16.
+Presenti concilio Deo auctore sancimus, ut nullum
+Christianum mancipium Iudeo deinceps seruiat; sed datis
+pro quolibet bono mancipio duodecim solidis ipsum mancipium
+quicumque Christianus seu ad ingenuitatem,
+seu ad seruitium licentiam habeat redimendi. Et si Christianus
+fieri desiderat, et non permittitur, similiter faciat,
+quia nefas est, quem Christus Dominus sanguinis sui
+effusione redemit, blasphemum Christianae religionis
+in uinculis tenere. Quod si acquiescere his, que statuimus,
+quicumque Iudeus noluerit, quamdiu ad pecuniam
+constitutam uenire distulerit, liceat mancipium ipsum
+cum Christianis ubicumque uoluerit habitare.
 De eodem.
 Item ex Concilio Aurelianensi.
 Si seruus, absente aut nesciente domino,
@@ -8365,6 +8955,13 @@ Sed hoc intelligendum est de illis, qui
 paternae incontinentiae imitatores fuerint. Verum si morum
 honestas eos commendabiles fecerit, exemplis et auctoritate
 non solum sacerdotes, sed etiam summi sacerdotes fieri possunt.
+Unde Damasus Papa scribit:
+Osius Papa fuit filius Stephani subdiaconi. Bonifacius
+Papa fuit filius Iucundi presbiteri. Felix Papa filius Felicis
+presbiteri de titulo Fasciolae. Agapitus Papa filius Gordiani
+presbiteri. Theodorus Papa filius Theodori episcopi de
+ciuitate Ierosolima. Siluerius Papa filius Siluerii episcopi
+Romae. Deusdedit Papa filius Stephani subdiaconi.
 Felix enim tertius, natione Romanus, ex patre Felice
 presbitero fuit. Item Gelasius, natione Afer, ex patre episcopo
 Valerio natus est. Item Agapitus, natione Romanus, ex patre
@@ -8550,6 +9147,15 @@ neque prepositus perseueret.
 Item qui ecclesiasticis disciplinis inbuti, et temporum approbatione
 discussi non sunt ad summum sacerdotium non aspirent.
 Unde Zosimus Papa:
+Non aspiret ad summum sacerdotium qui
+ecclesiasticis disciplinis non est inbutus.
+Qui ecclesiasticis disciplinis inbutus per ordinem non
+est et temporum approbatione diuinis stipendiis eruditus,
+nequaquam ad summum ecclesiae sacerdotium aspirare
+presumat, et non solum in eo ambitio inefficax habeatur,
+uerum etiam in ordinatores eius, ut careant eo ordine,
+quem sine ordine contra precepta Patrum crediderant
+presumendum.
 Ad sacerdotale offitium nullus, nisi per singulos
 gradus probatus, accedat.
 Si offitia secularia principalem locum non uestibulum
@@ -8826,6 +9432,18 @@ renitendi, si se uiderint pregrauari, et quem sibi
 ingeri ex transuerso uiderint non timeant refutare.
 Qui etsi non debitum premium, uel liberum de eo, qui
 eos recturus est, debent habere iudicium.
+In ordinatione prepositi illa semper consideretur ratio,
+ut hic constituatur, quem sibi omnis concors congregatio
+secundum timorem Dei siue etiam pars congregationis
+(quamuis parua) saniori consilio elegerit. Vitae autem
+merito et sapientia eligatur qui ordinandus est, etiamsi
+ultimus fuerit in ordine congregationis. Quod si etiam
+omnis congregatio uiciis suis (quod absit) consentientem
+personam pari consilio elegerit, et uicia ipsa aliquatenus in
+notitiam episcopi, ad cuius diocesin pertinet locus ipse,
+uel ad alios uicinos prepositos uel Christianos claruerint,
+prohibeant prauorum preualere consensum, et domui Dei
+constituant dignum dispensatorem.
 De eodem.
 Item Gregorius ciuibus Neapolim.
 Studii uestri sit, etiam alium, qui aptus sit, prouidere
@@ -9435,6 +10053,26 @@ consecrare, et, dum consecratus fuerit, legati ad nos,
 uel ad successores nostros reges Francorum dirigantur, qui
 inter nos et illum amicitiam et caritatem ac pacem
 socient.
+Electio et consecratio Romani Pontificis non
+nisi iuste et canonice fieri debet.
+Item Leo IV. Lothario et Lodowico Augustis.
+Inter nos et uos pacti serie statutum et confirmatum est,
+quod electio et consecratio futuri Romani Pontificis non nisi
+iuste et canonice fieri debeat.
+Ab inperatore uel nunciis eius electioni
+Romani Pontificis nullum generetur obstaculum.
+Item Constitutio primi Heinrici et primi Ottonis
+cum Romanis Pontificibus.
+Constitucio primi Heinrici et primi Ottonis cum
+Romanis Pontificibus. Ut nullus missorum nostrorum
+cuiuscumque inpeditionis argumentum in electione Romani
+Pontificis componere audeat, omnino prohibemus.
+Item: In electione Romanorum Pontificum neque
+liber, neque seruus ad hoc uenire presumat, ut illis Romanis,
+quos ad hanc electionem per constitutionem sanctorum
+Patrum antiqua admisit consuetudo, aliquod faciat inpedimentum.
+Quod si quis contra hanc nostram constitucionem
+facere presumpserit, exilio tradatur.
 Iuramentum Ottonis, quod fecit domino
 Papae Iohanni.
 Item Constitucio Ottonis.
@@ -9521,6 +10159,12 @@ omnibus, qui in eadem prouincia sunt, episcopis celebrandae
 sunt. Quod si omnes simul minime conuenire
 potuerint, assensum tamen suis prebeant precibus,
 ut ab ipsa ordinatione animo non desint.
+Ex Concilio Arausicano I. c. 21.
+De abiectione eius, quem duo presumpserint ordinare
+episcopi in nostris prouinciis, placuit de presumptoribus,
+ut sicubi contigerit duos episcopos tertium ordinare, et
+ipse, et auctores dampnabuntur quo cautius ea, que
+sunt antiquitus instituta, seruentur.
 Ceteris assentientibus cum tribus conprouincialibus
 ordinetur episcopus.
 Item Anicius Papa.
@@ -9788,6 +10432,9 @@ hereticis paracletum Spiritum sanctum tradere, nec
 crisma conficere, nec crismate baptizatorum frontes signare,
 nec publice quidem in missa quemquam penitentem
 reconciliare, nec formatas cuilibet epistolas mittere.
+Hec enim omnia illicita sunt corepiscopis, qui ad exemplum
+et formam LXXII. discipulorum esse noscuntur, uel
+presbiteris, qui eandem gestant figuram.
 Quoniam, quamquam consecrationem habeant, pontificatus
 tamen apicem non habent.
 Hi uero propter insolentiam suam,
@@ -9974,7 +10621,96 @@ In una ecclesia ordinatus in alia non suscipiatur.
 Item ex Concilio Mileuitano.
 Placuit, ut quicumque in ecclesia uel semel eligitur
 ab alia ecclesia ad clericatum non teneatur.
-.
+Qualiter uero commendaticia, uel dimissoria seu formata epistola
+facienda sit, uidendum est. Debent namque litterae grecae
+interponi in ea epistola, et non sine causa. Greca enim elementa
+litterarum numeros etiam exprimere, nullus, qui uel tenuiter greci
+sermonis noticiam habet, ignorat. Ne igitur in faciendis epistolis
+canonicis, quas mos latinus "Formatas" uocat, aliqua fraus
+falsitatis temere presumeretur, hoc a Patribus CCCXVIII. Niceae
+congregatis saluberrime inuentum est et constitutum, ut
+formatae epistolae hanc calculationis seu supputationis habeant
+rationem, id est, ut assumantur in supputationem prima greca
+elementa Patris, et Filii, et Spiritus sancti, hoc est, PI. GAMMA. ALPHA. que
+elementa octogenarium et quadringentesimum et primum significant
+numerum. Petri quoque apostoli prima littera, id est PI.,
+que numerum octoginta significat; eius quoque, qui scribit,
+episcopi prima littera; cui scribitur, secunda littera; accipientis,
+tertia littera; ciuitatis quoque, de qua scribitur, quarta, et
+indictionis, quecumque est illius temporis, numerus assumatur.
+Atque ita his omnibus grecis litteris, que, ut diximus, numeros
+exprimunt, in unum ductis, unam, quecumque fuerit collecta,
+summam epistola teneat; hanc qui suscipit, omni cum
+cautela requirat expresse. Addat preterea separatim in epistola
+etiam nonagenarium et nonum numerum, qui secundum
+greca elementa significat.
+Exemplar formatae epistolae, que in Nicena
+Sinodo a CCCXVIII. Patribus facta est.
+In nomine Patris PI., et Filii GAMMA., et Spiritus sancti ALPHA. PI.
+Walterio Spirensi episcopo ego Burchardus sanctae Vormaciensis
+ecclesiae deuotus gregis Christi famulus, in Deo
+uero summae felicitatis beatitudinem. Cum sancta catholica
+ecclesia prompta sit sequi documenta euangelica, que
+dicunt: "Qui recipit prophetam in nomine prophetae,
+accipiet mercedem prophetae, et qui recipit iustum in
+nomine iusti, mercedem iusti accipiet, etc." et Apostolus
+iubeat hospitalitatem sectari, et necessitatibus sanctorum
+uirorum communicare; tamen propter eos, qui cauteriatam
+habent suam conscientiam, dicentes se esse simplices, cum
+sint astutia diabolica repleti, et pro opere pietatis dicunt se
+de loco ad locum transire, cum sint sua malicia faciente
+fugitiui, et dicunt se esse ministerio sacro insertos, cum
+non sint: statutum est a sanctis Patribus, neminem clericum
+alienum et ignotum recipi ab aliquo episcopo, et inthronizari
+in sua ecclesia, nisi habeat a proprio episcopo epistolam,
+que in canonibus nominatur Formata. Ideo notum
+facimus fraternitati uestrae, quod presens frater noster,
+harum litterarum portitor, nomine Hermannus, non pro sua
+nequicia expulsus est a nobis, sed postulantibus fratribus,
+eo quod ex familia nostra fuit et noster baptizatus, fecimus
+ei libertatem receptam in cornu altaris canonice, et
+ordinauimus eum ad gradum presbiterii. Cui etiam has
+dimissorias siue commendaticias litteras facimus, et eum
+ad uestram dilectam fraternitatem dirigimus, ut in uestra
+parrochia sub uestro sacro regimine et defensione consistere
+ualeat. Ego, inquam, Burchardus humilis episcopus, in
+nomine Patris, et Filii, et Spiritus sancti, et in unitate
+sanctae ecclesiae, in qua Petro datum est ius ligandi atque
+soluendi, absoluo Hermannum presbiterum de ciuitate Vormaciensi
+indictione X., et licentiam do uobis inthronizandi
+eum in quacumque ecclesia uultis uestrae parrochiae.
+Hanc ergo epistolam grecis litteris hinc inde munire decreuimus,
+et annulo nostrae ecclesiae firmare censuimus.
+Fraternitatem uestram Christus nobis incolumem conseruet.
+PI. GAMMA. ALPHA. PI. BETA. ETA. ZETA. AMEN. Data Vormaciae
+Idibus Marcii, anno Dominicae incarnationis MXII. Indictione
+X.
+Incipit epistola formata a CCCXVIII. Episcopis et ab
+Attico Constantinopolitanae urbis Episcopo edita:
+Sanctissimo in Christo fratri summa dulcedine karitatis
+amplectendo ALPHA., illius ciuitatis episcopo, GAMMA. illius ecclesiae
+presul, perpetuae beatitudinis optat in Christo salutem.
+OMEGA. GAMMA. ALPHA. OMEGA. De cetero nouerit sancta fraternitas uestra, quod
+iste clericus, Hermannus nomine, nostra in parrochia instructus
+ac detonsus, paruitatem nostram rogauit, quatinus
+illi commendaticias litteras conscriberemus, quibus uestrae
+celsitudini commendatus sub tuitione uestri regiminis degere
+posset; cuius uoluntati consentientes secundum canonicam
+auctoritatem litteras ei dimissorias dedimus, per quas et ipsi
+concedimus, ut sub uestro magisterio diuinae seruituti insistens
+suae deseruiat utilitati, et uobis licentiam tribuimus,
+ut, si dignum eum iudicaueritis, ad sacros ordines promoueatis.
+Commendatum ergo eum curae uestrae suscipite,
+et nostris ex partibus absolutum in uestrarum ouium numero
+custodite. Quas litteras, ut uigore ueritatis firmatae indubitanter
+a uobis suscipiantur, litteris grecis, ut canonica docet
+auctoritas, confirmare sategimus. Sancta Trinitas uestram
+beatitudinem ad regimen sanctae suae ecclesiae perpetualiter
+bene ualere concedat, AMEN. (uel sic: ETA. THETA (que eandem
+summam exprimunt) indictione X. Continet hec formata
+epistola summam numeri MCCCXV. GAMMA. grecam in nomine
+illius primam ponimus, quia Greci eam in quibusdam locis
+pro GAMMA. consonante ponunt, sicut est DAVID et EVANGELION) .
 Queritur de his qui ab episcopis suis promoueri
 contempnunt, an inuiti sint sublimandi, an non?
 De his ita statutum inuenitur in Concilio Aurelianensi
@@ -10189,6 +10925,11 @@ est consecrata, ut, quicquid a Domino est insigne constitutum,
 in huius diei dignitate sit gestum. In hac mundus
 sumpsit exordium: in hac per resurrectionem et mors
 interitum, et uita accepit principium.
+De eodem.
+Item in ordine Romano, capitulo de gradibus ecclesiae.
+Quando et ubi libitum fuerit usque ad subdiaconatus
+offitium ordinantur clerici, diaconi uero atque presbiteri nunquam,
+nisi in publica ordinatione.
 De temporibus ordinationis.
 Item Gelasius omnibus Episcopis.
 Ordinationes presbiterorum et diaconorum
@@ -10508,6 +11249,15 @@ Papa diffinit, dicens:
 Ante XXX. annos presbiter non ordinetur.
 Si quis triginta etatis suae non inpleuerit annos, nullo
 modo ordinetur presbiter, etiamsi ualde sit dignus.
+De eodem.
+Item in Nouellis in Authentica de sanctissimis episcopis @.
+Clericos, apud Iulianum Antecessorem constitutione CXV. c. 19.
+Nemo presbiter consecretur, qui minor triginta annis
+sit; nemo diaconus uel subdiaconus fiat, qui minor uigintiquinque
+annis sit; nemo lectoribus connumeretur, qui minor
+decem et octo annis fuerit; nemo inter diaconissas consecretur
+sacrosanctae ecclesiae, que minor sit quadraginta
+annis, uel ad secundum matrimonium peruenerit.
 Non est ordinandus sacerdos, nisi longo probatus
 examine.
 Item Leo papa.
@@ -10929,6 +11679,22 @@ aut offitii frequenter intret domicilia matronarum, aut
 forte per clericos aut domesticos matronae mandet
 aliquid secrete. Si agnitum fuerit, et ille deponatur, et
 ille a liminibus ecclesiae arceatur.
+De eodem.
+Idem.
+Sed si forte aliqua intercessio fuerit, episcopo suggeratur.
+Et si talis est, ad quam debeat ire pio interuentu,
+ipse pergat: sin autem, de latere suo dirigat cum duobus
+aut tribus testibus. Nemo tamen cum extranea habitet
+femina, nisi proxima aut soror fuerit. Et hoc cum magna
+sollicitudine fiat. Non enim ignoramus malicias satanae.
+De eodem.
+Ex decreto Eugenii Papae.
+Si quispiam sacerdotum, id est presbiter, uel diaconus,
+uel subdiaconus, de quacumque femina crimine fornicationis
+suspectus post primam, secundam et tertiam
+admonitionem inueniatur fabulari cum ea uel aliquo
+modo conuersari, excommunicetur, femina uero canonice
+iudicetur.
 Simul cum mulieribus sacerdotes habitare non licet.
 Item Gregorius.
 Oportet sacerdotes, quibus populus Domini
@@ -11507,6 +12273,20 @@ pauperes ex eo, quod habuit, ut nulla cura teneretur domestica,
 sed relictis omnibus in disciplinam se propheticam
 daret.
 Item.
+Est etiam illa probanda liberalitas, ut proximos
+seminis tui ne despicias, si egere cognoscas. Melius
+enim est, ut ipse subuenias tuis, quibus pudor est ab aliis
+sumptum deposcere, aut alicui postulare subsidium necessitatis;
+non tamen illi ditiores fieri uelint, ex eo
+quod tu potes conferre inopibus: causam enim natura
+prestat, non gratia. Neque enim propterea te Deo
+dicasti, ut tuos diuites facias, sed ut tibi uitam perpetuam
+fructu boni operis adquiras, et precio miserationis peccata
+tua redimas. Putant parum se poscere? precium
+querunt tuum, uitae tuae adimere contendunt fructum,
+et accusant, quod eos diuites non feceris, cum te uelint
+illi eternae uitae fraudare mercede?
+Item.
 Consideranda est etiam in largiendo etas atque
 debilitas, nonnumquam etiam uerecundia, que ingenuos
 prodit natales, ut senibus plus largiaris, qui sibi iam
@@ -11767,6 +12547,7 @@ Item ex eodem.
 Episcopus nullam rei familiaris curam ad se reuocet,
 sed lectioni et orationi et uerbo predicationis tantummodo
 uacet.
+Item ex eodem.
 Episcopus gubernationem uiduarum et pupillorum
 ac peregrinorum non per se ipsum, sed per archipresbiterum
 aut archidiaconem agat.
@@ -11786,6 +12567,106 @@ testamenti.
 Fornicari hominibus semper non licet, negotiari uero
 aliquando licet, aliquando non licet; antequam enim ecclesiasticus
 quis sit, licet ei negotiari; facto iam non licet.
+De eodem.
+Item Iohannes Chrysostomus super Matthaeum.
+Eiciens Dominus uendentes et ementes de templo, significauit,
+quia homo mercator uix aut numquam potest
+Deo placere. Et ideo nullus Christianus debet esse mercator,
+aut, si uoluerit esse, proiciatur de ecclesia Dei, dicente
+Propheta: "Quia non cognoui negotiationes, introibo in
+potentias Domini." Quemadmodum enim qui ambulat inter
+duos inimicos, ambobus placere uolens et se commendare,
+sine maliloquio esse non potest (necesse est enim, ut isti
+male loquatur de illo, et illi male de isto), sic qui emit et
+uendit sine mendacio et periurio esse non potest. Et
+paucis interiectis: Sed est nec stabilis substantia
+eorum, neque ad bonum proficit, quod de malo congregatur.
+Quemadmodum enim, si triticum aut aliud tale cernas
+in cribro, dum huc et illuc iactatur, grana omnia paulatim
+deorsum cadunt, et tandem in cribro nichil remanet, nisi
+stercus solum: sic de substantia negotiatorum nouissime
+nil remanet, nisi solum peccatum. Sed omnes homines
+uidentur esse mercatores; ostendam ergo, quis non
+est negotiator, ut qui talis non fuerit, eum intelligas esse
+negotiatorem. Quicumque rem conparat, non ut ipsam
+rem integram et inmutatam uendat, sed ut materia sibi
+sit inde aliquid operandi, ille non est negotiator; qui autem
+conparat rem, ut illam ipsam integram et inmutatam
+dando lucretur, ille est mercator, qui de templo Dei
+eicitur. Unde super omnes mercatores plus maledictus
+est usurarius; ipse namque rem datam a Deo uendit, non
+conparatam, ut mercator, et post fenus rem suam repetit,
+tollens aliena cum suis, mercator autem non repetit rem
+uenditam. Adhuc dicit aliquis: Qui agrum locat, ut
+agrariam recipiat, aut domum, ut pensiones recipiat,
+nonne est similis ei, qui pecuniam dat ad usuram?
+Absit. Primum quidem, quoniam pecunia non ad aliquem
+usum disposita est, nisi ad emendum; secundo, quoniam
+agrum habens, arando accipit ex eo fructum, habens domum,
+usum mansionis capit ex ea. Ideo qui locat agrum
+uel domum, suum usum dare uidetur, et pecuniam accipere,
+et quodammodo quasi commutare uidetur cum
+lucro lucrum; ex pecunia reposita nullum usum capis. Tertio
+ager uel domus utendo ueterascit. Pecunia autem cum
+fuerit mutuata, nec minuitur, nec ueterascit. "Et
+mensas nummulariorum subuertit." Pecunia spiritualiter
+homines intelliguntur, quia sicut nummus habet caragma
+Cesaris, sic homo habet caragma Dei. Et quemadmodum
+solidus, qui non habet caragma Cesaris, reprobus
+est, ita et homo, qui non ostendit in se imaginem Dei,
+reprobus estimatur. Unde Ysaias dicebat ad Ierusalem:
+"Pecunia tua reproba est, caupones tui miscent
+uinum cum aqua, etc." Ideo ergo mensas nummulariorum
+euertit, significans, quia in templo Dei non debent esse
+nummi, nisi spirituales, id est, qui Dei imaginem, non diaboli,
+portant. Aut certe mensas nummularioum sacerdotum
+dicit scripturas. Nouo enim testamento succedente
+priori, euersae sunt scripturae illorum.
+De eodem.
+Item ex uerbis Augustini.
+"Quoniam non cognoui litteraturam:" Aliqui codices
+habent "negotiationes:" in quo diuersitas interpretum sensum
+ostendit, non errorem inducit. Ergo si propterea
+iste tota die laudem Dei dicit, quia non cognouit negotiationes,
+corrigant se Christiani, non negotientur. Sed
+ait mihi negotiator: Affero ex longinquo merces, mercedem
+laboris mei, unde uiuam, peto: "dignus est operarius
+mercede sua." De mendacio, de periurio agitur,
+non de negotio. Ego enim mentior, non negotium. Possem
+enim dicere, tanto emi, tanto uendam: si placet, eme.
+Quomodo ergo reuocas a negotiatione? omnes artifices
+mentiuntur, sutores, agricolae. Vis, ut optem carum tempus,
+ut possim uendere annonam, quam seruaui? sed non
+hoc faciunt, inquis, agricolae boni, nec illa negotiatores
+boni. Quid enim? etiam et filios habere malum est, quia,
+quando eis caput dolet, malae et infideles matres ligaturas
+sacrilegas et incantationes querunt? Omnia ista
+hominum, non rerum peccata sunt. Quere ergo episcope,
+(dicit mihi negotiator) quomodo Psalmistam intelligas, et
+noli me prohibere a negotiatione: negotiatio enim me non
+facit malum, sed iniquitas mea et mendacium meum.
+Queramus ergo negotiatores, qui presumunt gloriari ex
+suis operibus, si sunt contra illam gratiam, quam hic
+Psalmista commendat, ut nemo de suis operibus glorietur.
+Et sicut contra medicos superbos salutis pollicitatores
+uigilat hoc, quod dictum est: "Tota die salutem
+tuam," sic contra negotiatores de operibus suis gloriantes
+uigilat hoc, quod dictum est: "Os meum annunciabit
+iustitiam tuam." Unde et Dominus expulit
+illos de templo, uolentes suam iustitiam statuere et ignorantes
+iustitiam Dei. Merito dictum negotium, quia negat
+otium, quod malum est, neque querit ueram quietem, que
+est Deus.
+De eodem.
+Item Cassiodorus in eundem Psalmum LXX. in eundem
+uersiculum.
+Quid est aliud negotium, nisi que possint uilius
+conparari carius uelle distrahere? Et infra: Negotiatores
+ergo illi abhominabiles existimantur, qui iustitiam
+Dei minime considerantes per inmoderatum pecuniae
+ambitum polluuntur, merces suas plus periuriis onerando
+quam preciis. Tales eiecit Dominus de templo, dicens:
+"Nolite facere domum patris mei domum negotiationis."
 Nomine sacerdotis careat, qui Dei ministros a suis
 euocat offitiis.
 Item Cyprianus.
@@ -12010,6 +12891,27 @@ inplere non posse, sed magis unumquemque suis (postposito
 ecclesiae seruitio) uacare negotiis. Et ideo experientia tua
 eos, quos tibi esse ostenderit contumaces, debita obiurgatione
 conpesce, et modis omnibus uigiliis uacare conpelle.
+De eodem.
+Item ex Concilio Nannetensi.
+Presbiter mane, matutinali offitio expleto, pensum seruitutis
+suae canendo primam, tertiam, sextam nonamque
+persoluat, ita tamen, ut postea horis conpetentibus et signis
+designantibus iuxta possibilitatem aut a se, aut a scolaribus
+publice conpleantur. Deinde peractis horis, infirmis
+uisitatis, si uoluerit, ad opus rurale exeat ieiunus, ut
+iterum necessitatibus peregrinorum et hospitum siue diuersorum
+commeantium, infirmorum quoque atque defunctorum
+succurrere possit usque ad statutam horam pro qualitate
+temporis et opportunitate. Item ex dictis S. Benedicti:
+Propheta dicente: "Septies in die laudem dixi tibi,"
+qui septenarius sacratus numerus a nobis sic inplebitur
+si matutinae, primae, tertiae, sextae, nonae, uesperae
+conpletoriique tempore nostrae seruitutis offitia persoluamus,
+quia de his dixit Propheta: "Septies in die laudem dixi
+tibi." Nam de nocturnis uigiliis idem ipse Propheta ait:
+"Media nocte surgebam ad confitendum tibi." Ergo his
+temporibus referamus laudes creatori nostro super iudicia
+iustitiae suae.
 Sine offitii detrimento artificiolo sibi clericus
 necessaria querat.
 Unde in Concilio eodem Cartaginensi
@@ -12763,6 +13665,13 @@ Sine precepto episcopi presbiter non signet infantes.
 Item ex Concilio Martini Papae.
 Presbiter presente episcopo non signet infantes, nisi ab
 episcopo fuerit illi preceptum.
+De eodem.
+Item ex Concilio Neocesariensi, c. 13.
+Presbiteri ruris in ecclesia ciuitatis, episcopo presente
+uel presbiteris ipsius urbis, offerre non possunt, nec panem
+sacrificatum dare, calicemque porrigere. Si uere absentes
+hi fuerint, et ad dandam ordinationem uocentur
+soli, dare debebunt.
 Illud autem Honorii Augusti, quod de electione summi Pontificis
 supra constituisse legitur, nullius momenti esse probatur,
 cum non solum de ordinibus, sed nec etiam de rebus ecclesiasticis
@@ -13037,6 +13946,148 @@ sacerdotibus omnipotens Deus Christianae religionis clericos
 et sacerdotes uoluit ordinari, et discuti et recipi de errore
 remeantes. Inperatores Christiani subdere debent executiones
 suas ecclesiasticis presulibus, non preferre.
+De eodem.
+Item Gelasius ad Episcopos orientales.
+Numquam de pontificibus nisi ecclesiam iudicasse;
+non esse humanarum legum de talibus ferre sententiam
+absque ecclesiae principaliter constitutis pontificibus; obsequi
+solere principes Christianos decretis ecclesiae, non suam
+preponere potestatem; episcopis caput subdere principem
+solitum, non de eorum capitibus iudicare.
+De eodem.
+Constantinus inperator coronam, et omnem regiam dignitatem
+in urbe Romana, et in Italia, et in partibus occidentalibus
+Apostolico concessit. Nam in gestis B. Siluestri
+(que B. Papa Gelasius in concilio LXX. episcoporum a
+catholicis legi commemorat, et pro antiquo usu multas
+hoc imitari dicit ecclesias) ita legitur:
+De eodem.
+Constantinus inperator quarta die sui baptismi
+priuilegium Romanae ecclesiae Pontifici contulit, ut in toto
+orbe Romano sacerdotes ita hunc caput habeant, sicut
+iudices regem. In eo priuilegio ita inter cetera legitur:
+"Utile iudicauimus una cum omnibus satrapis nostris,
+et uniuerso senatu optimatibusque meis, etiam et cuncto
+populo Romanae gloriae inperio subiacenti, ut sicut B.
+Petrus in terris uicarius Filii Dei esse uidetur constitutus,
+ita et Pontifices, qui ipsius principis apostolorum
+gerunt uices, principatus potestatem amplius quam terrena
+inperialis nostrae serenitatis mansuetudo habere
+uidetur, concessam a nobis nostroque inperio obtineant,
+eligentes nobis ipsum principem apostolorum uel eius
+uicarios firmos apud Deum esse patronos. Et sicut
+nostram terrenam inperialem potentiam, sic eius sacrosanctam
+Romanam ecclesiam decreuimus ueneranter honorari,
+et amplius quam nostrum inperium et terrenum
+thronum sedem sacratissimam B. Petri gloriose exaltari,
+tribuentes ei potestatem, et gloriae dignitatem atque
+uigorem, et honorificentiam inperialem. Atque decernentes
+sancimus, ut principatum teneat tam super quatuor precipuas
+sedes, Alexandrinam, Antiocenam, Ierosolimitanam,
+Constantinopolitanam, quam etiam super omnes
+in uniuerso orbe terrarum ecclesias Dei, et Pontifex,
+qui pro tempore ipsius sacrosanctae Romanae ecclesiae
+extiterit, celsior et princeps cunctis sacerdotibus totius
+mundi existat, et eius iudicio queque ad cultum Dei uel
+fidei Christianorum stabilitatem procuranda fuerint disponantur."
+Et infra: Ecclesiis beatorum apostolorum
+Petri et Pauli pro continuatione luminariorum possessionum
+predia contulimus, et rebus diuersis eas ditauimus,
+et per nostram inperialem iussionem sacram tam in oriente,
+quam in occidente, uel etiam septentrionali et meridiana
+plaga, uidelicet in Iudea, Grecia, Asia, Thracia, Affrica et
+Italia, uel diuersis insulis, nostra largitate ei concessimus,
+ea prorsus ratione, ut per manus beatissimi patris nostri Siluestri
+summi Pontificis successorumque eius omnia disponantur.
+Et infra: Beato Siluestro Patri nostro
+summo Pontifici et uniuersalis urbis Romae Papae, et
+omnibus, eius successoribus Pontificibus, qui usque in
+finem mundi in sede B. Petri erunt sessuri, de presenti
+contradimus palatium inperii nostri Lateranense,
+deinde diadema, uidelicet coronam capitis nostri, simulque
+frigium, nec non et superhumerale, uidelicet lorum,
+quod inperiale circumdare assolet collum; uerum etiam
+et clamidem purpuream, atque tunicam coccineam, et
+omnia inperialia indumenta; sed et dignitatem inperialium
+presidentium equitum, conferentes etiam et
+inperialia sceptra, simulque cuncta signa, atque
+banda, et diuersa ornamenta inperialia, et omnem
+processionem inperialis culminis et gloriam potestatis
+nostrae. Viris autem reuerentissimis clericis in
+diuersis ordinibus eidem sacrosanctae Romanae ecclesiae
+seruientibus illud culmen singularitate, potentia et precellentia
+habere sancimus, cuius amplissimus noster
+senatus uidetur gloria adornari, id est patricios atque
+consules effici, nec non et ceteris dignitatibus inperialibus
+eos promulgamus decorari. Et sicut inperialis
+milicia ornatur, ita et clerum sanctae Romanae ecclesiae
+ornari decernimus. Et quemadmodum inperialis
+potentia offitiis diuersis, cubiculariorum nempe, et ostiariorum,
+atque omnium excubitorum ornatur, ita et sanctam
+Romanam ecclesiam decorari uolumus. Et ut amplissime
+pontificale decus prefulgeat, decernimus et hoc, clericorum
+eiusdem sanctae Romanae ecclesiae manipulis et
+linteaminibus, id est candidissimo colore, decorari equos,
+ita et equitare. Et sicut noster senatus calciamentis utitur
+cum udonibus, id est candido linteamine illustratis,
+sic utantur et clerici, ut sicut celestia, ita et terrena ad
+laudem Dei decorentur. Pre omnibus autem licentiam
+tribuimus ipsi sanctissimo Patri nostro Siluestro et
+successoribus eius ex nostro indicto, ut quem placatus
+proprio consilio clericare uoluerit, et in religiosorum
+numero clericorum connumerare, nullus ex omnibus
+presumat superbe agere. Decreuimus itaque
+et hoc, ut ipse et successores eius diademate, uidelicet
+corona, quam ex capite nostro illi concessimus, ex auro
+purissimo et gemmis pretiosis uti debeant, et in capite ad
+laudem Dei pro honore B. Petri gestare. Ipse uero
+beatissimus Papa, quia super coronam clericatus, quam
+gerit ad gloriam B. Petri, omnino ipsa ex auro non est
+passus uti corona, nos frigium candido nitore splendidum,
+resurrectionem dominicam designans, eius sacratissimo
+uertici manibus nostris inposuimus, et tenentes
+frenum equi ipsius pro reuerentia B. Petri stratoris
+offitium illi exhibuimus, statuentes eodem frigio omnes eius
+successores singulariter uti in processionibus ad imitationem
+inperii nostri. Unde ut pontificalis apex non
+uilescat, sed magis quam terreni inperii dignitas gloria
+et potentia decoretur, ecce tam palatium nostrum, ut
+predictum est, quam Romanam urbem, et omnes
+Italiae seu occidentalium regionum prouincias, loca et ciuitates
+prefato beatissimo Pontifici nostro Siluestro
+uniuersali Papae contradimus atque relinquimus, et ab
+eo et a successoribus eius per hanc diualem nostram et
+pragmaticum constitutum decernimus disponenda, atque
+iuri sanctae Romanae ecclesiae concedimus permansura.
+Unde congruum perspeximus nostrum
+inperium et regni potestatem in orientalibus transferri
+regionibus, et in Bizantiae prouinciae optimo loco
+nomini nostro ciuitatem edificari, et nostrum illic constitui
+inperium, quoniam ubi principatus sacerdotum et Christianae
+religionis caput ab inperatore celesti constitutum est, iustum
+non est, ut illic inperator terrenus habeat potestatem.
+Hec uero omnia, que per hanc nostram inperialem
+sacram, et per alia diualia decreta statuimus atque
+confirmauimus, usque in finem mundi illibata et inconcussa
+permanere decernimus Unde coram Deo
+uiuo, qui nos regnare precepit, et coram terribili eius iudicio
+obtestamur per hoc nostrum inperiale constitutum
+omnes nostros successores inperatores, uel cunctos optimates,
+satrapas etiam, amplissimum senatum, et uniuersum
+populum in toto orbe terrarum nunc et in posterum
+cunctis retro temporibus inperio nostro subiacentem
+nulli eorum quoquo modo licere hec aut infringere,
+aut in quoquam conuellere. Si quis autem, quod non
+credimus, in hoc temerator aut contemptor extiterit,
+eternis condempnationibus subiaceat innodatus, et sanctos
+Dei, principes apostolorum Petrum et Paulum sibi in presenti
+et in futura uita sentiat contrarios, atque in inferno
+inferiori concrematus cum diabolo et omnibus deficiat
+inpiis. Huius uero inperialis decreti nostri paginam
+propriis manibus roborantes, super uenerandum corpus B.
+Petri principis apostolorum posuimus. Datum Romae
+3. Calendas Aprilis, Domino nostro Flauio Constantino
+Augusto quater, et Gallicano V. C. Coss.
 Inperialis auctoritas religiosae dispensationis
 mensuram non mutat.
 Item Gelasius.
@@ -13303,6 +14354,17 @@ Item Gregorius papa Brunichildae Reginae.
 Prisca consuetudo obtinuit, ut honor pallii
 nisi exigentibus causarum meritis et fortiter postulanti dari
 non debeat.
+De eodem.
+Idem Iohanni Corinthiorum Episcopo, libro 4.
+epistola 55.
+Nouit sanctitas tua quia prius pallium nisi dato commodo
+non dabatur. Quod quoniam incongruum erat, facto
+concilio ante corpus B. Petri apostolorum principis, tam de
+hoc quam de ordinationibus aliquid accipere sub districta
+interdictione uetuimus. Oportet ergo, ut neque per commodum,
+neque per gratiam aut quorumdam suplicationem
+aliquos ad sacros ordines consentiatis uel permittatis
+adduci.
 Causarum uero merita accipienda
 sunt, ut et is, qui postulat, mereatur accipere, et fidei suae professionem
 prius iuramento confirmet, et apostolicis decretis atque
@@ -13338,6 +14400,19 @@ pallio licet.
 Idem Vigilio Episcopo Arelatensi.
 Pallium tibi transmisimus, quo fraternitas
 tua intra ecclesiam ad sola missarum solempnia utatur.
+De eodem.
+Idem Iohanni Rauennati Episcopo libro II. epistola 54.
+Indictione II.
+Non multum temporis interuallum est, quod quedam
+nobis de tua fraternitate fuerunt nunciata, de quibus uobis,
+ueniente illuc Castorio, notario sanctae, cui Deo auctore
+presidemus, ecclesiae, subtiliter nos indicasse meminimus.
+Peruenerat namque ad nos quedam in ecclesia uestra contra
+consuetudinis atque humilitatis tramitem geri, que
+sola (ut bene nostis) est offitii sacerdotalis erectio. Que si
+sapientia uestra mansuete, uel cum episcopali suscepisset
+studio, non de illis accendi debuerat, sed oportuerat te
+hec eadem cum gratiarum actione corrigere.
 De eodem.
 Idem Iohanni Episcopo Rauennati.
 Contra morem est ecclesiasticum, si non patientissime
@@ -13581,6 +14656,7 @@ Item Ambrosius de ministeriis.
 Cum ordinaretur episcopus, quod dedit aurum fuit,
 quod perdidit anima fuit; cum alium ordinaret, quod
 accepit aurum fuit, quod dedit lepra fuit.
+Item.
 Gratiam, cum ordinareris, non suscepisti, quia gratuito
 eam non meruisti.
 Item de Giezi.
@@ -14315,6 +15391,9 @@ debent ab eo baptizati iterum rebaptizari, et ipse
 ulterius non ordinetur. Sed Romanus Pontifex non hominem
 iudicat, qui baptizat, sed Spiritum Dei subministrare
 gratiam credit baptismi, licet paganus sit, qui baptizat.
+Ex Concilio apud Compendium.
+Si presbiter ordinatus deprehenderit se non esse
+baptizatum, baptizetur et ordinetur iterum.
 Quod autem cetera sacramenta ab hereticis ministrari
 non possint, testatur Ieronimus in Aggeo Propheta:
 Non placent Deo que ab hereticis offeruntur.
@@ -15565,6 +16644,17 @@ uestrae ecclesiae fiat distractio, accedat, gratis Deo seruire
 incipiat, suique regiminis deuote gestet obsequium ac,
 postmodum uos, quasi subsidii gratia, aliqua suae ecclesiae
 munera largiri fratrum solatio Romana permittit ecclesia.
+Unde Urbanus Papa in Concilio apud Melfiam, c. 12.:
+De eodem.
+Nullus abbas precium sumere uel exigere ab eis, qui
+ad conuersionem ueniunt, aliqua pacti occasione presumat.
+Regulam antiquam sequens, nulli umquam de
+ordinationibus aliquid omnino accipiendum esse constituo,
+neque ex datione pallii, neque ex traditione cartarum,
+neque ex ea, quam noua per ambitionem simulatio inuenit,
+appellatione pastelli. Quia enim ordinando episcopo
+Pontifex manum inponit, euangelicam lectionem minister
+legit, confirmationis autem eius epistolam notarius scribit.
 Ab ordinato non debet aliquid exigi, sed nec
 uoluntarie oblata respui oportet.
 Item Gregorius in Registro.
@@ -16240,6 +17330,15 @@ non debuisti, sed ciuili, tamquam ex cyrographo soluas aut promittas,
 repetis; non ita, si delictum. Nam si putat rem suam
 sibi per legem licere rapere, incidit in constitucionem: Si quis
 in tantam.
+Inperator Valentinianus Augustus.
+Si quis in tantam furoris audaciam peruenerit, ut possessionem
+rerum apud fiscum uel apud quoslibet homines
+constitutarum ante euentum iudicialis arbitrii uiolenter
+inuaserit, dominus quidem constitutus possessionem, quam
+abstulit, restituat possessori, et dominium eius rei amittat.
+Sin uero alienarum rerum possessionem inuasit, non solum
+eam possidentibus reddat, uerum etiam estimationem earundem
+rerum restituere conpellatur.
 In hoc autem non fuit ignorantia iuris, sed facti,
 et illius, quod non oportuit eum scire. A reatu ergo criminis
 excusat eum ignorantia paterni delicti, quod etsi oportuisset
@@ -16435,6 +17534,16 @@ diaconus per se uel per alium aliquem, quasi timeri per hoc
 uolens, deponatur. Item: Qui per seculares potestates
 ordinatus fuerit aut ecclesiam obtinuerit, deponatur;
 si uero religiosam domum, expellatur.
+De eodem.
+Item ex Concilio Meldensi c. 43.
+Cauendum est et summopere studendum, ac per
+uirtutem Christi sanguinis inter dicendum et episcopis et
+regibus, et omnibus sublimioribus potestatibus, atque cunctis
+fautoribus et electoribus quorumcumque atque consensoribus,
+seu ordinatoribus in gradu ecclesiastico, ut nemo
+per symoniacam heresim regiminis locum obtineat quacumque
+factione, calliditate, promissione, seu commoditate
+aut datione per se aut per submissam personam.
 Qui redeuntes ab hereticis recipi possunt uel
 qui non.
 Item de eadem Sinodo.
@@ -16653,6 +17762,7 @@ omni uidemus peruersitate confusum, temporum necessitate
 perspecta hac ratione decreuimus ad ueniam pertinere
 quod gestum est, ut deinceps preter noticiam nullus
 uel consensum metropolitani ordinetur antistes.
+De eodem.
 Item Innocentius.
 Quociens a populis aut a turba peccatur, quia in
 omnes propter multitudinem uindicari non potest, inultum
@@ -16848,6 +17958,13 @@ negligere, non modo aduersus accipientem, sed etiam aduersus
 dantem accusandi cunctis tamquam crimen publicum
 concedimus facultatem, quadrupli pena eo, qui conuictus
 fuerit, modis omnibus feriendo.
+De eodem.
+Item Pascalis Papa.
+Patet symoniacos, ueluti primos et precipuos hereticos,
+ab omnibus fidelibus respuendos, et si commoniti non resipuerint,
+ab exteris potestatibus obprimendos. Omnia
+enim crimina ad conparationem symoniacae heresis quasi
+pro nichilo reputantur.
 His breuiter premissis ad ea ueniamus, que ecclesia
 seueritate disciplinae parata est ulcisci, ostendentes, quibus
 accusantibus uel testificantibus quilibet sint conuincendi; quo
@@ -17041,6 +18158,34 @@ est, legendum est titulo XLIV. libri VII. codicis constitutio
 ultima, quia scriptis debuit iudicari. Nam ibi inter
 alia precipitur, ut sententia, que sine scripto dicta
 fuerit, nec nomen sententiae habere mereatur.
+Ultima sententia debet de scripto preferri.
+Item Codicis libro VII., titulo de sententiis ex breuiculo
+recitandis, Imppp. Valentinianus, Valens
+et Gratianus AAA.
+Statutis generalibus iussimus, ut uniuersi iudices, quibus
+reddendi iuris in prouinciis permisimus facultatem, cognitis
+causis ultimas diffinitiones de scripti recitatione proferant.
+Huic adicimus sanctioni, ut sententia, que dicta
+fuerit, cum scripta non esset, nec nomen quidem sententiae
+habere mereatur, nec ad rescissionem perperam decretorum
+appellationis solempnitas requiratur.
+Item ex Concilio apud S. Medardum Hincmarus Remorum
+Archiepiscopus dixit:
+De eodem.
+Legum ecclesiasticarum consuetudo et auctoritas talis
+est, ut in causis gestorum semper scripturam requirant,
+adeo, ut qui ad sacrum fontem accedit, suum dare nomen
+precipiatur. Qui ad summum sacerdotium prouehitur, decreto
+manibus omnium roborato eligitur. Ordinatus autem
+a suis ordinatoribus litteras accipere iubetur. Qui etiam ab
+ecclesiastica societate quolibet excessu discinditur, libelli
+inscriptione aut recipitur, aut eicitur. Sed et qui
+accusatur aut excommunicatur, seu reconciliatur, per
+scripturam accusari uel reconciliari iubetur. Et sic in ceteris
+huiusmodi in tantum scriptum deposcitur, ut sicut B. Gregorius
+in commonitorio ad Iohannem defensorem ex Romanis
+legibus sumens scribit: "Sententia, que sine scripto
+profertur, nec nomen sententiae habere mereatur."
 Restituendus est, quem neque confessum, neque
 conuictum constat esse eiectum.
 Item Nicolaus Papa Airardo Turonensi
@@ -17432,6 +18577,10 @@ Paulum itaque diaconum quamuis culpa sua uehementer
 confundat, quod deceptus promissione ab accusatione
 sui episcopi destiterit, tamen hanc ei culpam
 ignoscimus.
+Omnis igitur, qui crimen obicit, scribat se probaturum.
+Reuera ibi semper causa agitur, ubi crimen admittitur; et
+qui non probauerit quod obiecit, penam, quam intulerit,
+ipse patiatur.
 De his, qui accusationem deserunt, ut ecclesiasticos
 ordines accipiant.
 Idem.
@@ -17704,6 +18853,18 @@ euangelio coram posito, quod crimen sibi illatum
 non perpetrauit. Et hac satisfactione purgatus secure
 deinceps suum exequatur offitium.
 De eodem.
+Item Siluester Papa.
+Accusatum symoniacum necesse habuimus summopere
+per scripturam prohibere, ne missarum solempnia celebrare
+debuisset, donec quid esset uerius potuissemus cognoscere.
+Item ex Concilio Triburiensi.
+Nobilis homo uel ingenuus si in sinodo accusatur et
+negauerit, si eum constiterit fidelem esse, cum duodecim
+ingenuis se expurget; si antea deprehensus fuerit in
+furto, aut periurio, aut falso testimonio, ad iuramentum
+non admittatur, sed (sicut qui ingenuus non est) feruenti
+aqua uel candenti ferro se expurget.
+De eodem.
 Item Igmarus Remorum Episcopus.
 Si mala fama de presbitero exierit, et accusatores
 ac testes legales defuerint, ne, contra Apostolum,
@@ -17713,6 +18874,40 @@ existentes licentius in peccatum prolabantur,
 secundum decreta maiorum cum denominatis sibi uicinis
 presbiteris, quos scimus se nolle periurare, sacramento
 famam suam purget.
+De eodem.
+Item Innocentius Aquileiensi Patriarchae et Mantuano
+Episcopo.
+Quoties frater noster Tridentinus episcopus in nostra
+presentia de symonia sit inpetitus, prudentiam uestram
+latere non credimus, cuius causa tandem in nostra presentia
+uentilata producti sunt aduersus eum accusatores, uiua
+uoce et scripto asserentes, quod ecclesiam S. Petri de
+Pado presbitero Paulo dederit pro quatuor modiis frumenti,
+quos ab eiusdem ecclesiae laicis acceperit. Verum
+quoniam nec accusatores, nec testes secundum formam
+canonum et sanctorum Patrum statuta in causa ipsa procedere
+potuerunt, communi fratrum nostrorum concilio
+iudicamus, ut tertia manu sui ordinis et quatuor abbatum
+et religiosorum sacerdotum de supradicta symonia in uestra
+presentia se debeat expurgare. Porro purgationis tenor
+erit huiusmodi. Idem episcopus super sancta euangelia
+primum iurabit, quod pro ecclesia S. Petri de Pado, presbitero
+Paulo danda, neque ipse per se, neque per submissam
+personam, neque alius pro eo, se sciente, pretium receperit.
+Deinde uero purgatores super sancta Dei euangelia
+iurabunt, quod, sicut ipsi credunt, uerum iurauit. Nos
+itaque causae huius seriem committentes prudentiae uestrae,
+mandamus uobis, ut congruo loco in unum conuenire curetis,
+et ita causam ipsam iuxta presentium tenorem prestante
+Domino restauretis, quatenus et omnis de cetero huius
+questionis scrupulus auferatur, et utrique parti sua iustitia
+conseruetur. Si quis uero de uobis, certa prepediente causa,
+interesse non poterit, uos, qui adesse poteritis, idem
+iudicium terminate. Quod si predictus frater noster A.
+predictam purgationem fecerit, uos ei auctoritate nostra predictum
+offitium et Tridentinam ecclesiam restituite. Hanc
+autem purgationem ante proximam purificationem B. Mariae
+uirginis adinplere iubemus.
 In premissis auctoritatibus subintelligitur, si reus
 se purgare uoluerit, ut sacri canones modum, non necessitatem
 purgandi accusato inponant, sicut aparet ex fine capituli
@@ -17963,6 +19158,10 @@ Causae uiciatae remedium appellationis subueniat.
 Liceat appellatori uiciatam causam appellationis remedio
 subleuare.
 De eodem.
+Idem paulo ante.
+Appellantem non debet afflictio ulla, aut detentionis
+iniuriare custodia.
+De eodem.
 Item Anacletus Papa.
 Omnis obpressus libere sacerdotum (si uoluerit) appellet
 iudicium, et a nullo prohibeatur, sed ab his fulciatur
@@ -18192,6 +19391,8 @@ aliqua dissimulatione perueniat, et ipse dies in quo
 accepit litteras, in his quinque diebus conputetur specialiter.
 Quod si longius iter sit, exceptis quinque diebus
 spatium dierum, quo iter agi possit, conputetur.
+Habita dinumeratione XX. millium diurnorum per
+singulos dies computetur.
 A quo appellatur ad quem appellatum fuerit
 dimissoriae litterae dirigantur.
 Item.
@@ -18710,6 +19911,11 @@ ita et isti ab illis non recipiantur, quoniam sicut
 Domini sacerdotum segregata debet esse conuersatio ab
 eorum conuersatione, ita et litigatio, quia seruum
 Dei non oportet litigare.
+De eodem.
+Item ex Concilio Maguntino.
+Decretum est, ut presbiteri suos plebeios et accusare
+et attestimoniare possint. Si autem neglexerint, sui gradus
+periculo subiacebunt.
 Laici clericos accusare non debent.
 Item Clemens.
 Sacerdotes et reliqui ministri ecclesiae omnisque plebs
@@ -18911,6 +20117,15 @@ accusare licet. Unde generaliter colligitur, quod in accusatione
 equalitas fidei et conuersationis inter accusantem et
 accusatum semper consideranda est, ut is, qui accusat, uel par, uel
 superior inueniatur.
+Hereticus hereticum accusare et contra eum
+testificari potest.
+Item Nouellarum constituta nouella 45. in fine.
+Si hereticus contra hereticum litiget, liceat cuiuis eorum
+hereticum testem adducere. Sin autem orthodoxus contra
+hereticum litiget, pro orthodoxo quidem etiam heretici
+testimonium ualeat: contra orthodoxum autem solius orthodoxi
+testimonium ualeat. Orthodoxis autem litigantibus
+ad testimonium nulli heretico pateat aditus.
 Sed queritur, si flagitiosissimus catholicus possit
 conuenire hereticum de alio crimine, quam de heresi? Huic questioni
 ita respondetur: In quo hereticus inferior est, uidelicet in
@@ -19872,6 +21087,11 @@ Item Eleuterius Papa.
 Induciae non modicae ad inquirendum dandae sunt, ne
 aliquid prepropere agi a quacumque parte uideatur, quia
 per subreptionem multa proueniunt.
+De eodem.
+Item Damasus Papa epistola III. ad Stephanum
+Archiepiscopum.
+Induciae accusatis in criminalibus causis sex mensium
+uel eo amplius, si necesse fuerit, concedendae sunt.
 Spatium uero dilationum, sicut in
 III. libro Codicis titulo de dilationibus inuenitur, hac ratione
 moderandum est, ut, si ex ea prouincia, ubi lis agitur, uel persona,
@@ -19918,6 +21138,10 @@ exequatur, aut exequens non uincat causam. Si ergo post
 tempus prestitutum intra decem dies reo presente non
 occurrat, dimittatur reus exacto eo, quod promissum est, et si
 quid plus circa litem inpendisse cum taxatione iudicis iurauerit.
+Exceptio fori dilatoria est, atque ideo in initio litis
+debet opponi et probari. Peremptorias autem exceptiones,
+ut sunt prescriptiones longi temporis, sufficit in initio litis
+contestari.
 Quod uero infames et non legitime coniuncti ad accusationem
 admitti non debeant, et qui generaliter ab accusatione remouendi
 sint, multorum auctoritatibus claret.
@@ -20158,6 +21382,11 @@ pontificum recipiendi, sed penitus repellendi, quoniam
 iubent canonica decreta Patrum, ut accusatio uel testimonium
 eorum, qui odio quoslibet secuntur, uel qui inimici
 aut suspecti habentur, nullo modo recipiantur.
+De eodem.
+Item Pascalis Papa:
+Nulli episcoporum ab accusatione sua repellere liceat,
+quos ante, quam ab eis inpeteretur, a sua communi
+familiaritate neglexerit separare.
 Quod uero inimici ab accusatione prohibentur,
 inde est, quia eorum calliditate innocentia frequenter obprimi solet.
 Sed cum Athanasius suae cathedrae reddi precipitur, quia de
@@ -20253,6 +21482,17 @@ ponatur aut ordinetur episcopus, quoniam, quamquam
 conprouincialibus episcopis accusati causam episcopi
 scrutari liceat, non tamen diffinire inconsulto Romano
 Pontifice permissum est.
+De eodem.
+Item Damasus Papa Stephano Archiepiscopo,
+epistola II. c. 2.
+Discutere episcopos et summas ecclesiasticorum
+negotiorum causas metropolitano una cum omnibus suis
+conprouincialibus, ita ut nemo ex eis desit, et omnes in
+singulorum concordent negotiis, licet; sed diffinire eorum
+atque ecclesiasticarum summas querelas causarum, uel
+dampnare episcopos absque huius sanctae sedis auctoritate
+minime licet, quam omnes appellare, si necesse fuerit, et
+eius fulciri auxilio oportet.
 Conprouinciales et metropolitani episcoporum
 causam audire, sed diffinire non possunt.
 Item Eleuterius Papa.
@@ -20689,6 +21929,19 @@ non fore canonicum quemquam sacerdotum iudicare
 uel dampnare ante, quam accusatores canonice examinatos
 presentes habeat locumque defendendi accipiat, id est inducias
 ecclesiasticas ad abluenda crimina etc.
+Idem Damasus ibidem continenter.
+Nec extra propriam fiat prouinciam primo discussionis
+accusatio, sine apostolica preceptione, cui in omnibus
+causis debet reuerentia custodiri, quoniam et antiqua
+docet hoc Patrum regula, in qua et inperialiter pariter
+statuta concinunt. "Criminum," inquiunt, "discussio
+ibi agenda est, ubi crimen admissum est. Nam alibi
+criminum reus prohibetur audiri." Et alibi in canonibus
+precipitur: "Quecumque negotia in suis locis, ubi
+orta sunt, finienda sunt," et reliqua talia, et his similia,
+salua tamen in omnibus apostolica auctoritate, ut nichil in
+his diffiniatur prius, quam ei placere cognoscatur, qua omnes
+suffultos esse oportet.
 De eodem.
 Idem.
 Qui accusare alium elegerit, presens per se, et non per
@@ -20980,6 +22233,13 @@ censemus, qui nec ad accusationem admitti iussi sunt, uel
 etiam quos ipse accusator de domo sua produxerit. Ad
 testimonium autem intra annos quatuordecim etatis suae
 constituti non admittantur.
+De eodem.
+Item ex Concilio Maticensi, c. 6.
+Placuit sancto conuentui, ut testes ad testimonium
+dicendum precio non conducantur, et ut quique optimi et
+fideliores in testimonium assumantur, ut is, contra quem
+testimonium ferre debent, nullam eis possit afferre
+calumpniam, et ut nullus testimonium dicat nisi ieiunus.
 Item in criminali causa: "produci
 testis non potest, qui ante in eum reum testimonium dixit," sicut
 in 22. libro Digestionis titulo de testibus inuenitur. Item titulo eodem:
@@ -21573,6 +22833,14 @@ Delatori autem lingua capuletur, aut conuicto caput
 amputetur. Delatores autem sunt qui inuidia produnt
 alios.
 De eodem.
+Item ex Concilio Eliberitano.
+Delator si quis extiterit fidelis, et per delationem
+eius aliquis fuerit proscriptus uel interfectus, placuit,
+non nisi in fine accipere communionem. Si leuior
+causa fuerit, infra quinquennium accipere poterit communionem.
+Si catecuminus fuerit, post quinquennii tempora
+admittatur ad baptismum.
+De eodem.
 Item ex VIII. Sinodo.
 Si quis falsum dixerit, uel personam innocentis falso
 crimine maculauerit, iuxta sacerdotis arbitrium diuturna
@@ -22008,6 +23276,17 @@ ualet.
 Placuit pro communi utilitate, ut nullus episcoporum
 grauiter ferat, si eius parrochianum pro depredationis causa
 alter episcopus excommunicauerit.
+De eodem.
+Item ex Concilio Meldensi, c. 2.
+De illis autem, qui intra parrochiam beneficium aut
+hereditatem habent, et alterius episcopi parrochiani sunt,
+et de loco ad locum iter faciunt, et rapinam et depredationes
+peragunt, placuit, ut excommunicentur, nec
+ante ex parecia exeant, quam que perpetrarunt digne
+emendent. Quorum excommunicatio seniori eorum et proprio
+episcopo significanda est, ne eos recipiat ante,
+quam illuc redeant, ubi rapinam fecerunt, et ibi omnia
+pleniter emendent.
 Porro cuius iudicium sibi expetendum sit, si iudices electi
 inter se discordare ceperint, in Laudicensi Concilio
 sic inuenitur diffinitum:
@@ -22047,6 +23326,13 @@ pars iudicatis, tunc primas regionis inter ipsos audiat,
 et quod ecclesiasticis canonibus et legibus nostris consentaneum
 sit, hoc diffiniat, et nulla pars calculo eius ualeat
 contradicere.
+De eodem.
+Item Alexander Papa.
+Si metropolitanus a quocumque conprouinciali episcopo
+in causa propria appellatus eum audire distulerit,
+in proxima sinodo negotii sui habeat licentiam exercendi,
+et quicquid per iustitiam a conprouincialibus suis
+fuerit statutum debet custodiri.
 Sed si omnium conprouincialium concordi
 sententia fuerit dampnatus, manebit erga eum inmobilis censura.
 Unde in Laudicensi Concilio legitur:
@@ -23148,6 +24434,18 @@ Clementi, qui sedem apostolicam post eum et potestatem
 pontificalem tradente sibi B. Petro tenere promeruit. Linus
 uero et Cletus ministrabant exteriora; princeps autem
 apostolorum Petrus uerbo et orationi instabat.
+Unde ipse Clemens in epistola ad Iacobum Ierosolomitanum
+missa inter cetera scribit, quod Petrus adhuc
+uiuens Clementem in episcopum elegit:
+"Simon Petrus in ipsis diebus, quibus uitae finem sibi
+presensit, apprehensa manu mea repente consurgens, in
+auribus totius ecclesiae hec protulit uerba: Clementem hunc
+episcopum uobis ordino, cui soli meae predicationis et doctrinae
+cathedram trado, quem pre ceteris expertus sum
+Deum colentem, homines diligentem, castum, discendi
+studiis deditum, sobrium, benignum, iustum, patientem, et
+scientem ferre nonnullorum etiam ex his, qui in uerbo Dei
+instituuntur, iniurias."
 Sed in Antioceno Concilio hoc omnino fieri
 prohibetur, in quo sic statutum legitur:
 Episcopus successorem sibi constituere
@@ -23628,6 +24926,19 @@ Non potest appellari consecratio, que fit ab
 excommunicatis.
 Nos consecrationem nullo modo dicere possumus, que
 ab excommunicatis hominibus est celebrata.
+Excommunicati illicite manus inponunt, quia potestatem
+ordinandi non habent. Ubi autem illicita est manus inpositio,
+uulnus infigitur. Unde reiterari necesse est quod
+minime probatur esse collatum.
+Unde Damasus Papa epistola IV. ait.
+Per illicitam manus inpositionem uulneratum caput
+illi, qui uidebantur aliquid accepisse, habebant, et ubi uulnus
+infixum est, necesse est medicinam adhibere, qua infixa
+sanetur macula, id est, reiterari necesse est quod legitime
+actum aut collatum minime probatur, si perfectum esse
+debebit. Nam quomodo honorem possit retinere qui ab
+illo acceperit, qui potestatem dare legitime non habuit,
+inuenire non possum.
 Sed excommunicati hic intelligendi sunt, qui in
 ipsa sua ordinatione penam excommunicationis contraxerunt, qui
 numquam in numero catholicorum fuerunt. Ceterum, qui inter
@@ -23692,6 +25003,13 @@ nullus alterius iudicis, nisi sui, sententia tenebitur aut
 dampnabitur. Unde et Dominus in Euangelio, loquitur
 dicens: "Ne transgrediaris terminos antiquos, quos
 posuerunt patres tui."
+Unde Urbanus Papa:
+Placuit, ut deinceps nulli sacerdotum liceat quemlibet
+conmissum alteri sacerdoti recipere ad penitentiam sine
+eius consensu cui prius se conmisit, nisi per ignorantiam
+illius cui penitens prius confessus est. Qui uero contra
+hec statuta facere presumpserit, gradus sui periculo
+iacebit.
 In alterius ecclesia, nisi eo uocante, nulli aliquid
 agere licet.
 Idem.
@@ -23707,6 +25025,18 @@ ei, quia sicut ordinatio, ita eis et iudicatio et
 aliarum rerum dispositio prohibetur. Nam qui ordinare
 non poterit quo modo iudicabit? nullatenus proculdubio
 iudicabit aut iudicare poterit.
+De eodem.
+Item ex Concilio Nannetensi, c. 1.
+In dominicis uel festis diebus presbiteri ante, quam
+missas celebrent, plebem interrogent, si alterius parrochianus
+in ecclesia sit, qui proprio contempto presbitero ibi missam
+uelit audire. Quem si inuenerint, statim ab ecclesia abiciant,
+et ad suam parrochiam redire conpellant.
+De eodem.
+Item ex eodem Concilio Nannetensi, c. 2.
+Nullus presbiter aut diaconus alterius plebanum
+(nisi in itinere fuerit, uel placitum ibi habuerit) ad missam
+recipere audeat.
 Ad ordinationem clericorum uel ecclesiarum alterius
 episcopi, nisi ab eodem inuitatus, non accedat episcopus.
 Item ex Concilio Antioceno.
@@ -24355,6 +25685,10 @@ pacta cum eo, qui hoc elegerit, ineat yconomus, atque conscribat,
 per que et tempus, intra quod hoc prestari placuerit,
 statuatur, et manifestum sit quod quisque acceperit
 adinuicem.
+Huiusmodi beneficii gratia prestando quidem ecclesiastici
+predii pro tempore usum fructum, post statutum
+autem tempus et placitum ipsorum redditum proprietate
+ad dominium et ius ecclesiasticum recurrente firmiter.
 Conpleto uero spatio, quod inter eos fuerit
 constitutum, seu mortis suae tempore (si hoc quoque conuenerit)
 is, qui possessionem ecclesiasticam et ceterorum
@@ -24391,6 +25725,19 @@ uult contra utilitatem et rationem cogi de proprio facere
 beneficium. Nec conmutationes rerum uel mancipiorum
 ecclesiasticorum quelibet persona sine licentia et
 regio consensu facere presumat.
+De eodem.
+Item ex Concilio Belluacensi.
+Precariae de quinquennio in quinquennium secundum
+antiquam consuetudinem et auctoritatem renouentur.
+De eodem.
+Item ex Concilio Cartaginensi.
+De precariis, que a rectoribus ecclesiarum inrationabiliter
+fiebant, et se suosque successores pena graui
+obligabant, ut facta ipsorum nequiuissent dissoluere, precipimus,
+ut nemo successor in antecessoris sui pena sit
+obligatus, sed suae prouidentiae sit concessum, ut, si antecessor
+eius res ecclesiae inrationabiliter distribuit, ab eo ad
+ius ecclesiae eiusdem reuocentur.
 Res ecclesiae dispensandi potestatem habeat
 episcopus.
 Item ex Concilio Martini Papae.
@@ -24615,6 +25962,12 @@ non sit, Caius Papa scribit, dicens:
 Apud secularem iudicem nullus clericus conueniatur.
 Nemo umquam episcopum aut reliquos clericos apud
 iudicem secularem accusare presumat.
+Nullus iudicum neque presbiterum, neque diaconum,
+aut clericum ullum, aut iuniores ecclesiae sine licentia
+pontificis per se distringat aut condempnare presumat.
+Quod si fecerit, ab ecclesia, cui iniuriam inrogare dinoscitur,
+tamdiu sit sequestratus, quousque reatum suum agnoscat
+et emendet.
 De eodem.
 Item Marcellinus Papa.
 Clericum cuiuslibet ordinis absque pontificis sui
@@ -24637,6 +25990,21 @@ presidens in sancta sinodo, que apud Nicenam
 congregata est, cum querelam quorumdam
 conspiceret coram se deferendam, ait: Vos a nemine
 diiudicari potestis, quia ad Dei iudicium solius reseruamini.
+De eodem.
+Item ex Concilio Matisconensi I., c. 8.
+Nullus clericus alium clericum ad iudicem secularem
+accusare, aut ad causam dicendam trahere quocumque
+modo presumat, sed omne negotium clericorum aut in episcopi
+sui, aut presbiterorum cum archidiaconi presentia
+finiatur. Quod si quis clericus hoc adinplere distulerit,
+si minor fuerit, uno minus de quadraginta ictus accipiat,
+si uero honoratior, triginta dierum inclusione mulctetur.
+De eodem.
+Item Marcellinus epistola II. ad Episcopos orientales.
+Quecumque contentiones inter Christianos ortae fuerint,
+ad ecclesiam deferantur, et ab ecclesiasticis uiris terminentur.
+Et si obedire noluerint, quousque obediant a
+liminibus ecclesiae excludantur.
 Neque pro ciuili, neque pro criminali causa episcopus
 apud ciuilem iudicem producatur.
 Item Bonifatius ad Episcopos Galliae.
@@ -25143,6 +26511,8 @@ emerserit, tunc conpetentes interpellati, consentaneum
 legibus terminum causae inponant, ita tamen, ut disceptatio
 litis duorum mensium spatium non excedat, a litis
 contestatione numerandum.
+In criminalibus uero causis numquam sine scriptura
+procedere debet.
 Non autem aliter puniatur clericus, nisi obnoxius
 repertus sacerdotio nudatus fuerit ab episcopo suo uel clericatus
 honore. Sin autem crimen ecclesiasticum est, tunc
@@ -25165,6 +26535,11 @@ ipsius prouinciae metropolitanum episcopum episcopus
 siue clericus habeat controuersiam, pergat ad ipsius
 diocesis primates, aut certe ad Constantinopolitanae
 ciuitatis regiae sedem, ut eorum ibi negotium terminetur.
+Item ex Concilio Agatensi, c. 32.
+Clericum nullus presumat apud secularem iudicem episcopo
+non permittente pulsare. Sed si pulsatus fuerit,
+non respondeat, nec proponat, nec audeat criminale
+negotium in iudicio seculari proponere.
 Ex his omnibus datur intelligi, quod clericus ad
 publica iudicia nec in ciuili, nec in criminali causa est producendus,
 nisi forte ciuilem causam episcopus decidere noluerit, uel in
@@ -25693,6 +27068,11 @@ Quod si obstinato animo sine communione defuncti fuerint,
 nos, illorum causam iuxta B. Leonis predecessoris nostri
 sententiam diuino iudicio reseruantes, quibus uiuis non communicauimus
 nec mortuis communicare debemus.
+Qui uero excommunicato scienter communicauerit,
+et amodo saltem in domo simul orauerit, atque latebras
+quo minus ad satisfactionem perducatur prebuerit, donec
+ab excommunicatore penitentiam accipiat, corporis et
+sanguinis Domini communione priuatum se esse cognoscat.
 Tardius recipiatur ad ueniam qui sacerdote
 iubente de ecclesia contempnit exire.
 Item ex Concilio Ylerdensi.
@@ -25754,6 +27134,14 @@ sic episcopus uel presbiter non alligat eos, qui insontes
 sunt, nec, soluit noxios, sed pro offitio suo cum
 peccatorum uarietates audierit, scit qui ligandus sit, qui
 soluendus.
+De eodem.
+Item Augustinus super Mattheum.
+Ridiculum est, ut eum mundum esse dicamus, qui
+uinculis peccatorum suorum ligatus est, propter hoc solum,
+quod episcopus dicitur habere huiusmodi potestatem, ut
+soluti ab eo soluti sint in celo, et ligati in terris ligati sint
+in celo. Sit ergo inreprehensibilis qui alterum ligat aut
+soluit.
 Non est petenda solutio, cum iniqua fertur
 sententia.
 Item Gelasius Papa Episcopis orientalibus de
@@ -26284,6 +27672,15 @@ pastores ecclesiae uel soluere debeant, uel
 ligare.
 Viribus caret sententia iniuste prolata.
 Item Calixtus Papa.
+Iniustum iudicium et diffinitio iniusta, regio metu
+et iussu, aut cuiuscumque episcopi aut potentis a
+iudicibus ordinata uel acta, non ualeat. Homini
+religioso parum esse debet inimicitias aliorum non exercere,
+uel augere male loquendo, nisi etiam eas extinguere
+bene loquendo studuerit. Melior est in malis factis
+humilis confessio quam in bonis superba gloriatio.
+Premium meretur qui iniuste maledicitur.
+Item Augustinus super Psalmo CII.
 Qui iustus est, et iniuste maledicitur premium illi
 redditur.
 Hic etsi, ut dictum est, non teneatur ligatus
@@ -27557,6 +28954,15 @@ accidit, quatuor debeant fieri portiones, una uidelicet
 episcopo et familiae eius propter hospitalitatem atque
 susceptionem, alia clero, tertia pauperibus, quarta
 ecclesiis reparandis.
+De eodem.
+Item ex Concilio Tolletano.
+Sancimus omnibus episcopis curam laicorum instare,
+ut, si quos in fide Christi inuenerint, nimio affectu diligant.
+Insuper confirmamus, ut, si aliqua ab ipsis accipiant
+dona, statim in quatuor diuidant partes, ita, ut prima pars
+secundum apostolorum precepta titulorum, nec non
+cimiteriorum restaurationibus diligenter attribuatur, secunda
+clericis, tertia cunctis pauperibus, quarta uero aduenis.
 Omnes presbiteri secundum iussionem episcopi
 res ecclesiae dispensare studeant.
 Item ex Concilio Agatensi.
@@ -27814,6 +29220,16 @@ Fugitiui domos suas aut familias deserentes, qui,
 etiamsi reuocati fuerint, teneri non possunt, simili ratione
 ab episcopis, si uoluerint, aut si ita meruerint
 distrahantur.
+Item ex Concilio apud Tansiacum c. 2.
+Iniustum uidetur et inpium, ut mancipia, que fideles
+uiri seu feminae pro redemptione animae suae Deo et
+sanctis eius consecrauerint, cuiuscumque muneris precio
+uel conmutationis commercio iterum in secularem seruitutem
+redigantur, cum canonica auctoritas seruos fugitiuos
+tantummodo distrahi permittat. Et ideo omnes rectores
+ecclesiarum summopere caueant, ne unius elemosina alterius
+peccatum fiat, et est absurdum, ut ecclesiastica
+dignitate seruus decedens humanae obnoxius sit seruituti.
 Item si rectores ecclesiae de rebus
 propriis tantumdem ecclesiae restituere uoluerint, ecclesiasticas
 facultates libere dare possunt, et constabunt his, quibus datae
@@ -29027,6 +30443,28 @@ sepulturam eis interdicunt, qui pro peccatis suis penam
 extremam persoluerunt et confitentur, uel confiteri
 desiderant? Scriptum est enim: "Non iudicat
 Deus bis in id ipsum."
+Fures et latrones, si in furando aut depredando occidantur,
+uisum est pro eis non orandum. Si conprehensi
+aut uulnerati presbitero uel diacono confessi fuerint,
+communionem eis non negamus.
+De eodem.
+Item ex Concilio Aurelianensi.
+Si fur aut latro captus in preda absque occisione
+potest conprehendi, et tamen interficitur, quia ad imaginem
+Dei creati et in nomine eius baptizati sunt, interfectores
+eorum quadraginta diebus non intrent ecclesiam.
+Lanea ueste induti ab escis et potibus, qui
+interdicti sunt, a toro, a gladio, ab equitatu
+se abstineant. In tertia, quinta feria et sabbato aliquo
+genere leguminum uel olerum, et pomis, paruisque
+pisciculis, cum mediocri cereuisia uicissim utantur et temperate.
+Sin autem a ueridicis conprobatur testibus,
+quod sine odii meditatione se suaque liberando diaboli
+membra interfecerint, et capi non poterant, penitenciam
+pro homicidio eis non iniungimus, nisi ipsi uoluerint
+aliquid quod humanitatis est facere. At si presbiter
+est, non deponatur; cunctis tamen diebus uitae suae
+penitenciam agat.
 Canonici cuiusdam ecclesiae questionem mouent de prediis;
 testes ex fratribus suis producunt; negociatoribus pecuniam crediderunt,
 ut ex eorum mercibus emolumenta acciperent.
@@ -29313,6 +30751,15 @@ agunt, mercedem habere potero. Sed huiusmodi
 cogitatio ei Diaboli calliditate suggeritur. Nam si
 totum tribuat quod abstulerit, potius peccatum addit
 quam minuat.
+De eodem.
+Item Ieronimus.
+Nemo, qui rapit, moriens, si habet unde reddat, saluatur.
+Si eos, quorum fuit, inuenire non poterit, ecclesiae uel
+pauperibus tribuat.
+De eodem.
+Item Ambrosius.
+Rapinam emere non licet, nisi ea intentione, ut cui est
+ablata reddatur.
 Furtum conmittit qui inuentum non reddit.
 Item eiusdem.
 Si quid inuenisti, et non reddidisti, rapuisti; quantum
@@ -31419,6 +32866,27 @@ sacerdotum piacula resecentur.
 Hac auctoritate monachis conceditur
 inuestitura suarum ecclesiarum. Sed uidetur contraire Urbanus
 papa II., dicens:
+Admonemus atque precipimus, ut decimas omnino
+dari Deo non negligatur, quas ipse Deus dari constituit,
+quia timendum est, ut quisquis Deo debitum suum
+subtrahit, ne forte Deus per peccatum suum auferat ei
+necessaria sua.
+De eodem.
+Item Nicolaus Papa II. epistola unica, c. 5.
+Precipimus, ut decimae et primiciae, seu oblationes
+uiuorum et mortuorum ecclesiis Dei fideliter reddantur
+a laicis, et ut in dispositione episcoporum sint.
+Quas qui retinuerint, a sanctae ecclesiae communione
+separentur.
+De eodem.
+Item Leo Papa.
+Nullus decimas ad alium pertinentes accipiat.
+Item Ambrosius sermone I. de Quadragesima.
+Nam qui Deo non uult reddere decimas, quas retinuit,
+et homini non studet reddere quod iniuste ab eo abstulit, non
+timet adhuc Deum, et ignorat quid sit uera penitencia
+ueraque confessio. Iste talis homo non potest ueram
+facere elemosinam.
 Abbates in parrochialibus ecclesiis absque episcopi
 consilio presbiteros non ordinent.
 Sane quia monachorum quidam episcopis ius suum
@@ -32045,6 +33513,12 @@ noluerint.
 Item ex Concilio Rothomagensi.
 Omnes decimae terrae, siue de frugibus siue de pomis
 arborum, Domini sunt, et illi sanctificantur.
+Boues, et oues, et caprae, que sub pastoris uirga
+transeunt; quicquid decimum uenerit sanctificabitur
+Domino. Non eligetur nec bonum, nec malum, nec altero
+conmutabitur. Si quis mutauerit, et quod mutatum
+est, et pro quo mutatum est, sanctificabitur Domino, et
+non redimetur.
 Sed quia modo multi inueniuntur, decimas dare nolentes
 statuimus, ut secundum Domini nostri preceptum
 admoneantur semel, et secundo, et tertio. Qui si non
@@ -32443,6 +33917,17 @@ Si quis uult monasterium suum ad meliorandum
 in alium locum ponere, fiat cum consilio episcopi
 et fratrum suorum, et dimittat presbiterum in priori
 loco ad ministeria ecclesiae.
+Publicae penitenciae subiciantur qui circumueniendo
+aliquos tondere presumunt.
+Item ex Concilio Moguntinensi.
+Constituit sane sacer iste conuentus, ut
+episcopi siue abbates, qui, non in fructum animarum,
+sed in auaritiam et turpe lucrum inhiantes, quoslibet
+homines circumueniendo totonderunt, et res eorum tali
+persuasione subripuerunt, penitenciae canonicae utpote
+turpis lucri sectatores subiaceant. Hi uero, qui
+illecti comam deposuerunt, in eo, quod ceperunt, perseuerare
+cogantur, res uero eorum heredibus reddantur.
 Sine uoluntate fratrum aliquem de suis propinquis
 abbas sibi substituere non ualet.
 Item ex eodem.
@@ -32579,6 +34064,10 @@ conmittens, predium ecclesiae magnum uel exiguum, uel
 quicquam de iure ecclesiae alienare temptauerit, et
 donator, et alienator, et uenditor honoris sui amissione
 mulctetur.
+Item Gregorius Anthemio Subdiacono,
+libro XI. epistola 31.
+Ratio nulla permittit, ut propriis cuiusquam usibus applicetur
+quod pro communi utilitate datum esse cognoscitur.
 Qui reuocandum putat quod ecclesiae contulit
 sacrilegii crimen incurrit.
 Item Ambrosius in libro de penitencia.
@@ -32697,6 +34186,10 @@ Quod si quis fecerit, post debitae ultionis acrimoniam
 (que erga sacrilegos iure promenda est) perpetua dampnetur
 infamia, et carceri tradatur, aut exilio perpetuae deportationis
 seruetur.
+Item Hyginus Papa.
+Si quis ecclesiam igne conbusserit, quindecim
+annis peniteat, et eam sedule restituat, et precium
+suum pauperibus distribuat.
 Iudae similis probatur qui ornamenta ecclesiae
 subripit.
 Item Clemens.
@@ -32704,6 +34197,21 @@ Si forte quispiam presbiter siue diaconus sacrarii sindonem
 uel uelum subtractum uendiderit, Iudae Scariotis
 similis estimabitur. Qui propter cupiditatem fecerit
 hoc opus, nouerit se supradicti Iudae penam suscepturum.
+De eodem.
+Item ex penitenciali Theodori.
+Pecunia ecclesiastica furata uel rapta reddatur in
+quadruplum; populi uero duplicetur. Si quis aliquid
+de ministerio sanctae ecclesiae furatus fuerit,
+septem annis peniteat, tres in pane et aqua.
+De eodem.
+Item ex penitenciali Romano.
+Si quis clericus furtum fecerit capitale, id est quadrupedem,
+uel domum fregerit, aut quamlibet rem
+melioris precii furatus fuerit, septem annis peniteat;
+laicus quinque. Si quis autem de minoribus
+semel aut bis furtum fecerit, reddat proximo suo, et
+uno anno peniteat in pane et aqua, et si reddere non
+potuerit tribus annis peniteat.
 Sacrilegium facit qui pecuniam ecclesiae rapit.
 Item Anacletus.
 Qui rapit pecuniam proximi sui, iniquitatem operatur;
@@ -32790,6 +34298,28 @@ interdictione resecare licentiam tribuimus.
 Quos etiam resipiscentes tandem digna satisfactione premissa
 in gremio sanctae matris ecclesiae reuocari
 noueris posse.
+Item ex Concilio Moguntino sub Rabano,
+c. 24.
+Qui presbiterum occiderit, duodecim annorum
+ei penitencia secundum canones inponatur; aut si
+negauerit, si liber est, cum septuaginta duobus iuret:
+si autem seruus, super duodecim uomeres feruentes se
+expurget. Conuictus uero noxae usque ad ultimum
+uitae tempus miliciae cingulo careat, et absque spe coniugii
+maneat.
+Item ex Concilio Triburiensi.
+Ut presbiteri non uadant, nisi stola aut orario induti.
+Et si in itinere spoliantur, aut uulnerantur,
+uel occiduntur non stola uestiti, simplici emendatione
+soluantur, si autem cum stola triplici.
+Item ex eodem, c. 5.
+Omnes presbiteri interfectores conpositione
+episcopi, ad cuius parrochiam pertinent, soluantur, ita
+uidelicet, ut medietatem Vuirigeldi eius episcopus
+utilitatibus ecclesiae, cui prefuit, tribuat, et alteram medietatem
+in elemosinam illius iuste dispertiat, quia
+nullus nobis eius heres proximior uidetur, quam ille, qui
+ipsum Domino sociauit.
 Pro graduum uarietate mulctentur qui
 clericos occidunt.
 Item ex libro V. Capitularium.
@@ -33006,6 +34536,14 @@ legum, nec sacrorum canonum statuta permittunt res monasterii
 ab eius iure quolibet titulo segregari. Ea propter
 donationem eiusdem terrae, que contra rationem facta
 est, sine aliqua dilatione restitue.
+Hanc ergo scriptorum nostrorum paginam omni in
+futuro tempore a te, ab omnibus episcopis firmam statuimus
+illibatamque seruari, ut et suae ecclesiae iuuante
+Domino tantummodo sint iure contenti, et monasteria ecclesiasticis
+condicionibus, seu angariis, siue quibuslibet obsequiis
+secularibus nullo modo subiaceant, nullis canonicis
+iuribus deseruiant, sed remotis uexationibus diuinum opus
+cum summa deuotione perficiant.
 Sed notandum est, quod aliud est
 in suos uel propinquorum usus res ecclesiae conuertere (quam
 perniciosam cupiditatem sacri canones ubique prohibent, et dampnabilem
@@ -33738,6 +35276,15 @@ Anna Samuel puerum suum natum et ablactatum
 Deo pietate obtulit, qui et in ministerio templi, quo a
 matre fuerat deputatus, permansit, et ubi constitutus est
 deseruiuit.
+De eodem.
+Item ex Regesto Gregorii, libro I. epistola 48. ad
+Anthemium.
+Quia autem dura est in insulis congregatio monachorum,
+etiam pueros in eisdem monasteriis ante XVIII.
+annorum tempora suscipi prohibemus, uel si qui nunc
+sunt tua eos prouidentia auferat, et in urbem Romanam
+transmittat. Hoc et in Palmaria aliisque insulis te per omnia
+uolumus custodire.
 Qui a progenitoribus monasterio traditus est, de eo
 egredi non ualet.
 Item ex Concilio Triburiensi.
@@ -33746,6 +35293,10 @@ in ecclesia cepit canere et legere, nec uxorem ducere,
 nec monasterium deserere poterit: sed si discesserit, reducatur;
 si tonsuram dimiserit, rursum tondeatur; uxorem si
 usurpauerit, dimittere conpellatur.
+Item ex Penitenciali Theodori.
+Infans pro infante potest dari in monasterio, quamuis
+alter uocatus sit. Tamen melius est uotum soluere. Similiter
+et pecora equali precio (si necesse est) sunt redimenda.
 Ex his auctoritatibus colligitur, quod
 paterna professio pueros tenet obligatos, nec licebit eis a proposito
 discedere, quod paterna deuotione in puerilibus annis susceperint.
@@ -33778,6 +35329,16 @@ causa sunt intromissi, non nisi uolentes teneantur, quia
 quod non petunt obseruant. Ideoque tales considerandi
 sunt maxime peccata conmittere quam plangere, sicut in
 decreto sanctissimi Leonis Papae manifestissime continetur.
+Unde Marcellus Papa.
+Illud autem statuendum esse censemus, ut, si in minori
+etate filii monasterio oblati fuerint, et sacram tonsuram
+uel uelamina susceperint, dignum quidem duximus, ut XV.
+anno a prelatis moniti inquirantur, utrum in ipso habitu
+permanere cupiant, an non? Si uero permanere professi
+fuerint, ulterius penitendi locum minime amplecti possunt.
+Sin autem ad secularem habitum reuerti uoluerint, redeundi
+licentia nullo modo denegetur, quia satis inutile est, ut coacta
+seruitia Domino prestentur.
 Velamen autem uirginibus inponi
 non licet, nisi certis diebus.
 Unde Gelasius Papa omnibus Episcopis:
@@ -33806,6 +35367,11 @@ Item ex Concilio Affricano III.
 Placuit ut ante XXV. annos etatis nec diacones ordinentur,
 nec uirgines consecrentur, et ut lectores populum
 non salutent.
+Item Pius Papa.
+Virgines non uelentur ante XXV. annos, nisi forte
+necessitate periclitantis pudicitiae uirginalis, et non
+sunt consecrandae nisi in epiphania, et in sabbato pascae,
+et in apostolorum natalitiis, nisi causa mortis urgente.
 Quamuis autem uiduae prohibeantur
 uelari, uiduitatis tamen professio in scriptis ab eis est facienda.
 Vestis quoque professioni conueniens est eis tradenda, qua ubique
@@ -34183,6 +35749,22 @@ Quod autem clerici secularium negociorum procuratores
 esse non ualeant, auctoritate Cartaginensis Concilii I. probatur,
 in quo Nicasius Episcopus Culusitanus dixisse
 legitur capitulo 6.:
+Peruenit in sanctam sinodum, quia de eis, qui in clero
+connumerantur, quidam propter turpis lucri gratiam alienarum
+possessionum conductiones et seculares causas suscipiunt,
+et se ipsos quidem a ministeriis sanctis per desidiam
+separant, ad domos autem secularium concurrunt, et substantiarum
+eorum gubernationes auariciae causa suscipiunt.
+Decreuit igitur sancta et magna sinodus, neminem deinceps
+eorum, hoc est non episcopum, siue clericum, aut monachum,
+conducere possessiones, aut misceri secularibus procurationibus,
+nisi forte qui legibus ad minorum etatem tutelas
+siue procurationes inexcusabiles attrahantur, aut cui ipsius
+ciuitatis episcopus ecclesiasticarum rerum conmiserit gubernacula,
+uel orphanorum, aut uiduarum, que indefensae sunt,
+aut earum personarum, que maxime ecclesiastico indigent
+amminiculo propter timorem Dei. Si quis uero transgressus
+fuerit hec statuta, correctioni ecclesiasticae subiaceat.
 Qui annexi sunt clero secularium possessionum
 procuratores non fiant.
 Credo placere suggestionem meam sanctitati uestrae,
@@ -34875,6 +36457,13 @@ Omne genus mendacii summopere fuge, nec casu, nec
 studio loquaris falsum, nec, ut prestes, mentiri studeas, nec
 qualibet fallacia uitam alicuius defendas. Caue mendacium
 in omnibus.
+De eodem.
+Item Augustinus in libro de mendacio, c. 6.
+Si quis ad te confugiat, qui mendacio, tuo possit a
+morte liberari, non es mentiturus. Os enim, quod mentitur,
+occidit animam. Et infra: Cum ergo mentiendo
+uita eterna amittitur, numquam pro cuiusquam uita temporali
+mentiendum est.
 Non deputantur mendacia, cum ea, que non
 sunt, ioco dicuntur.
 Item Augustinus in libro questionum Genesis c. 45.
@@ -35625,6 +37214,19 @@ quoque fideli suo in his omnibus uicem reddere debet.
 Quod si non fecerit, merito censebitur malefidus, sicut
 ille, si in eorum preuaricatione uel faciendo, uel consentiendo
 deprehensus fuerit perfidus et periurus.
+De eodem.
+Augustinus.
+Si quis laicus iuramentum uiolando profanat, quod regi
+et domino suo iurat, et postea peruerse et dolose eius
+regnum tractauerit, et in mortem ipsius aliquo machinamento
+insidiatur, quia sacrilegium peragit, in Christum Domini
+manum mittens, anathema sit, nisi per dignam penitenciae
+satisfactionem emendauerit, sicut constitutum a sancta
+sinodo est, id est seculum relinquat, arma deponat, in monasterium
+eat, et peniteat omnibus diebus uitae suae. Verumtamen
+conmunionem in exitu uitae suae cum eucharistia
+percipiat. Episcopus uero, presbiter, diaconus,
+si hoc crimen conmiserit, degradetur.
 Ut itaque ex premissis apparet, mendacium
 nec simplici sermone debet proferri, nec iuramento firmari.
 Mendacium autem non solum in uerbis, sed etiam in simulatis
@@ -35657,6 +37259,13 @@ simpliciter cum ueritate et puritate dicat: est aut
 non. Sed si est aliquid, quod sibi obiciatur, prout
 iudicauerint qui eiusdem sunt ordinis, aut corrigatur, aut
 expurgetur.
+Episcopo similiter clericus iuramentum prestare non
+debet, nisi forte is, cui ecclesiae procurationem conmittit.
+Unde Urbanus II. ait:
+De eodem.
+Nullus episcopus clericos suos, nisi forte quibus ecclesiasticarum
+rerum dispensatio conmissa fuerit, sibi iurare
+conpellat.
 Quidam episcopi cum plebe sibi conmissa in heresim lapsi
 sunt; circumadiacentes catholicos minis et cruciatibus ad heresim
 conpellere ceperunt, quo conperto Apostolicus catholicis episcopis
@@ -37554,6 +39163,9 @@ Debet homo diligere proximum tamquam se ipsum,
 ut quem potuerit hominem beneficentiae consolatione,
 uel informatione doctrinae, uel disciplinae cohercione,
 adducat ad colendum.
+De eodem.
+Item Augustinus ad Donatum Presbiterum, epistola CCIV.
+Mali sunt prohibendi a malo, et cogendi ad bonum.
 Ex his omnibus colligitur, quod uindicta est inferenda
 non amore ipsius uindictae, sed zelo iusticiae; non ut
 odium exerceatur, sed ut prauitas corrigatur. Sed cum
@@ -37666,6 +39278,10 @@ disciplinae, nec ueniae remedia suffragentur ab
 omni tamen intentione atque conscientia, quam Deus
 cernit, siue seueritate siue lenitate, non nisi offitium dilectionis
 inpletur.
+Hoc tamen intelligendum est de illis, quos presentia
+supplicia in melius conmutant, non de illis, qui obstinati
+sunt in malo, qui, si semper uiuerent, semper peccarent,
+quorum pena hic incipit, et in eternum durabit.
 In presentiarum nonnulli puniuntur, ne in
 eternum flagellentur.
 Item Ieronimus in Naum.
@@ -38739,6 +40355,28 @@ gladio peribit. Item Ambrosius: "Arma episcopi lacrimae
 sunt et orationes." Item illud Apostoli: "Non uosmetipsos
 defendentes, karissimi," quamuis omnibus generaliter dicatur
 specialiter tamen prelatis dictum intelligitur.
+Unde Iohannes Papa VIII. Angebergae Inperatrici,
+excusans Iohannem episcopum remoueri de milicia, dicit:
+De eodem.
+Nimium certe ueretur, et iure formidat contra professionem
+sui ordinis secularem miliciam exercere; terram
+defendere, de preliis tractare, de armis, terrenae potestatis
+est.
+De eodem.
+Item Innocentius Papa.
+Cum a Iudeis, inquit, Dominus caperetur, et Petrus
+cuiusdam inobedientis aurem abscinderet, ferire prohibuit,
+et forma omnium sacerdotum (quorum prior erat) etiam pro
+se ipso capi arma carnalia prohibuit.
+De eodem.
+Item Ambrosius.
+Non pila querunt ferrea, non arma Christi milites.
+Coactus repugnare non noui: sed dolor, fletus, orationes,
+lacrimae fuerunt mihi arma aduersus milites. Talia enim
+munimenta sunt sacerdotis. Aliter nec debeo, nec possum
+resistere; fugere autem, et relinquere ecclesiam non soleo.
+Seruum Christi non custodia corporalis, sed Domini prouidentia
+sepire consueuit.
 Hinc etiam de his, qui in bello aut in rixa
 moriuntur, in Concilio Triburiensi sic statutum est:
 Pro clerico, qui in bello aut in rixa moritur
@@ -39101,6 +40739,15 @@ exinde quicquam subtrahat, aut redhibitionem quamcumque
 exigat temporalem. Quod si fecerit, communione
 usque ad satisfactionem priuetur, et regia potestate dare
 cogatur.
+Item ex Concilio Wormaciensi, c. 50.
+Sanccitum est, ut unicuique ecclesiae unus mansus integer
+absque ullo seruitio attribuatur, et presbiteri in eis
+constituti non de decimis, neque de obligationibus fidelium,
+non de domibus, neque de atriis, uel de hortis
+iuxta ecclesiam positis, neque de prescripto manso aliquod
+seruicium faciant preter ecclesiasticum. Et si aliquid
+amplius habuerint, inde maioribus suis debitum seruicium
+inpendant.
 Hinc datur intelligi, quod de his, que inperiali
 beneficio, uel a quibuslibet pro beneficio sepulturae ecclesia possidet,
 nullius iuri, nisi episcopi, teneatur asstricta. De his uero,
@@ -40640,6 +42287,16 @@ inuicem mox scripta percurrant per omnes prouinciae
 episcopos, et quoscumque adire potuerint, ut excommunicatus
 habeatur ipse, donec obediat et
 reddat aliena.
+De eodem.
+Ex dictis Gregorii Papae.
+Quisquis per dolum manum suam mittit in Christum
+Domini, id est episcopum uel presbiterum, quia sacrilegium
+graue conmittit, et si quis ecclesiam Dei
+uastat, aut inpugnat, aut incendit, quia et hoc grauissimum
+est sacrilegium, placuit sanctae sinodo, ut inprimis
+omnia bona eius proscriptione publicentur; deinde in uno
+loco, id est in monasterio, inclusus peniteat omnibus diebus
+uitae suae.
 Conmunione priuetur qui Romipetas, et
 peregrinos, uel mercatores molestare presumpserit.
 Item Calixtus Papa.
@@ -43021,12 +44678,36 @@ habeantur a conmunione suspensi, quousque quod illicite
 perpetrauerunt emendent. Quod si emendare neglexerint,
 a conmunione uel omnium Christianorum conuiuio
 perpetuo sint sequestrati.
+De eodem.
+Item ex Concilio Martini Papae.
+Viduas autem uelare pontificum nullus attemptet
+prout statutum est in decretis Gelasii Papae capitulo
+XIII. quod nec auctoritas diuina, nec canonum forma
+prestituit. Quod si propria fuerit uoluntate continentiam
+professa, in eiusdem Gelasii capitulo XXI.
+legitur, eius intentio pro se reddat rationem Deo, quia,
+sicut secundum Apostolum, si se continere non poterat,
+nullatenus nubere uetabatur, sic secum habita deliberatione
+promissam fidem pudicitiae Deo debet custodire. Nos
+autem auctoritate Patrum suffulti in hoc sancto concilio
+sancimus et libere iudicamus, si sponte uelamen
+quamuis non consecratum sibi inposuerit, et in ecclesia
+inter uelatas Deo oblationem obtulerit, uelit nolit, sanctimoniae
+habitum ulterius habere debet, licet sacramento
+confirmare uelit, eo tenore et ratione sibi uelamen inposuisse,
+ut iterum posset deponere.
 De his, que uotum uirginitatis habentes nubunt,
 necdum sacro uelamine tectae.
 Item ex Decretis Innocentii Papae, c. 20.
 He uero, que nondum sacro uelamine sunt tectae,
 tamen in proposito uirginali semper simulauerant se permanere
 etc. et infra.
+Licet uelatae non fuerint, si forte nupserint his
+agenda aliquanto tempore penitencia est, quia sponsio
+earum a Domino tenebatur. Si enim inter homines
+solet bonae fidei contractus nulla ratione dissolui, quanto
+magis ista pollicitatio, quam cum Deo pepigit, solui sine
+uindicta non debet?
 Nam si Apostolus illas, que a proposito uiduitatis
 discesserunt, dixerat habere dampnationem, quia
 primam fidem irritam fecerunt; quanto magis uirgines
@@ -43346,6 +45027,13 @@ corpora per uotum propriae sponsionis et uerba
 sacerdotis Deo consecrata esse templa scripturarum testimoniis
 conprobantur, et ideo uiolatores earum sacrilegi,
 ac iuxta Apostolum filii perditionis esse noscuntur.
+De eodem.
+Item.
+Viduae, si prius, quam continentiam profiteantur,
+nubere elegerint, illis nubant, quos propria uoluntate
+uoluerint habere maritos. Similis conditio et de
+uirginibus habeatur, nec extra uoluntatem parentum
+uel suam cogantur accipere maritos.
 In monasteriis retrudantur monachi
 uxoribus sociati.
 Item Gregorius Artemio Subdiacono, in epistola 41.
@@ -43570,6 +45258,16 @@ consuetudinem pertinet absque consensu legitimi uiri orationi
 aliquando non posse uacare, nec continentiam profiteri. Quia
 ergo iste consensus fuit inter isto, patet hos coniuges
 fuisse."
+Iohannes Chrisostomus, id est auctor operis
+imperfecti, homilia XXXII. in Matheum.
+Omnis res, per quascumque causas nascitur, per easdem
+dissoluitur. Matrimonium enim non facit coitus, sed
+uoluntas, et ideo non soluit illud separatio corporis, sed
+separatio uoluntatis. Ideo qui dimittit coniugem suam,
+et aliam non accipit, adhuc maritus est. Nam etsi corpore
+iam separatus est, tamen adhuc uoluntate coniunctus est.
+Cum ergo aliam acceperit, tunc plane dimittit. Non ergo
+qui dimittit mechatur, sed qui alteram ducit.
 Item auctoritate probantur coniuges. Ait enim
 Ambrosius in libro de uirginibus:
 Coniugalis pactio, non uirginitatis defloratio facit
@@ -43582,6 +45280,12 @@ A prima fide desponsationis coniuges appellantur.
 Item Ysidorus Ethimologiarum libro IX., c. 7.
 Coniuges uerius appellantur a prima desponsationis fide,
 quamuis adhuc inter eos ignoretur coniugalis concubitus.
+Quod condicio interposita non ualeat, ex concilio Affricano
+probatur.
+De eodem.
+Quicumque sub condicionis nomine aliquam desponsauerit,
+et eam postea relinquere uoluerit, dicimus quod condicio
+frangatur, et desponsatio irrefragabiliter teneatur.
 De eodem.
 Item Augustinus de bono coniugalia.
 Coniunx uocatur a prima desponsationis fide, quam
@@ -43668,6 +45372,41 @@ preter conmixtionem sexuum non habeant in se nuptiae
 Christi et ecclesiae sacramentum, non dubium est,
 illam mulierem non pertinere ad matrimonium, in
 qua docetur non fuisse nuptiale misterium.
+Benedictus seruus seruorum Dei Grandensi Patriarchae
+salutem, etc.
+Lex diuinae constitutionis apostolicam cathedram totius
+posuit orbis terrarum magistram, ut quicquid ubique
+locorum dubitantur, ab ea ratio eiusdem requiratur. Affatus
+est autem nos suis litteris eiusdem cathedrae sessorem, ac
+percunctatus est quidam uestras nomine Iohannes, pro
+conubio filiae suae superstitis, cuius soror defuncta cuidam
+iuueni, Stephano nomine, simplicibus uerbis fuerat desponsata,
+et ante, quam ad nuptias perueniret, morte preuenta:
+utrum scilicet cum eodem iuuene possit matrimonium celebrari
+superstitis filiae, nec ne. Namque testatus est huius
+rei rationem apud uos haberi ambiguam. Quam Deo docente
+reddimus his uerbis certissimam. Protoplastus ille, radix
+et origo nostra, detractam sibi costam in mulierem uidens
+formatam, prophetico spiritu inter alia protulit: "Propter
+hoc relinquet homo patrem et matrem, et adherebit uxori
+suae, et erunt duo in carne una." Quibus uerbis innotuit,
+non aliter uirum et mulierem posse fieri unam carnem, nisi
+carnali copula sibi cohereant. Qui ergo nequaquam mixtus
+est extraneae mulieri federe nuptiali, quo pacto per nuda
+sponsionis uerba possunt una caro fieri, nullatenus ualemus
+intueri. Propinquitas enim sanguinis uerbis dicitur, non
+uerbis efficitur. Sed neque osculum parit propinquitatem,
+quod nullam facit sanguinis conmixtionem. Quoniam uero
+ita prorsus sese habet res Iohannis istius, ut uelit secundam
+filiam illi nuptiis copulare, cui primam iam decreuerat
+desponsare, censura apostolici magistratus mandamus,
+hoc absque ullius criminis uicio posse fieri, si utriusque
+partis sederit uoluntati. Nam cur prohibeatur quod
+prohibendum numquam sancta scriptura declarat? Sed neque
+mundanae leges connumeratis personis, que inter
+se nuptias non contrahunt, de huiusmodi aliquid dicunt.
+Ne ergo abnegetis quod negandum nulla ratione
+docetis.
 Item Apostolus precipit, ut uxor reddat
 debitum uiro, et uir uxori, nisi forte ex consensu ad tempus,
 ut expeditius uacent orationi. Unde datur intelligi, quod sine
@@ -44157,6 +45896,22 @@ frigiditatem a uiro suo separata est, et alii nupta, si uir eius
 aliam cognouerit, illa est detrahenda secundo, et reddenda primo."
 Sed eodem modo soluitur, quia ista uidelicet cum illo benedictionem
 acceperat.
+Si quis alicui mulieri consensus fidem fecerit,
+non licet illi aliam ducere.
+Augustinus de fide pactionis, et consensus.
+Duobus modis dicitur fides, pactionis et consensus. Si
+aliquis alicui mulieri fidem fecerit pactionis, non debet aliam
+ducere. Si aliam duxerit, penitenciam debet agere de
+fide mentita: maneat tamen cum illa, quam duxit. Non
+enim rescindi debet tantum sacramentum. Si autem fecerit
+fidem consensus, non licet aliam ducere. Si autem duxerit,
+dimittet eam, et adherebit priori.
+"Est autem fides pactionis, quando aliquis promittit
+fidem alicui, quod eam ducet, si permiserit ei rem secum
+habere, uel etiam pro consensu. Fides autem consensus est,
+quando, etiamsi non stringit manum, corde tamen et ore
+consentit ducere, et mutuo se concedunt unus alii, et mutuo
+se suscipiunt."
 Quidam infidelis in coniugio positus ad fidem conuersus est,
 uxor uero odio Christianae fidei ab eo discessit. Ille quamdam
 fidelem in uxorem accepit, qua mortua clericus efficitur. Tandem
@@ -45230,6 +46985,15 @@ Post susceptum uero de fonte filium uel filiam spiritualem,
 qui ex conpatre uel conmatre nati fuerint, matrimonio
 coniungi non possunt, quia leges seculi non emancipatos
 adoptiuis prohibent copulari.
+Idem ex libro XXIII. Digestorum, titulo de ritu
+nuptiarum, perpenditur, in quo ita legitur:
+Per adoptionem quesita fraternitas eousque inpedit
+nuptias, donec manet adoptio, ideoque eam, quam pater
+meus adoptauit et emancipauit, potero uxorem ducere.
+Eque et si me emancipato illam in potestate retinuerit,
+poterimus iungi matrimonio. Itaque uolenti generum
+adoptare, suadetur, ut filiam emancipet. Similiter suadetur
+ei, qui uelit nurum adoptare, ut emancipet filium.
 Si quis uero aliquo fortuito casu
 filiam suae conmatris uxorem acceperit, non cogitur eam dimittere.
 Unde in Triburiensi Concilio legitur:
@@ -45545,6 +47309,13 @@ mortuus fuerat, occidisse notentur, aut propinquitas,
 uel alia quelibet actio criminalis inpediat. Quod si probatum
 fuerit, sine ulla spe coniugii cum penitencia perpetuo
 maneant.
+Item ex Concilio apud Vermerias.
+Si qua mulier in mortem mariti sui cum aliis consiliata
+sit, et ipse uir aliquem illorum se defendendo occiderit,
+si probare potest ille uir, eam ream esse consilii,
+potest (ut nobis uidetur) ipsam uxorem dimittere, et, si
+uoluerit, aliam ducere. Ipsa autem insidiatrix penitenciae
+subiecta absque spe coniugii maneat.
 Post penitenciam reconcilietur ad conmunionem
 uidua, que mechum suum in uirum accepit.
 Item ex Concilio Elibertano.
@@ -45688,6 +47459,16 @@ inpediat, ab ipso Iordane sacramentum, quod ita constent
 hec, ut dicta sunt, accipiat, et nos canonum ac legum
 scita sequentes deinceps non prohibemus, quin alii uiro, si
 uoluerit, predicta filia eius tantum in Domino nubat.
+Econtra Hormisda Papa scribit Eusebio Episcopo.
+Tua sanctitas nos requisiuit, frater uenerande, de filio
+adulto, quem pater matrimonium contrahere uult, si sine
+uoluntate filii adulti facere potest. Ad quod dicimus, si
+aliquo modo non consentit filius, fieri non posse. Potest
+autem de filio nondum adulto, uoluntas cuius nondum discerni
+potest, pater eum, cui uult, in matrimonium tradere,
+et post, quam filius peruenerit ad perfectam etatem, omnino
+obseruare et adinplere debet. Hoc ab omnibus orthodoxae
+fidei cultoribus sancitum a nobis tenendum mandamus.
 Quorum unum futurum est corpus, unus debet esse
 et animus: atque ideo nulla inuita est copulanda alicui.
 Item Sanctio, Regi Aragonum.
@@ -46596,7 +48377,12 @@ cupiditatem, unius castissimam uoluntatem, et
 non quod corporum coniunctione, sed quod animorum
 diuersitate ageretur, attendens: "Duo," inquit, "fuerunt,
 et unus adulterium admisit."
-Non
+Idem in eodem libro, capitulo 27.
+Non fidelibus Christi sit tedio uestra uita, si ludibrio
+fuit hostibus castitas uestra. Habetis magnam ueramque
+consolationem, si fidam conscientiam retinetis, non consensisse
+peccatis eorum, qui in uos peccare permissi sunt.
+Idem in libro de duabus animabus: Non
 nisi uoluntate peccatur.
 Idem in libro I. de libero arbitrio.
 De pudicitia quis dubitauit, quin ea sit in animo
@@ -46604,6 +48390,12 @@ constituta, quandoquidem uirtus est? Unde a uiolento stupratore
 nec ipsa eripi potest. Item Ieronimus super
 epistolam ad Romanos libro 1.: Fieri non potest, ut, nisi
 quis prius mechetur in corde, mechari possit in corpore.
+Idem super Lucam in libro 2.: Finge in persecutione
+aliquam uirginem prostitutam; hec apud euangelium,
+quia uoluntate non peccat, uirgo suscipitur, in lege
+quasi corrupta repudiatur. Idem in libro hebraicarum
+questionum: Corpus mulieris
+non uis maculat, sed uoluntas.
 Item Augustinus in libro de sancta uirginitate:
 Sicut nemo inpudice utitur corpore, nisi prius spiritu
 concepta nequitia: ita nemo seruat pudicitiam in corpore,
@@ -48691,6 +50483,7 @@ multas quidem herbas accipit, unam autem dominantissimam: sic
 et in penitencia ista herba dominantior et potentior est, et uniuersum
 ipsa efficit. Audi enim quid dixit diuina scriptura:
 'Date elemosinam, et ecce, omnia munda sunt uobis.'"
+Item Ambrosius in libro
 de penitentia.
 "Deus diffinitionem non facit, qui misericordiam suam
 omnibus promisit, et sacerdotibus suis relaxandi licentiam sine
@@ -52505,6 +54298,26 @@ quod inscius fecerit hoc scelus, penitenciam quidem, que
 sibi iudicata fuerit, agat; legitimum uero coniugium
 suum habere permittatur. Illa uero digna uindicta
 affligatur, et in eternum coniugio priuetur.
+Item Hermes in libro Pastoris mandato IV.
+Ego dixi pastori: Domine, si quis habuerit uxorem
+fidelem in Domino, et inuenerit hanc in adulterio,
+numquid peccat uir, si cum illa concumbit? Et dixit
+michi: Quamdiu nescit peccatum eius, sine crimine est
+uir uiuens cum illa. Si autem scit uir, uxorem
+suam deliquisse, et non egerit penitenciam mulier, sed
+permanet in fornicatione sua, et coierit uir cum illa, reus
+erit peccati eius, et particeps mechationis illius. Et
+dixi illi: Quid ergo, si permanserit in uicio suo
+mulier? et dixit: Dimittat illam uir, et uir per se
+maneat. Quod si dimiserit mulierem suam, et aliam
+duxerit, et ipse mechatur. Et dixi illi: Quid, si mulier
+dimissa penitenciam egerit, et uoluerit ad uirum suum
+reuerti, nonne recipietur a uiro suo? Et dixit michi:
+Immo, si non receperit eam uir suus, peccat, et
+magnum peccatum sibi admittit, sed debet recipere peccatricem,
+que penitenciam egit. Ergo non debet dimissa
+coniuge sua uir aliam ducere. Hic actus similis est in
+uiro et muliere.
 De simpliciter uero fornicantibus,
 uel cum duabus sororibus, uel cum matre et filia, uel cum patre
 et filio, idem accipiendum est, ut ignorantibus coniugia non
@@ -53262,6 +55075,35 @@ Si autem progenies tota defecerit, ab antiquioribus
 et ueracioribus, quibus eadem propinquitas nota sit,
 episcopus canonice perquirat, et, si inuenta fuerit propinquitas,
 separentur.
+Celestini Papae Decretum Ecclesiae Florentinae
+missum.
+Videtur nobis, quod secunda, quam contra prohibitionem
+ecclesiae duxit, non sit uxor, etiamsi primam non
+haberet desponsatam. Nam quod contra interdictum et
+ordinem ecclesiae factum est, tamquam inordinatum ratum
+non haberi, tam diuinae quam humanae legis proclamat
+auctoritas. Quia igitur ea, quam inordinate superduxit,
+prohibitione renitente uxor non est, cogendus est eam
+recipere, quam iurauit et desponsauit, et ex ea prolem
+genuit, ut iuramenti religio non uilipendatur, et fides ad
+inuicem promissa seruetur, et proles in cultu Dei nutriatur
+et educetur, et alii exinde occasionem peierandi et alios
+decipiendi assumere non ualeant. Quod autem parentes,
+fratres et cognati utriusque sexus in testificationem
+suorum ad matrimonium coniungendum uel dirimendum
+admittantur, tam antiqua consuetudine quam legibus approbatur.
+Ideo enim maxime parentes, et, si defuerint
+parentes, proximiores admittuntur, quoniam unusquisque
+suam genealogiam cum testibus et chartis, tum etiam ex
+recitatione maiorum scire laborat. Qui enim melius
+recipi debent, quam illi, qui melius sciunt, et quorum est
+interesse, ita ut, si non interfuerint, et consensum non adhibuerint,
+secundum leges nullum fiat matrimonium?
+Quod uero legitur: "Pater non recipiatur in causa filii,
+nec filius in causa patris," in criminalibus causis et contractibus
+uerum est; in matrimonio uero coniungendo et
+disiungendo ex ipsius coniugii prerogatiua, et quia fauorabilis
+res est, congrue recipiuntur.
 Qui iurando propinquitatem firmare debeant.
 Item Urbanus Richario Genuensi Episcopo.
 Notificamus tibi, ut post, quam duo aut tres ex propinquioribus
@@ -53685,6 +55527,17 @@ Item ex Romana Sinodo.
 Si qua mulier ad secundas nuptias transierit, et ex eis
 sobolem genuerit, nullo modo potest ad consortium cognationis
 prioris uiri pertingere.
+De eodem.
+Item Higinus Papa.
+Si qua mulier transierit ad secundas nuptias, et ex eis
+prolem habuerit, ipsa proles non potest se copulare cognationi
+prioris uiri usque ad quartam generationem.
+Unde Innocentius Papa:
+De eodem.
+Si qua mulier ad secundas transierit nuptias, et filios
+et filias ad secundum maritum genuerit, debere eas
+nepotibus prioris mariti coniungi, sancta Romana sinodus
+prorsus inhibuit.
 Filiam cuiusdam patre ignorante quidam muneribus illexit,
 ad conuiuium inuitauit; finito conuiuio iuuenis uirginem oppressit.
 Quo conperto a parentibus iuueni traditur puella, ac
@@ -53874,7 +55727,12 @@ Hec auctoritas non preiudicat auctoritati Ieronimi,
 maxime cum illa testimonio diuinae legis nitatur. Legitime igitur
 post peractam penitenciam raptor poterit sibi copulare quam
 rapuit nisi pater puellae illam raptori detrahere uoluerit.
-In coniunctione filiarum in
+Item Codicis libro 5. titulo de nuptiis: Nec filium quidem
+familias inuitum ad ducendam uxorem cogi legum disciplina
+permittit. Igitur, sicut desideras, obseruatis iuris preceptis,
+sociare coniugio tuo quam uolueris, non inpediris; ita
+tamen, ut in contrahendis nuptiis patris tui consensus accedat.
+Item in eodem: In coniunctione filiarum in
 sacris positarum patris expectetur arbitrium. Item Digestis
 de ritibus nuptialibus: Consistere non possunt nuptiae, nisi
 consentiant omnes, id est qui coeunt, quorumque in potestate
@@ -54543,6 +56401,22 @@ missarum suppleantur solempnia; sed qui inicium ponit;
 suppleat usque in finem. Si quis uero presumpserit,
 preter quod posuimus, agere, a sacro corpore et sanguine
 Domini nostri Iesu Christi sit suspensus.
+Item ex Decretis Soteris Papae.
+Ut illud diuini oraculi singuli precaueant, quo scribitur:
+"Vae soli, quia, cum ceciderit, non habet subleuantem,"
+summopere uerendum nobis est atque cauendum, ne
+horis illis atque temporibus, quibus Deo psallitur uel
+sacrificatur, unicuique diuinis singulariter offitiis insistenti
+perniciosa passio uel corporis quelibet inualetudo occurrat,
+que aut corpus subito subrui faciat, aut mentem alienatione
+uel terrore confundat. Pro huiusmodi ergo casibus precauentes,
+necessarium duximus instituere, ut, ubi temporis,
+uel loci, siue cleri copia suffragatur, habeat quisque canens
+Deo atque sacrificans post se uicini solaminis adiutorem,
+ut, si aliquo casu ille, qui offitia inpleturus accedit, turbatus
+fuerit, uel ad terram elisus, a tergo semper habeat qui
+eius uicem exequatur intrepidus, et offitium inceptum
+adinpleat.
 Quot testes episcopus sacrificans secum habere debeat.
 Anacletus seruus Christi Iesu, omnibus Episcopis.
 Episcopus Deo sacrificans secum testes
@@ -56845,6 +58719,13 @@ ministrorum non inueniuntur, et urget periculum eius, qui
 petit, ne sine isto sacramento hanc uitam finiant, etiam
 laicos solere dare sacramentum, quod acceperunt, solemus
 audire.
+De eodem.
+Item ex Decreto Martini Papae III.
+Quicumque presbiter in prouincia propria, uel in alia,
+uel ubicumque inuentus Fuerit, conmendatum sibi infirmum
+baptizare noluerit, uel pro intentione itineris, uel
+de alia aliqua excusatione, et sic sine baptismo moritur,
+deponatur.
 Non reiteretur baptisma, quod a pagano
 ministratur.
 Ysidorus.
