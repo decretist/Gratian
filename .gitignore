@@ -1,0 +1,4 @@
+*.pyc
+Mallet/demo/data/gratian
+Mallet/demo/gratian-20-topic-keys.txt
+Mallet/demo/gratian-input.mallet
