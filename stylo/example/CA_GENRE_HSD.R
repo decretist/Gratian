@@ -2,7 +2,7 @@
 library(ca)
 library(languageR)
 samples = read.table("~/Work/Gratian/stylo/example/dimensionReduction.tsv", header=TRUE)
-samples.ca = ca(samples, nd=2)
+samples.ca = ca(samples, nd=NA)
 #plot(txts.ca, what=c("all", "none"))
 meta = read.table("~/Work/Gratian/stylo/example/meta_data.tsv", header=TRUE)
 COOR = data.frame(samples.ca$rowcoord, TEXT=meta$TEXT, GENRE=meta$GENRE)
