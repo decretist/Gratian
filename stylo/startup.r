@@ -1,0 +1,5 @@
+setwd("~/Work/Gratian/stylo")
+library(stylo)
+results = stylo()
+# summary(results)
+print(results$features.actually.used)
