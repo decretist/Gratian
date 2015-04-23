@@ -1,10 +1,10 @@
 ###### LOAD DATA ###########################################################
 library(ca)
 library(languageR)
-samples = read.table("~/Desktop/code_dissertatie/maerlant/workspace/dimensionReduction.tsv", header=TRUE)
+samples = read.table("~/Work/Gratian/stylo/example/dimensionReduction.tsv", header=TRUE)
 samples.ca = ca(samples, nd=2)
 #plot(txts.ca, what=c("all", "none"))
-meta = read.table("~/Desktop/code_dissertatie/maerlant/workspace/meta_data.tsv", header=TRUE)
+meta = read.table("~/Work/Gratian/stylo/example/meta_data.tsv", header=TRUE)
 COOR = data.frame(samples.ca$rowcoord, TEXT=meta$TEXT, GENRE=meta$GENRE)
 ############################################################################
 
