@@ -1,4 +1,4 @@
-setwd("~/Work/Gratian/stylo")
+setwd("~/Work/Gratian/stylometry")
 library(stylo)
 results = stylo()
 # summary(results)

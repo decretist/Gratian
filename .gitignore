@@ -5,5 +5,6 @@ Mallet/demo/gratian-input.mallet
 Xque/stem.py
 analysis/main0.py
 stylometry/*.pdf
+stylometry/stylo_config.txt
 stylometry/table_with_frequencies.txt
 
