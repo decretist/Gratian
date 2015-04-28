@@ -2,7 +2,7 @@
 library(ca)
 library(languageR)
 samples = read.table("~/Work/Gratian/stylo/example/dimensionReduction.tsv", header=TRUE)
-samples.ca = ca(samples, nd=NA)
+samples.ca = ca(samples)
 #plot(txts.ca, what=c("all", "none"))
 meta = read.table("~/Work/Gratian/stylo/example/meta_data.tsv", header=TRUE)
 COOR = data.frame(samples.ca$rowcoord, TEXT=meta$TEXT, GENRE=meta$GENRE)
@@ -10,13 +10,13 @@ COOR = data.frame(samples.ca$rowcoord, TEXT=meta$TEXT, GENRE=meta$GENRE)
 
 
 print("######### FOR FIRST DIMENSION ##########################")
-COOR.aov1 = aov(X1~GENRE, data=COOR)
+COOR.aov1 = aov(Dim1~GENRE, data=COOR)
 print(TukeyHSD(COOR.aov1))
-print(kruskal.test(COOR$X1, COOR$GENRE))
+print(kruskal.test(COOR$Dim1, COOR$GENRE))
 print("######### FOR SECOND DIMENSION ##########################")
-COOR.aov2 = aov(X2~GENRE, data=COOR)
+COOR.aov2 = aov(Dim2~GENRE, data=COOR)
 print(TukeyHSD(COOR.aov2))
-print(kruskal.test(COOR$X2, COOR$GENRE))
+print(kruskal.test(COOR$Dim2, COOR$GENRE))
 ############################################################################
 ###### TukeyHSD FOR POSITION VERSUS GENRE #########################
 par(mfrow=c(1,2))
