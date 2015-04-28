@@ -4,4 +4,6 @@ Mallet/demo/gratian-20-topic-keys.txt
 Mallet/demo/gratian-input.mallet
 Xque/stem.py
 analysis/main0.py
+stylometry/*.pdf
+stylometry/table_with_frequencies.txt
 
