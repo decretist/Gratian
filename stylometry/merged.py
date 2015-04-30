@@ -143,11 +143,11 @@ prepositions_1 = [
 
 misc = ['b', 'etc', 'ii']
 
-k_other = ['quis', 'tantum', 'secundum', 'nichil', 'quomodo']
+k_other = ['secundum', 'nichil', 'quomodo']
 
 adjectives = ['omnibus', 'omnia', 'aliud', 'alia', 'alii', 'aliis', 
     'tolletano', 'sacris', 'nulli', 'nulla', 'propria', 'prius'
-    'idem', 'eodem', 'alterius', 'bonum']
+    'idem', 'eodem', 'alterius', 'bonum', 'tantum', 'solum']
 
 nouns = ['papa', 'concilio', 'ecclesiae', 'auctoritate', 'augustinus',
     'episcopo', 'libro', 'gregorius', 'causa', 'ecclesia',
@@ -170,7 +170,7 @@ pronouns_starred = ['illud', 'eius', 'eorum', 'eis', 'sua', 'suae', 'eo',
 
 pronouns = ['que', 'his', 'se', 'hoc', 'sibi', 'quibus', 'hinc',
     'hec', 'quem', 'cui', 'quos', 'quorum', 'cuius', 'hac', 'ipsa',
-    'uos', 'aliquid', 'hanc']
+    'uos', 'aliquid', 'hanc', 'quis', 'quid']
 
 verbs = ['est', 'sunt', 'ait', 'esse', 'scribit', 'legitur', 'sit',
     'dicens', 'possunt', 'potest', 'probatur', 'queritur', 'debet',
