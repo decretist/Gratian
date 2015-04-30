@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/usr/bin/python
 #
 # Paul Evans (10evans@cardinalmail.cua.edu)
 # 22 April 2014
