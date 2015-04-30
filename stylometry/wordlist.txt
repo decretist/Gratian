@@ -80,7 +80,7 @@ siue
 #eo*
 #debet
 #eum*
-#quis Decide!
+#quis
 #episcopus
 ne
 #b
@@ -125,7 +125,7 @@ nam
 propter
 dum
 #sui*
-#tantum Decide!
+#tantum
 #alii
 #deo
 supra
@@ -137,7 +137,7 @@ apud
 #domino
 #id*
 #patet
-#quid Decide!
+#quid
 #datur
 #eodem
 #ius
@@ -157,7 +157,7 @@ quando
 tunc
 #peccatum
 #sacerdotes
-#solum Decide!
+#solum
 #coniugium
 #erat
 #uidetur
