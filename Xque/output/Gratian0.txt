@@ -415,7 +415,7 @@ Tertio
 quo
 spatio
 mensium
-utri xque
+utrique
 sint
 concedendae
 Quarto
@@ -1311,7 +1311,7 @@ aliqua
 acquisisse
 noscuntur
 an
-utri xque
+utrique
 communiter
 an
 singulariter

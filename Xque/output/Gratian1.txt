@@ -38,7 +38,7 @@ Christus
 in
 euangelio
 Omnia
-quecun xque
+quecunque
 uultis
 ut
 faciant
@@ -624,7 +624,7 @@ immutabile
 permanere
 In
 lege
-nam xque
+namque
 precipiebatur
 ut
 mulier
@@ -701,7 +701,7 @@ ius
 continetur
 non
 tamen
-quecun xque
+quecunque
 in
 lege
 et
@@ -982,7 +982,7 @@ preualet
 consuetudini
 et
 constitutioni
-Quecun xque
+Quecunque
 enim
 uel
 moribus
@@ -1066,7 +1066,7 @@ natura
 consistant
 patet
 quod
-quecum xque
+quecumque
 diuinae
 uoluntati
 seu
@@ -1081,7 +1081,7 @@ iuri
 inueniuntur
 aduersa
 Unde
-quecum xque
+quecumque
 diuinae
 uoluntati
 seu
@@ -1713,7 +1713,7 @@ Unde
 Christus
 dicturus
 Petro
-Quodcum xque
+Quodcumque
 ligaueris
 super
 terram
@@ -2485,7 +2485,7 @@ ad
 episcopum
 quid
 ad
-unumquem xque
+unumquemque
 inferiorem
 pertineat
 Ysidorus
@@ -2714,7 +2714,7 @@ esse
 immunis
 Sequitur
 in
-utra xque
+utraque
 epistola
 unius
 uxoris
@@ -3187,7 +3187,7 @@ altaris
 ex
 loco
 quia
-utra xque
+utraque
 sinodus
 orientalis
 est
@@ -3278,7 +3278,7 @@ est
 quod
 secundum
 Ysidorum
-plera xque
+pleraque
 capitula
 ex
 causa
@@ -4046,7 +4046,7 @@ licet
 in
 uxorem
 ducatur
-Utrum xque
+Utrumque
 enim
 inpedimentum
 cuilibet
@@ -4477,9 +4477,9 @@ etc
 Unde
 cum
 de
-quin xque
+quinque
 panibus
-quin xque
+quinque
 milia
 hominum
 uellet
@@ -5113,7 +5113,7 @@ multis
 rationibus
 probatur
 Debent
-nam xque
+namque
 prelati
 subditis
 non
@@ -5569,7 +5569,7 @@ premia
 a
 Domino
 percipiat
-utrum xque
+utrumque
 enim
 pietati
 promittitur
@@ -5873,7 +5873,7 @@ prohibetur
 et
 uoracitas
 permittitur
-Utrum xque
+Utrumque
 enim
 inter
 opera
@@ -5888,7 +5888,7 @@ comessationibus
 et
 ebrietatibus
 Ventris
-nam xque
+namque
 ingluuies
 ad
 luxuriam
@@ -6323,7 +6323,7 @@ causa
 huius
 prohibitionis
 Litigiosi
-nam xque
+namque
 uel
 adulationibus
 animos
@@ -6776,7 +6776,7 @@ in
 ruinam
 diaboli
 Momentaneus
-nam xque
+namque
 sacerdos
 nescit
 humilitatem
@@ -7201,7 +7201,7 @@ Augustinus
 scribit
 ad
 Bonifacium
-Quicum xque
+Quicumque
 igitur
 pro
 criminibus
@@ -10904,7 +10904,7 @@ attributa
 disponendi
 facultas
 Unde
-quecum xque
+quecumque
 a
 principibus
 in
@@ -10950,7 +10950,7 @@ uel
 de
 rebus
 ecclesiasticis
-Quecum xque
+Quecumque
 autem
 ab
 eis
@@ -11086,7 +11086,7 @@ canonibus
 ut
 peregrini
 nisi
-quin xque
+quinque
 uel
 eo
 amplius
@@ -12345,12 +12345,12 @@ perfectum
 Cetera
 enim
 sacramenta
-unicui xque
+unicuique
 propter
 se
 dantur
 et
-unicui xque
+unicuique
 talia
 fiunt
 quali
@@ -12803,7 +12803,7 @@ consecrationem
 Arrianorum
 cum
 Ciprianus
-quecum xque
+quecumque
 ab
 hereticis
 fiunt
@@ -13186,7 +13186,7 @@ sunt
 cum
 usurpatores
 suos
-e xque
+eque
 perimant
 ac
 si
@@ -13199,7 +13199,7 @@ aurum
 sitiuit
 aurum
 bibit
-e xque
+eque
 periit
 uero
 auro
@@ -13208,7 +13208,7 @@ uero
 ueneno
 Item
 aurum
-e xque
+eque
 uerum
 est
 in
@@ -13354,7 +13354,7 @@ ordines
 eis
 relinquatur
 quamuis
-utrum xque
+utrumque
 consecratione
 proueniat
 Degradatus
@@ -13705,7 +13705,7 @@ quam
 erat
 Ecce
 in
-utra xque
+utraque
 uisione
 sua
 erat
@@ -13766,10 +13766,10 @@ sed
 ex
 his
 erant
-quin xque
+quinque
 fatuae
 et
-quin xque
+quinque
 prudentes
 Equa
 erat
@@ -14016,7 +14016,7 @@ quod
 ipsemet
 ostendit
 subiungens
-Quicum xque
+Quicumque
 comederint
 ex
 eo
@@ -14318,7 +14318,7 @@ ordinatis
 ait
 Innocentius
 Tales
-plerum xque
+plerumque
 ex
 intuitu
 pietatis
@@ -14497,10 +14497,10 @@ uel
 exacta
 persoluenda
 Hoc
-utrum xque
+utrumque
 licite
 fieri
-utrius xque
+utriusque
 testamenti
 serie
 conprobatur
@@ -15838,7 +15838,7 @@ nisi
 imitatores
 nequiciae
 eorum
-Quicum xque
+Quicumque
 enim
 de
 semine
@@ -16594,7 +16594,7 @@ offitio
 destitutam
 adeo
 ut
-pleris xque
+plerisque
 populis
 subsidia
 regendarum
@@ -17037,7 +17037,7 @@ auctoritatibus
 probatur
 De
 eo
-nam xque
+namque
 ait
 Augustinus
 Hoc
@@ -17966,7 +17966,7 @@ inpediuntur
 eam
 debent
 appellare
-quibuscum xque
+quibuscumque
 in
 suis
 obpressionibus
@@ -18168,7 +18168,7 @@ qui
 appellare
 uoluerit
 infra
-quin xque
+quinque
 dies
 appellet
 et
@@ -18197,7 +18197,7 @@ inuenitur
 Premissis
 auctoritatibus
 infra
-quin xque
+quinque
 dies
 post
 datam
@@ -19913,7 +19913,7 @@ qui
 dicit
 Pax
 uobiscum
-plerum xque
+plerumque
 non
 columba
 sed
@@ -20102,7 +20102,7 @@ Unde
 generaliter
 colligitur
 quod
-quicum xque
+quicumque
 sacerdotes
 non
 sunt
@@ -20224,7 +20224,7 @@ me
 de
 peccato
 At
-quicum xque
+quicumque
 ad
 testificandum
 in
@@ -20357,7 +20357,7 @@ uerbo
 tamen
 et
 exemplo
-quoscum xque
+quoscumque
 ualent
 lucrari
 Deo
@@ -20656,7 +20656,7 @@ malum
 cogere
 uoluerint
 Balaam
-nam xque
+namque
 asinam
 urgens
 ut
@@ -21363,7 +21363,7 @@ XXVII
 dicat
 omnibus
 clericis
-cuiuscum xque
+cuiuscumque
 ordinis
 ita
 scribens
@@ -23194,7 +23194,7 @@ accusatione
 prohibendi
 sunt
 Hereticos
-nam xque
+namque
 accusare
 infamibus
 non
@@ -23704,7 +23704,7 @@ coniungere
 Ambicionis
 enim
 causa
-quicum xque
+quicumque
 ecclesiae
 suae
 mediocritate
@@ -24952,7 +24952,7 @@ iudiciorum
 cognitionem
 petierit
 episcopale
-nam xque
+namque
 iudicium
 nichil
 obest
@@ -25528,7 +25528,7 @@ sententiae
 usque
 ad
 examinationem
-utrius xque
+utriusque
 partis
 parere
 iubemur
@@ -27256,7 +27256,7 @@ argumentis
 probare
 contendunt
 Constat
-unamquam xque
+unamquamque
 baptismalem
 ecclesiam
 habere
@@ -27280,7 +27280,7 @@ In
 diocesi
 autem
 designata
-quecum xque
+quecumque
 predia
 coluntur
 prouentus
@@ -27415,7 +27415,7 @@ ad
 habitandum
 acceperunt
 ut
-unaque xque
+unaqueque
 tribus
 illis
 persolueret
@@ -27736,7 +27736,7 @@ dixit
 discipulis
 suis
 In
-quamcum xque
+quamcumque
 domum
 intraueritis
 in
@@ -28984,7 +28984,7 @@ in
 ciuilibus
 autem
 non
-usquequa xque
+usquequaque
 In
 criminali
 enim
@@ -29262,7 +29262,7 @@ uidetur
 posse
 probari
 Peccata
-nam xque
+namque
 alia
 penes
 uoluntatem
@@ -29332,7 +29332,7 @@ infirmitas
 est
 concupiscentia
 Ex
-utra xque
+utraque
 autem
 infirmitate
 que
@@ -29783,7 +29783,7 @@ ignorantiae
 similis
 est
 Ex
-utra xque
+utraque
 enim
 quedam
 fiunt
@@ -29794,7 +29794,7 @@ uero
 que
 minime
 Cecus
-nam xque
+namque
 si
 debitum
 suae
@@ -30072,7 +30072,7 @@ inpediunt
 sacramenti
 signaculum
 Ambicio
-nam xque
+namque
 parentum
 filio
 non
@@ -30222,7 +30222,7 @@ se
 uicturos
 proposuerunt
 Generali
-nam xque
+namque
 ecclesiae
 consuetudine
 receptum
@@ -30375,7 +30375,7 @@ ueteri
 testamento
 populum
 iudicasse
-quicum xque
+quicumque
 librum
 Iudicum
 legerit
@@ -30489,7 +30489,7 @@ Inp
 Diocletianus
 scribit
 dicens
-Quecum xque
+Quecumque
 uero
 persona
 ad
@@ -30542,7 +30542,7 @@ Verum
 hoc
 non
 infertur
-Quecum xque
+Quecumque
 enim
 persone
 humanis
@@ -30578,7 +30578,7 @@ non
 ideo
 consequenter
 recipiuntur
-quascum xque
+quascumque
 leges
 principum
 admittunt
@@ -31528,7 +31528,7 @@ illud
 Apostoli
 ad
 Philippenses
-Quicum xque
+Quicumque
 inperfecti
 sumus
 hoc
@@ -31576,7 +31576,7 @@ aliud
 in
 consecratione
 aliorum
-Utris xque
+Utrisque
 enim
 in
 commune
@@ -31606,7 +31606,7 @@ consecrauerint
 consecratum
 sit
 et
-quecum xque
+quecumque
 benedixerint
 benedicta
 sint
@@ -31621,7 +31621,7 @@ Sicut
 ergo
 in
 benedictione
-utri xque
+utrique
 communem
 nanciscuntur
 potestatem
@@ -32157,7 +32157,7 @@ et
 Augustini
 apparet
 Ait
-nam xque
+namque
 Ieronimus
 super
 Malachiam
@@ -33258,7 +33258,7 @@ Simacus
 Papa
 Possessiones
 quas
-unusquis xque
+unusquisque
 etc
 Et
 iterum
@@ -34506,7 +34506,7 @@ scribit
 Non
 enim
 potest
-utri xque
+utrique
 presidere
 tamquam
 titulatae
@@ -34664,7 +34664,7 @@ mei
 nolite
 iurare
 omnino
-Utra xque
+Utraque
 auctoritate
 iuramentum
 prohibemur
@@ -35750,7 +35750,7 @@ Philisteos
 iurauit
 se
 interfecturum
-quicum xque
+quicumque
 ante
 solis
 occasum
@@ -36331,7 +36331,7 @@ est
 generaliter
 intelligendum
 Iuramentum
-nam xque
+namque
 ut
 Ieronimus
 testatur
@@ -36366,7 +36366,7 @@ istorum
 defuerit
 non
 tamen
-cuicum xque
+cuicumque
 contigerit
 aliquod
 istorum
@@ -36374,7 +36374,7 @@ deesse
 prohibetur
 seruari
 Aliquando
-nam xque
+namque
 iuramento
 deest
 iusticia
@@ -36576,7 +36576,7 @@ adimatur
 uel
 sine
 quo
-utra xque
+utraque
 salus
 reparari
 uel
@@ -36654,7 +36654,7 @@ eam
 in
 coniugem
 Coniugem
-nam xque
+namque
 habere
 in
 se
@@ -36709,7 +36709,7 @@ adimitur
 et
 sine
 quo
-utra xque
+utraque
 salus
 reparari
 et
@@ -36818,7 +36818,7 @@ alicui
 aliquid
 sine
 quo
-utra xque
+utraque
 salus
 eius
 potest
@@ -37213,7 +37213,7 @@ Quomodo
 ergo
 secundum
 Ysidorum
-quecum xque
+quecumque
 arte
 uerborum
 quis
@@ -37278,7 +37278,7 @@ duplicitatis
 aspernator
 simplicem
 intentionem
-utrius xque
+utriusque
 considerat
 et
 tam
@@ -37405,7 +37405,7 @@ a
 socio
 repellitur
 quod
-utrum xque
+utrumque
 euangelica
 lege
 prohibetur
@@ -37580,7 +37580,7 @@ uolentibus
 colligere
 zizania
 Sinite
-utra xque
+utraque
 crescere
 usque
 ad
@@ -37699,7 +37699,7 @@ uel
 ad
 uindictam
 inferendam
-utrum xque
+utrumque
 autem
 lege
 euangelica
@@ -38201,7 +38201,7 @@ et
 ipsa
 postulatio
 non
-usquequa xque
+usquequaque
 iniusta
 probetur
 Aliud
@@ -38844,7 +38844,7 @@ Penitenciam
 agite
 et
 baptizetur
-unusquis xque
+unusquisque
 uestrum
 Et
 ut
@@ -39943,7 +39943,7 @@ qui
 inpuniti
 relinquuntur
 quod
-utrum xque
+utrumque
 multorum
 auctoritate
 probatur
@@ -40994,7 +40994,7 @@ bonum
 facile
 apparet
 Antiquus
-nam xque
+namque
 populus
 metu
 penarum
@@ -41114,7 +41114,7 @@ elemosinas
 Chorinthios
 hortaretur
 ait
-Unusquis xque
+Unusquisque
 det
 prout
 destinauit
@@ -41403,7 +41403,7 @@ bonum
 cogitur
 solo
 timore
-Quicum xque
+Quicumque
 etenim
 ad
 bonum
@@ -42357,7 +42357,7 @@ quemquam
 iam
 prostratus
 Ligandi
-nam xque
+namque
 uel
 soluendi
 potestas
@@ -42463,7 +42463,7 @@ inpetrare
 Unde
 Dominus
 dicturos
-Quodcum xque
+Quodcumque
 petieritis
 etc
 premisit
@@ -42477,7 +42477,7 @@ terram
 etc
 Et
 iterum
-Ubicum xque
+Ubicumque
 duo
 uel
 tres
@@ -42607,7 +42607,7 @@ dabo
 claues
 regni
 celorum
-Quicum xque
+Quicumque
 ergo
 ab
 unitate
@@ -42692,7 +42692,7 @@ fideli
 notandum
 In
 nomine
-nam xque
+namque
 Domini
 atque
 eius
@@ -42874,7 +42874,7 @@ potestatem
 minime
 habere
 Catholicum
-nam xque
+namque
 utpote
 superiorem
 se
@@ -42955,7 +42955,7 @@ Cum
 ergo
 sacerdotalem
 unctionem
-utra xque
+utraque
 potestas
 baptizandi
 uidelicet
@@ -42966,10 +42966,10 @@ a
 fide
 recedentes
 aut
-utram xque
+utramque
 retinebunt
 aut
-utra xque
+utraque
 carebunt
 Sed
 aliud
@@ -42978,7 +42978,7 @@ potestas
 offitii
 aliud
 executio
-Plerum xque
+Plerumque
 offitii
 potestas
 uel
@@ -43069,7 +43069,7 @@ esse
 collata
 Cum
 ergo
-utra xque
+utraque
 potestas
 in
 hereticis
@@ -43241,7 +43241,7 @@ hereticis
 sicut
 in
 catholicis
-e xque
+eque
 sunt
 punienda
 Potest
@@ -43261,7 +43261,7 @@ cetera
 sacramenta
 ministrandi
 Baptisma
-nam xque
+namque
 siue
 ab
 heretico
@@ -43337,7 +43337,7 @@ euangelii
 monstratur
 quibus
 dicitur
-Quodcum xque
+Quodcumque
 ligaueris
 super
 terram
@@ -43429,7 +43429,7 @@ exemplis
 probatur
 Pro
 peccato
-nam xque
+namque
 Sodomitarum
 paruuli
 eorum
@@ -43635,7 +43635,7 @@ inpii
 erit
 super
 eum
-Quecum xque
+Quecumque
 etiam
 peccata
 parentes
@@ -44718,7 +44718,7 @@ Romanae
 ecclesiae
 reseruent
 Ipsi
-nam xque
+namque
 soli
 canones
 ualent
@@ -44761,7 +44761,7 @@ in
 omnibus
 apostolica
 auctoritate
-Quecum xque
+Quecumque
 ergo
 de
 decimis
@@ -44832,7 +44832,7 @@ aliquid
 speciale
 indulgeretur
 Priuilegia
-nam xque
+namque
 dicuntur
 quasi
 priuata
@@ -45156,7 +45156,7 @@ partem
 conmutare
 Pro
 necessitate
-nam xque
+namque
 corrigendorum
 uiciorum
 priuilegia
@@ -45287,7 +45287,7 @@ Simaci
 Papae
 Possessiones
 quas
-unusquis xque
+unusquisque
 ecclesiae
 suo
 reliquit
@@ -45311,7 +45311,7 @@ ea
 que
 de
 iure
-uniuscuius xque
+uniuscuiusque
 ecclesias
 uel
 necessitatis
@@ -45373,7 +45373,7 @@ possideri
 Vel
 pocius
 de
-utris xque
+utrisque
 intelligendum
 est
 uidelicet
@@ -45563,7 +45563,7 @@ Philisteos
 iurasset
 se
 interfecturum
-quicum xque
+quicumque
 de
 populo
 ante
@@ -45664,7 +45664,7 @@ penitus
 eliminata
 sunt
 Copula
-nam xque
+namque
 sacerdotalis
 uel
 consanguineorum
@@ -46040,7 +46040,7 @@ et
 auctoritate
 probatur
 Presbiteri
-nam xque
+namque
 potestatem
 excommunicandi
 uel
@@ -46068,7 +46068,7 @@ reconciliare
 non
 ualent
 Reconciliatio
-nam xque
+namque
 penitentium
 episcopale
 offitium
@@ -46220,7 +46220,7 @@ ueniam
 iuxta
 illud
 In
-quacum xque
+quacumque
 hora
 peccator
 conuersus
@@ -46385,7 +46385,7 @@ auctoritatibus
 probatur
 In
 Concilio
-nam xque
+namque
 Cartaginensi
 c
 CIV
@@ -46492,7 +46492,7 @@ discedere
 noluerint
 Post
 propositum
-nam xque
+namque
 sacrae
 religionis
 non
@@ -46604,7 +46604,7 @@ idem
 Innocentius
 ostendit
 dicens
-Quecum xque
+Quecumque
 uiro
 uiuente
 alteri
@@ -46698,7 +46698,7 @@ dicenti
 per
 Prophetam
 In
-quacum xque
+quacumque
 hora
 peccator
 conuersus
@@ -47397,7 +47397,7 @@ posset
 Maritus
 enim
 uiduae
-e xque
+eque
 sicut
 et
 bigamus
@@ -48599,7 +48599,7 @@ quod
 Christus
 ait
 Erunt
-quin xque
+quinque
 in
 una
 domo
@@ -48750,7 +48750,7 @@ infidelibus
 intelligendum
 est
 Infidelibus
-nam xque
+namque
 uiris
 fideles
 mulieres
@@ -49462,7 +49462,7 @@ consuetudinem
 retinens
 Item
 consensus
-utrius xque
+utriusque
 matrimonium
 facit
 Quia
@@ -49524,7 +49524,7 @@ non
 fuit
 ibi
 consensus
-utrius xque
+utriusque
 sine
 quo
 nullum
@@ -49612,10 +49612,10 @@ in
 eas
 aut
 dabitur
-utri xque
+utrique
 facultas
 dimittendi
-utram xque
+utramque
 et
 ducendi
 aliam
@@ -50320,7 +50320,7 @@ de
 his
 quorum
 condicio
-utri xque
+utrique
 nota
 est
 Huius
@@ -50811,7 +50811,7 @@ nec
 iubentur
 dissolui
 si
-utrius xque
+utriusque
 confessione
 probari
 poterunt
@@ -51608,7 +51608,7 @@ Deo
 institutum
 est
 Hec
-nam xque
+namque
 fuit
 benedictio
 coniugii
@@ -51691,11 +51691,11 @@ Chorinthios
 ait
 Propter
 fornicationem
-unusquis xque
+unusquisque
 suam
 uxorem
 et
-unaque xque
+unaqueque
 uirum
 suum
 habeat
@@ -52162,7 +52162,7 @@ et
 In
 omni
 gente
-quicum xque
+quicumque
 timet
 Deum
 et
@@ -52312,7 +52312,7 @@ uiolentiam
 non
 sentit
 Corpori
-nam xque
+namque
 uis
 infertur
 non
@@ -52496,7 +52496,7 @@ homini
 dimittere
 uxorem
 suam
-quacum xque
+quacumque
 ex
 causa
 respondit
@@ -52562,7 +52562,7 @@ Unde
 datur
 intelligi
 quod
-qualiscum xque
+qualiscumque
 fuerit
 uir
 et
@@ -52634,7 +52634,7 @@ sentenciam
 a
 Domino
 acceperunt
-Quicum xque
+Quicumque
 uestrum
 sine
 peccato
@@ -52720,7 +52720,7 @@ auctoritatibus
 euidentissime
 monstratur
 quod
-quicum xque
+quicumque
 causa
 fornicationis
 uxorem
@@ -53706,7 +53706,7 @@ oportet
 intelligi
 Ad
 imitationem
-nam xque
+namque
 illius
 dominicae
 sentenciae
@@ -53934,7 +53934,7 @@ quia
 in
 debito
 coniugii
-e xque
+eque
 mulier
 habet
 potestatem
@@ -54064,7 +54064,7 @@ ualent
 in
 irritum
 deduci
-Utra xque
+Utraque
 questio
 terminatur
 auctoritate
@@ -54092,7 +54092,7 @@ et
 auctoritatibus
 probatur
 Abraham
-nam xque
+namque
 Sarai
 filiam
 fratris
@@ -54168,7 +54168,7 @@ suo
 suscitaret
 Porro
 ad
-quoscum xque
+quoscumque
 lex
 ipsa
 peruenit
@@ -54843,7 +54843,7 @@ quosdam
 uarie
 conputantur
 Alii
-nam xque
+namque
 patrem
 in
 primo
@@ -55369,7 +55369,7 @@ et
 auctoritate
 probatur
 Sentencia
-nam xque
+namque
 nisi
 per
 appellationem
@@ -55429,7 +55429,7 @@ eueniunt
 deprehensa
 corrigere
 suum
-nam xque
+namque
 errorem
 cuique
 corrigere
@@ -55559,7 +55559,7 @@ et
 Nykolai
 monstratur
 Ait
-nam xque
+namque
 Hilarius
 Episcopus
 Urbis
@@ -55627,7 +55627,7 @@ illicito
 coitu
 sit
 corrupta
-cum xque
+cumque
 ita
 sit
 abducta
@@ -55709,7 +55709,7 @@ non
 precedente
 coniugali
 pactione
-utrius xque
+utriusque
 uoluntate
 uirgo
 corrumpitur
@@ -55772,7 +55772,7 @@ siue
 parentibus
 tantum
 siue
-utris xque
+utrisque
 uis
 illata
 constiterit
@@ -55815,7 +55815,7 @@ puella
 raptori
 consenserit
 Aliquando
-utri xque
+utrique
 uiolentiam
 perferunt
 cum
@@ -55967,7 +55967,7 @@ canonum
 penitus
 prohibetur
 Legitur
-nam xque
+namque
 in
 Concilio
 Calcedonensi
@@ -56047,7 +56047,7 @@ egerit
 cum
 uoluntas
 parentum
-utrius xque
+utriusque
 in
 unum
 conuenerit
@@ -56072,7 +56072,7 @@ penitenciam
 copulari
 sed
 permittitur
-utri xque
+utrique
 post
 penitenciam
 legitimo
@@ -56110,7 +56110,7 @@ penitenciae
 subici
 precipiantur
 si
-utrius xque
+utriusque
 copulam
 auctoritas
 illa
@@ -56139,7 +56139,7 @@ coniugium
 non
 presumat
 Eorum
-nam xque
+namque
 quolibet
 decedente
 qui

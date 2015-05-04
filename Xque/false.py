@@ -1,7 +1,9 @@
 #!/usr/bin/python
 #
-# Paul Evans (10evans@cardinalmail.cua.edu)
+# Paul Evans
 # 4 May 2015
+#
+# Usage: cat input/Gratian?.txt | ../false_positives.py | sort -k 2 -n -r
 #
 import re
 import sys
@@ -24,6 +26,10 @@ false = ['cumque', 'eque', 'namque', 'pleraque', 'plerique',
     'usquequaque', 'utramque', 'utraque', 'utrique', 'utrisque',
     'utriusque', 'utrumque']
 def main():
+    # dictionary of false positives
+    dictionary ={}
+    for entry in false:
+        dictionary[entry] = 0
     string = sys.stdin.read()
     words = re.split('\W', string)
     for word in words:
@@ -33,19 +39,18 @@ def main():
             if word.lower() not in ignore:
                 if not cumque:
                     if word.lower() not in false:
-                        print(que.group(1) + ' ' + 'xque')
+                        pass
                     else:
-                        if word:
-                            print(word)
+                        dictionary[word.lower()] += 1
                 else:
-                    if word:
-                        print(word)
+                    pass
             else:
-                if word:
-                    print(word)
+                pass
         else:
-            if word:
-                print(word)
+            pass
+    keys = dictionary.keys()
+    for key in keys:
+        print(key + ': ' + str(dictionary[key]))
 
 if __name__ == '__main__':
     main()
