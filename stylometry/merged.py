@@ -43,150 +43,197 @@ words = ['in', 'non', 'et', 'est', 'quod', 'de', 'unde', 'ad',
     'consensu', 'filii', 'habet', 'iuxta', 'peccato', 'prius',
     'quomodo', 'sacramenta']
 
-kestemont = [
-    'in',       # preposition
-    'non',      # adverb
-    'et',       # conjunction
-    'quod',     # conjunction
-    'de',       # preposition
-    'unde',     # adverb
-    'ad',       # preposition
-    'qui',      # adverb [?]
-    'sed',      # conjunction
-    'uel',      # conjunction
-    'ut',       # adverb, conjunction
-    'cum',      # preposition, conjunction
-    'autem',    # conjunction
-    'si',       # conjunction
+# allow
+
+kestemont_allow = [
     'a',        # preposition
-    'enim',     # conjunction
-    'etiam',    # adverb
-    'quia',     # conjunction
-    'ergo',     # adverb
-    'nec',      # conjunction
-    'per',      # preposition
-    'sicut',    # adverb
-    'xque',     # conjunction
-    'ita',      # adverb
-    'nisi',     # conjunction
-    'tamen',    # adverb
-    'pro',      # preposition
-    'quam',     # conjunction
-    'sic',      # adverb
-    'licet',    # conjunction
+    'ad',       # preposition
+    'ante',     # preposition
+    'apud',     # preposition
+    'atque',    # conjunction
     'aut',      # conjunction
+    'autem',    # conjunction
     'contra',   # preposition, adverb
+    'cum',      # preposition, conjunction
+    'de',       # preposition
+    'dum',      # conjunction
+    'enim',     # conjunction
+    'ergo',     # adverb
+    'et',       # conjunction
+    'etiam',    # adverb
+    'hic'       # adverb
+    'idem',     # pronoun
+    'in',       # preposition
+    'inter',    # preposition
+    'ita',      # adverb
+    'licet',    # conjunction
+    'ne',       # conjunction, adverb
+    'nec',      # conjunction
+    'nisi',     # conjunction
+    'non',      # adverb
+    'nunc',     # adverb
+    'per',      # preposition
     'post',     # preposition, adverb
+    'pro',      # preposition
+    'propter',  # preposition
+    'quam',     # conjunction
+    'qui',      # relative pronoun
+    'quia',     # conjunction
+    'quod',     # conjunction
+    'quoque',   # conjunction
+    'sed',      # conjunction
+    'si',       # conjunction
+    'sic',      # adverb
+    'sicut',    # adverb
     'sine',     # preposition
     'siue',     # conjunction
-    'ne',       # conjunction, adverb
-    'inter',    # preposition
-    'quoque',   # conjunction
     'super',    # adverb, preposition
-    'atque',    # conjunction
-    'idem',     # adverb [?]
-    'ante',     # preposition
-    'propter',  # preposition
-    'dum',      # conjunction
-    'apud',     # preposition
-    'uidelicet',# adverb
+    'tamen',    # adverb
     'tunc',     # adverb
-    'nunc',     # adverb
-    'hic'       # adverb
+    'uel',      # conjunction
+    'uidelicet',# adverb
+    'unde',     # adverb
+    'ut',       # adverb, conjunction
+    'xque',     # conjunction
 ]
 
-adverbs_0 = ['non', 'unde', 'ut', 'etiam', 'ergo', 'sicut', 'ita',
-    'tamen', 'sic', 'contra', 'post', 'ne', 'super', 'uidelicet',
-    'tunc', 'nunc', 'hic', 'quomodo']
-
-conjunctions_0 = ['et', 'quod', 'sed', 'uel', 'ut', 'cum', 'autem',
-    'si', 'enim', 'quia', 'nec', 'xque', 'nisi', 'quam', 'licet',
-    'aut', 'siue', 'ne', 'quoque', 'atque', 'dum']
-
-prepositions_0 = ['in', 'de', 'ad', 'cum', 'a', 'per', 'pro', 'contra',
-    'post', 'sine', 'inter', 'super', 'ante', 'propter', 'apud']
-
-adverbs_1 = [
-    'uero',     # adverb
-    'item',     # adverb
-    'quo',      # adverb
-    'ideo',     # adverb
-    'ecce',     # adverb
-    'supra',    # adverb, preposition
+adverbs = [
     'aliquando',# adverb
-    'quando',   # conjunction, adverb
-    'postea',   # adverb
-    'similiter',# adverb
-    'infra',    # adverb, preposition
+    'contra',   # preposition, adverb
+    'ecce',     # adverb
+    'ergo',     # adverb
+    'etiam',    # adverb
     'forte',    # adverb
     'generaliter',      # adverb
-    'prius'     # adverb
+    'hic',      # adverb
+    'ideo',     # adverb
+    'infra',    # adverb, preposition
+    'ita',      # adverb
+    'item',     # adverb
+    'ne',       # conjunction, adverb
+    'non',      # adverb
+    'nunc',     # adverb
+    'post',     # preposition, adverb
+    'postea',   # adverb
+    'prius',    # adverb
+    'quando',   # conjunction, adverb
+    'quo',      # adverb
+    'quomodo',  # adverb
+    'sic',      # adverb
+    'sicut',    # adverb
+    'similiter',# adverb
+    'super',    # adverb, preposition
+    'supra',    # adverb, preposition
+    'tamen',    # adverb
+    'tunc',     # adverb
+    'uero',     # adverb
+    'uidelicet',# adverb
+    'unde',     # adverb
+    'ut',       # adverb, conjunction
 ]
 
-conjunctions_1 = [
+conjunctions = [
     'an',       # conjunction
-    'nam',      # conjunction
-    'quando',   # conjunction, adverb
-    'quamuis',  # conjunction
+    'atque',    # conjunction
+    'aut',      # conjunction
+    'autem',    # conjunction
+    'cum',      # preposition, conjunction
+    'dum',      # conjunction
+    'enim',     # conjunction
+    'et',       # conjunction
     'etsi',     # conjunction
     'itaque',   # conjunction
+    'licet',    # conjunction
+    'nam',      # conjunction
     'namque',   # conjunction
+    'ne',       # conjunction, adverb
+    'nec',      # conjunction
+    'nisi',     # conjunction
+    'quam',     # conjunction
+    'quamuis',  # conjunction
+    'quando',   # conjunction, adverb
+    'quia',     # conjunction
+    'quod',     # conjunction
+    'quoque',   # conjunction
+    'sed',      # conjunction
+    'si',       # conjunction
+    'siue',     # conjunction
+    'uel',      # conjunction
+    'ut',       # adverb, conjunction
+    'xque',     # conjunction
 ]
 
-prepositions_1 = [
-    'ex',       # preposition
+prepositions = [
+    'a',        # preposition
     'ab',       # preposition
-    'supra',    # adverb, preposition
+    'ad',       # preposition
+    'ante',     # preposition
+    'apud',     # preposition
+    'contra',   # preposition, adverb
+    'cum',      # preposition, conjunction
+    'de',       # preposition
+    'ex',       # preposition
+    'in',       # preposition
     'infra',    # adverb, preposition
+    'infra',    # adverb, preposition
+    'inter',    # preposition
     'iuxta',    # preposition
+    'per',      # preposition
+    'post',     # preposition, adverb
+    'pro',      # preposition
+    'propter',  # preposition
     'secundum', # preposition, adjective
+    'sine',     # preposition
+    'super',    # adverb, preposition
+    'supra',    # adverb, preposition
+    'supra',    # adverb, preposition
 ]
 
-# DENY
+# deny
 
-misc = ['b', 'etc', 'ii']
+adjectives = ['alia', 'alii', 'aliis', 'aliud', 'alterius', 'bonum',
+    'nulla', 'nulli', 'omnia', 'omnibus', 'prius', 'propria',
+    'sacris', 'secundum', 'solum', 'tantum', 'tolletano', 'uerum']
 
-adjectives = ['omnibus', 'omnia', 'aliud', 'alia', 'alii', 'aliis', 
-    'tolletano', 'sacris', 'nulli', 'nulla', 'propria', 'prius',
-    'alterius', 'bonum', 'tantum', 'solum', 'uerum', 'secundum']
+nouns = ['accusatione', 'ambrosius', 'apostolus', 'auctoritas',
+    'auctoritate', 'auctoritatibus', 'augustini', 'augustinus',
+    'bomum', 'canonibus', 'capitulo', 'causa', 'christi', 'christus',
+    'concilii', 'concilio', 'coniugium', 'consensu', 'crimen',
+    'dei', 'deo', 'deus', 'dictum', 'domini', 'domino', 'dominus',
+    'ecclesia', 'ecclesiae', 'ecclesiam', 'episcopi', 'episcopis',
+    'episcopo', 'episcoporum', 'episcopum', 'episcopus', 'epistola',
+    'exemplo', 'fide', 'filii', 'filios', 'gelasius', 'gregorii',
+    'gregorius', 'hereticis', 'ieronimus', 'iudicium', 'iure',
+    'ius', 'lege', 'leo', 'libro', 'modo', 'nichil', 'offitio',
+    'ordinibus', 'papa', 'papae', 'peccata', 'peccato', 'peccatum',
+    'penitenciam', 'potestatem', 'rebus', 'res', 'sacerdotes',
+    'sacerdotibus', 'sacramenta', 'sententia', 'sententiam', 'sinodo',
+    'statutum', 'tempore', 'titulo', 'uerum', 'uiro', 'uxorem']
 
-nouns = ['papa', 'concilio', 'ecclesiae', 'auctoritate', 'augustinus',
-    'episcopo', 'libro', 'gregorius', 'causa', 'ecclesia',
-    'auctoritatibus', 'episcopus', 'statutum', 'episcopi', 'episcopis',
-    'uxorem', 'papae', 'dei', 'dominus', 'deo', 'episcopum',
-    'ieronimus', 'domino', 'ius', 'apostolus', 'exemplo', 'tempore',
-    'peccatum', 'sacerdotes', 'coniugium', 'dictum', 'lege',
-    'peccata', 'domini', 'titulo', 'iure', 'accusatione', 'capitulo',
-    'ecclesiam', 'fide', 'gregorii', 'sententia', 'deus', 'epistola',
-    'ambrosius', 'uiro', 'canonibus', 'leo', 'penitenciam', 'sinodo',
-    'gelasius', 'offitio', 'sacerdotibus', 'episcoporum', 'ordinibus',
-    'hereticis', 'potestatem', 'rebus', 'sententiam', 'christi',
-    'concilii', 'christus', 'filios', 'iudicium', 'res',
-    'auctoritas', 'crimen', 'augustini', 'filii', 'peccato',
-    'consensu', 'modo', 'bomum', 'nichil', 'sacramenta', 'uerum']
+pronouns = ['aliquid', 'aliquis', 'cui', 'cuius', 'eodem', 'hac',
+    'hanc', 'hec', 'hinc', 'his', 'hoc', 'idem', 'ipsa', 'qua',
+    'que', 'quem', 'qui', 'quibus', 'quid', 'quis', 'quorum', 'quos',
+    'se', 'sibi', 'uos']
 
-pronouns_starred = ['illud', 'eius', 'eorum', 'eis', 'sua', 'suae', 'eo',
-    'eum', 'ea', 'ei', 'eos', 'suis', 'ille', 'suo', 'illa', 'sui',
-    'id', 'suam', 'illi', 'illis', 'suorum', 'eam', 'illo']
+pronouns_deleted = ['ea', 'eam', 'ei', 'eis', 'eius', 'eo', 'eorum',
+    'eos', 'eum', 'id', 'illa', 'ille', 'illi', 'illis', 'illo',
+    'illud', 'sua', 'suae', 'suam', 'sui', 'suis', 'suo', 'suorum']
 
-pronouns = ['que', 'his', 'se', 'hoc', 'sibi', 'quibus', 'hinc',
-    'hec', 'quem', 'cui', 'quos', 'quorum', 'cuius', 'hac', 'ipsa',
-    'uos', 'aliquid', 'hanc', 'quis', 'quid', 'qui', 'idem', 'eodem',
-    'aliquis', 'qua']
+verbs = ['ait', 'apparet', 'colligitur', 'datur', 'debent', 'debet',
+    'dicens', 'dicitur', 'erat', 'esse', 'esset', 'est', 'facit',
+    'fieri', 'fuerint', 'fuerit', 'habere', 'habet', 'intelligendum',
+    'intelligi', 'intelligitur', 'inuenitur', 'legitur', 'liceat',
+    'obicitur', 'oportet', 'patet', 'permittitur', 'posse', 'possit',
+    'possunt', 'poterit', 'potest', 'premissis', 'probantur',
+    'probatur', 'prohibentur', 'prohibetur', 'queritur', 'respondetur',
+    'scribens', 'scribit', 'sint', 'sit', 'sunt', 'testatur',
+    'ualet', 'uidetur']
 
-verbs = ['est', 'sunt', 'ait', 'esse', 'scribit', 'legitur', 'sit',
-    'dicens', 'possunt', 'potest', 'probatur', 'queritur', 'debet',
-    'fuerit', 'intelligendum', 'sint', 'dicitur', 'fieri', 'intelligi',
-    'prohibentur', 'prohibetur', 'intelligitur', 'patet', 'datur',
-    'oportet', 'testatur', 'debent', 'fuerint', 'erat', 'uidetur',
-    'habere', 'obicitur', 'apparet', 'esset', 'possit', 'poterit',
-    'respondetur', 'scribens', 'ualet', 'liceat', 'facit', 'inuenitur',
-    'colligitur', 'posse', 'probantur', 'permittitur', 'habet',
-    'premissis']
+other = ['b', 'etc', 'ii']
 
 def main():
-    allow = adverbs_0 + adverbs_1 + conjunctions_0 + conjunctions_1 + prepositions_0 + prepositions_1
-    deny = adjectives + misc + nouns + pronouns_starred + pronouns + verbs
+    allow = adverbs + conjunctions + prepositions
+    deny = adjectives + nouns + pronouns + pronouns_deleted + verbs + other
     for word in words:
         # diagnostic: most be in either allow or deny
         if word not in allow and word not in deny:
@@ -197,7 +244,7 @@ def main():
         # if word not in deny:
             print(word)
         if word in deny:
-            if word in pronouns_starred:
+            if word in pronouns_deleted:
                 print('#' + word + '*')
             else:
                 print('#' + word)
