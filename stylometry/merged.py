@@ -97,7 +97,7 @@ kestemont = [
 
 adverbs_0 = ['non', 'unde', 'ut', 'etiam', 'ergo', 'sicut', 'ita',
     'tamen', 'sic', 'contra', 'post', 'ne', 'super', 'uidelicet',
-    'tunc', 'nunc', 'hic']
+    'tunc', 'nunc', 'hic', 'quomodo']
 
 conjunctions_0 = ['et', 'quod', 'sed', 'uel', 'ut', 'cum', 'autem',
     'si', 'enim', 'quia', 'nec', 'xque', 'nisi', 'quam', 'licet',
@@ -130,6 +130,7 @@ conjunctions_1 = [
     'quamuis',  # conjunction
     'etsi',     # conjunction
     'itaque',   # conjunction
+    'namque',   # conjunction
 ]
 
 prepositions_1 = [
@@ -138,17 +139,16 @@ prepositions_1 = [
     'supra',    # adverb, preposition
     'infra',    # adverb, preposition
     'iuxta',    # preposition
+    'secundum', # preposition, adjective
 ]
 
 # DENY
 
 misc = ['b', 'etc', 'ii']
 
-k_other = ['secundum', 'nichil', 'quomodo']
-
 adjectives = ['omnibus', 'omnia', 'aliud', 'alia', 'alii', 'aliis', 
-    'tolletano', 'sacris', 'nulli', 'nulla', 'propria', 'prius'
-    'idem', 'eodem', 'alterius', 'bonum', 'tantum', 'solum']
+    'tolletano', 'sacris', 'nulli', 'nulla', 'propria', 'prius',
+    'alterius', 'bonum', 'tantum', 'solum', 'uerum', 'secundum']
 
 nouns = ['papa', 'concilio', 'ecclesiae', 'auctoritate', 'augustinus',
     'episcopo', 'libro', 'gregorius', 'causa', 'ecclesia',
@@ -163,7 +163,7 @@ nouns = ['papa', 'concilio', 'ecclesiae', 'auctoritate', 'augustinus',
     'hereticis', 'potestatem', 'rebus', 'sententiam', 'christi',
     'concilii', 'christus', 'filios', 'iudicium', 'res',
     'auctoritas', 'crimen', 'augustini', 'filii', 'peccato',
-    'consensu', 'modo', 'bomum']
+    'consensu', 'modo', 'bomum', 'nichil', 'sacramenta', 'uerum']
 
 pronouns_starred = ['illud', 'eius', 'eorum', 'eis', 'sua', 'suae', 'eo',
     'eum', 'ea', 'ei', 'eos', 'suis', 'ille', 'suo', 'illa', 'sui',
@@ -171,7 +171,8 @@ pronouns_starred = ['illud', 'eius', 'eorum', 'eis', 'sua', 'suae', 'eo',
 
 pronouns = ['que', 'his', 'se', 'hoc', 'sibi', 'quibus', 'hinc',
     'hec', 'quem', 'cui', 'quos', 'quorum', 'cuius', 'hac', 'ipsa',
-    'uos', 'aliquid', 'hanc', 'quis', 'quid']
+    'uos', 'aliquid', 'hanc', 'quis', 'quid', 'qui', 'idem', 'eodem',
+    'aliquis', 'qua']
 
 verbs = ['est', 'sunt', 'ait', 'esse', 'scribit', 'legitur', 'sit',
     'dicens', 'possunt', 'potest', 'probatur', 'queritur', 'debet',

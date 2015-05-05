@@ -6,7 +6,7 @@ quod
 de
 unde
 ad
-#qui Decide!
+#qui
 sed
 uel
 ut
@@ -101,9 +101,9 @@ super
 #suis*
 atque
 #uxorem
-#idem Decide!
+#idem
 #intelligi
-#qua Decide!
+#qua
 ante
 #papae
 #quem
@@ -117,7 +117,7 @@ ideo
 #prohibentur
 ecce
 #intelligitur
-#uerum Decide!
+#uerum
 #dominus
 #alia
 propter
@@ -145,7 +145,8 @@ aliquando
 #testatur
 #debent
 #fuerint
-#secundum Decide!
+secundum
+#secundum
 #quos
 tunc
 uidelicet
@@ -177,7 +178,7 @@ etsi
 #fide
 #ii
 #illis*
-#namque Decide!
+namque
 #obicitur
 #gregorii
 #sententia
@@ -205,7 +206,7 @@ hic
 #penitenciam
 #hac
 #liceat
-#nichil Decide!
+#nichil
 #premissis
 #sinodo
 #facit
@@ -232,7 +233,7 @@ infra
 #concilii
 forte
 #res
-#aliquis Decide!
+#aliquis
 #bonum
 #christus
 #filios
@@ -256,5 +257,6 @@ generaliter
 iuxta
 #peccato
 prius
-#quomodo Decide!
-#sacramenta Decide!
+#prius
+quomodo
+#sacramenta
