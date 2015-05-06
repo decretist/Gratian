@@ -243,7 +243,6 @@ forte
 #auctoritas
 #crimen
 #eam*
-#econtra Decide!
 generaliter
 #illo*
 #iudicium

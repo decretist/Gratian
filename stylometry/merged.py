@@ -191,6 +191,28 @@ prepositions = [
 
 # deny
 
+kestemont_deny = ['aliqui', 'alius', 'amicus', 'angelus', 'anima',
+    'audio', 'beatus', 'bonum', 'bonus', 'cado', 'caritas', 'caro',
+    'causa', 'celestis', 'celum', 'certus', 'ceterus', 'christus',
+    'consilium', 'cor', 'corpus', 'debeo', 'deus', 'dico', 'dies',
+    'diligo', 'diuinus', 'do', 'dominus', 'domus', 'duo', 'ecclesia',
+    'ego', 'episcopus', 'eternus', 'facio', 'fidelis', 'fides',
+    'filius', 'fors', 'frater', 'fratres', 'gloria', 'gratia',
+    'habeo', 'hildegars', 'homo', 'honor', 'ideo', 'ille', 'inuenio',
+    'is', 'iste', 'iudicium', 'iustitia', 'iustus', 'lex', 'locus',
+    'loquor', 'magnus', 'malum', 'manus', 'mens', 'meus', 'misericordia',
+    'modus', 'mors', 'multus', 'mundus', 'nam', 'nihil', 'nomen',
+    'noster', 'nouus', 'nullus', 'o', 'oculus', 'omnis', 'opus',
+    'os', 'pars', 'paruus', 'pater', 'pax', 'peccatum', 'pono',
+    'populus', 'possum', 'potior', 'predico', 'primus', 'prior',
+    'quero', 'quidam', 'quis', 'quomodo', 'res', 'rex', 'salus',
+    'sanctus', 'scio', 'secundum', 'similis', 'sol', 'solus',
+    'spiritus', 'sui', 'sum', 'summus', 'suus', 'ta', 'talis',
+    'tantum', 'tempus', 'terra', 'totus', 'tu', 'tuus', 'uenio',
+    'uerbum', 'ueritas', 'uerus', 'uester', 'uia', 'uideo', 'uir',
+    'uirtus', 'uis', 'uita', 'uiuo', 'unus', 'uolo', 'uoluntas',
+    'uox', 'us']
+
 adjectives = ['alia', 'alii', 'aliis', 'aliud', 'alterius', 'bonum',
     'nulla', 'nulli', 'omnia', 'omnibus', 'prius', 'propria',
     'sacris', 'secundum', 'solum', 'tantum', 'tolletano', 'uerum']
@@ -235,10 +257,15 @@ def main():
     allow = adverbs + conjunctions + prepositions
     deny = adjectives + nouns + pronouns + pronouns_deleted + verbs + other
     for word in words:
-        # diagnostic: most be in either allow or deny
+        # warnings
         if word not in allow and word not in deny:
-            # print(word, file=sys.stderr)
-            print('#' + word + ' Decide!')
+            print('warning: ' + word + ' not in allow and not in deny', file=sys.stderr)
+        if word in allow and word in deny:
+            print('warning: ' + word + ' in allow and in deny', file=sys.stderr)
+        if word in kestemont_allow and word in deny:
+            print('warning: ' + word + ' in kestemont_allow and in deny', file=sys.stderr)
+        if word in allow and word in kestemont_deny:
+            print('warning: ' + word + ' in allow and in kestemont_deny', file=sys.stderr)
 
         if word in allow:
         # if word not in deny:
