@@ -37,11 +37,7 @@ words = ['in', 'non', 'et', 'est', 'quod', 'de', 'unde', 'ad',
     'episcoporum', 'ordinibus', 'propria', 'hanc', 'hereticis',
     'infra', 'modo', 'potestatem', 'rebus', 'sententiam', 'alterius',
     'christi', 'colligitur', 'concilii', 'forte', 'res', 'aliquis',
-    'bonum', 'christus', 'filios', 'posse', 'probantur', 'suorum',
-    'auctoritas', 'crimen', 'eam', 'econtra', 'generaliter', 'illo',
-    'iudicium', 'omnia', 'permittitur', 'tolletano', 'augustini',
-    'consensu', 'filii', 'habet', 'iuxta', 'peccato', 'prius',
-    'quomodo', 'sacramenta']
+    'bonum', 'christus', 'filios', 'posse', 'probantur']
 
 # allow
 
@@ -98,6 +94,7 @@ kestemont_allow = [
 ]
 
 adverbs = [
+    'aliqua',   # adverb
     'aliquando',# adverb
     'contra',   # preposition, adverb
     'ecce',     # adverb
@@ -214,28 +211,30 @@ kestemont_deny = ['aliqui', 'alius', 'amicus', 'angelus', 'anima',
     'uox', 'us']
 
 adjectives = ['alia', 'alii', 'aliis', 'aliud', 'alterius', 'bonum',
-    'nulla', 'nulli', 'omnia', 'omnibus', 'prius', 'propria',
-    'sacris', 'secundum', 'solum', 'tantum', 'tolletano', 'uerum']
+    'nulla', 'nulli', 'omnia', 'omnibus', 'primum', 'prius',
+    'propria', 'sacris', 'secundo', 'secundum', 'solum', 'suum',
+    'tantum', 'tolletano', 'uerum']
 
 nouns = ['accusatione', 'ambrosius', 'apostolus', 'auctoritas',
     'auctoritate', 'auctoritatibus', 'augustini', 'augustinus',
     'bomum', 'canonibus', 'capitulo', 'causa', 'christi', 'christus',
-    'concilii', 'concilio', 'coniugium', 'consensu', 'crimen',
-    'dei', 'deo', 'deus', 'dictum', 'domini', 'domino', 'dominus',
-    'ecclesia', 'ecclesiae', 'ecclesiam', 'episcopi', 'episcopis',
-    'episcopo', 'episcoporum', 'episcopum', 'episcopus', 'epistola',
-    'exemplo', 'fide', 'filii', 'filios', 'gelasius', 'gregorii',
-    'gregorius', 'hereticis', 'ieronimus', 'iudicium', 'iure',
-    'ius', 'lege', 'leo', 'libro', 'modo', 'nichil', 'offitio',
-    'ordinibus', 'papa', 'papae', 'peccata', 'peccato', 'peccatum',
-    'penitenciam', 'potestatem', 'rebus', 'res', 'sacerdotes',
-    'sacerdotibus', 'sacramenta', 'sententia', 'sententiam', 'sinodo',
-    'statutum', 'tempore', 'titulo', 'uerum', 'uiro', 'uxorem']
+    'clericis', 'concilii', 'concilio', 'coniugium', 'consensu',
+    'crimen', 'dei', 'deo', 'deus', 'dictum', 'domini', 'domino',
+    'dominus', 'ecclesia', 'ecclesiae', 'ecclesiam', 'episcopi',
+    'episcopis', 'episcopo', 'episcoporum', 'episcopum', 'episcopus',
+    'epistola', 'exemplo', 'fide', 'filii', 'filios', 'gelasius',
+    'gregorii', 'gregorius', 'hereticis', 'ieronimus', 'iudicium',
+    'iure', 'ius', 'lege', 'leo', 'libro', 'modo', 'nichil',
+    'offitio', 'ordinibus', 'papa', 'papae', 'peccata', 'peccato',
+    'peccatum', 'penitenciam', 'potestatem', 'rebus', 'res',
+    'sacerdotes', 'sacerdotibus', 'sacramenta', 'sententia',
+    'sententiam', 'sinodo', 'statutum', 'tempore', 'titulo', 'uerum',
+    'uiro', 'uxorem']
 
-pronouns = ['aliquid', 'aliquis', 'cui', 'cuius', 'eodem', 'hac',
-    'hanc', 'hec', 'hinc', 'his', 'hoc', 'idem', 'ipsa', 'qua',
-    'que', 'quem', 'qui', 'quibus', 'quid', 'quis', 'quorum', 'quos',
-    'se', 'sibi', 'uos']
+pronouns = ['aliqua', 'aliquid', 'aliquis', 'cui', 'cuius', 'eodem',
+    'hac', 'hanc', 'hec', 'hic', 'hinc', 'his', 'hoc', 'idem',
+    'ipsa', 'qua', 'que', 'quem', 'qui', 'quibus', 'quid', 'quidam',
+    'quis', 'quorum', 'quos', 'se', 'sibi', 'uos']
 
 pronouns_deleted = ['ea', 'eam', 'ei', 'eis', 'eius', 'eo', 'eorum',
     'eos', 'eum', 'id', 'illa', 'ille', 'illi', 'illis', 'illo',
@@ -262,6 +261,7 @@ def main():
             print('warning: ' + word + ' not in allow and not in deny', file=sys.stderr)
         if word in allow and word in deny:
             print('warning: ' + word + ' in allow and in deny', file=sys.stderr)
+            allow.remove(word)
         if word in kestemont_allow and word in deny:
             print('warning: ' + word + ' in kestemont_allow and in deny', file=sys.stderr)
         if word in allow and word in kestemont_deny:
