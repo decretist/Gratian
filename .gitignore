@@ -1,9 +1,7 @@
+*.jpg
 *.pyc
 Mallet/demo/data/gratian
 Mallet/demo/gratian-20-topic-keys.txt
 Mallet/demo/gratian-input.mallet
 stylometry/.Rhistory
-stylometry/*.pdf
-stylometry/stylo_config.txt
-stylometry/table_with_frequencies.txt
 
