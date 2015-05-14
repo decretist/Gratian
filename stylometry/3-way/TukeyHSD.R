@@ -1,10 +1,10 @@
 ###### LOAD DATA ###########################################################
 library(ca)
 library(languageR)
-samples = t(read.table("~/Work/Gratian/stylometry/3-way comparison/table_with_frequencies.txt", header=TRUE))
+samples = t(read.table("~/Work/Gratian/stylometry/3-way/table_with_frequencies.txt", header=TRUE))
 samples.ca = ca(samples)
 #plot(txts.ca, what=c("all", "none"))
-meta = read.table("~/Work/Gratian/stylometry/3-way comparison/meta_data.tsv", header=TRUE)
+meta = read.table("~/Work/Gratian/stylometry/3-way/meta_data.tsv", header=TRUE)
 COOR = data.frame(samples.ca$rowcoord, TEXT=meta$TEXT)
 ############################################################################
 

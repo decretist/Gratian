@@ -1,4 +1,4 @@
-setwd("~/Work/Gratian/stylometry/3-way comparison")
+setwd("~/Work/Gratian/stylometry/3-way")
 library(stylo)
 results = stylo()
 # summary(results)
