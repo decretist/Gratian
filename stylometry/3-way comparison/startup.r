@@ -1,0 +1,5 @@
+setwd("~/Work/Gratian/stylometry/3-way comparison")
+library(stylo)
+results = stylo()
+# summary(results)
+print(results$features.actually.used)
