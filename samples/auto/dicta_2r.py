@@ -9,7 +9,9 @@ def main():
     f = open('./edF.txt', 'r')
     file = f.read()
     toc = open('./toc_all.txt', 'r')
-    dictionary = {}
+    dictionary_Fr = {} # Friedberg
+    dictionary_1r = {} # first recension
+    dictionary_2r = {} # second recension
     # (?<=...) positive lookbehind assertion.
     dicta = re.findall('(?:\<T [AP]\>|(?<=\<T [AP]\>))(.*?)'    # dictum starts with dictum ante or dictum post tag.
         '(?:'                   # non-capturing group.
@@ -30,11 +32,31 @@ def main():
         dictum = re.sub('^\s+', '', dictum) # remove leading whitespace characters
         dictum = re.sub('\s+$', '', dictum) # remove trailing whitespace characters
         key = toc.readline().rstrip()
-        if key in dictionary:
+        if key in dictionary_Fr:
         # if there's already a dictionary entry with this key, merge the entries
             # print('duplicate key: ' + key, file=sys.stderr)
-            dictum = dictionary[key] + ' ' + dictum
-        dictionary[key] = dictum
+            dictum = dictionary_Fr[key] + ' ' + dictum
+        dictionary_Fr[key] = dictum
+
+    keys = tuple(open('./toc_1r.txt', 'r'))
+    for key in keys:
+        key = key.rstrip()
+        dictionary_1r[key] = dictionary_Fr[key] # copy dictum from Friedberg dictionary into first-recension dictionary
+        # print(key + '\n' + dictionary_1r[key] + '\n', file=sys.stderr)
+        outfilename_r1 = './1r/' + key + '.txt'
+        f = open(outfilename_r1, 'w')
+        f.write(dictionary_1r[key] + '\n')
+        f.close
+
+    keys = tuple(open('../hand/toc_2r.txt', 'r'))
+    for key in keys:
+        key = key.rstrip()
+        dictionary_2r[key] = dictionary_Fr[key] # copy dictum from Friedberg dictionary into second-recension dictionary
+        # print(key + '\n' + dictionary_2r[key] + '\n', file=sys.stderr)
+        outfilename_2r = './2r_pre/' + key + '.txt'
+        f = open(outfilename_2r, 'w')
+        f.write(dictionary_2r[key] + '\n')
+        f.close
 
     keysandpatterns = [
         {'key': 'D.25 d.p.c.1', 'pattern': '(Ex hac epistola liquet, quid cuiusque offitii sit\.)'},
@@ -106,42 +128,42 @@ def main():
     for i in range (len(keysandpatterns)):
         key = keysandpatterns[i]['key']
         pattern = keysandpatterns[i]['pattern']
-        result = re.search(pattern, dictionary[key])
+        result = re.search(pattern, dictionary_Fr[key])
         if result:
             if len(result.groups()) == 1:
-                dictionary[key] = fixString(result.group(1))
+                dictionary_1r[key] = fixString(result.group(1))
             elif len(result.groups()) == 2:
-                dictionary[key] = fixString(result.group(1)) + ' ' + fixString(result.group(2))
-            # print(dictionary[key], file=sys.stderr)
+                dictionary_1r[key] = fixString(result.group(1)) + ' ' + fixString(result.group(2))
+            # print(dictionary_1r[key], file=sys.stderr)
         else:
-            print('no match: ' + key + '\n' + dictionary[key], file=sys.stderr)
+            print('no match: ' + key + '\n' + dictionary_Fr[key], file=sys.stderr)
 
     # insert
     key = 'C.3 q.1 d.p.c.2'
-    dictionary[key] = '''Sed notandum est quod restitutio alia fit per presentiam iudicis, ueluti cum dicitur a iudice: "Censeo te in integrum restituendum", qua restitutione animo tantum, non corpore possessio recipitur. Alia fit per executorem iudicis quando restitutus corporalem recipit possessionem. Queritur ergo que harum concedatur expoliatis, an illa tantum, que fit per sententiam iudicis, an illa etiam que fit per executorem sententiae, qua expoliatis presentialiter omnia reciduntur. Hec ultima expoliatis prestanda est.'''
+    dictionary_1r[key] = '''Sed notandum est quod restitutio alia fit per presentiam iudicis, ueluti cum dicitur a iudice: "Censeo te in integrum restituendum", qua restitutione animo tantum, non corpore possessio recipitur. Alia fit per executorem iudicis quando restitutus corporalem recipit possessionem. Queritur ergo que harum concedatur expoliatis, an illa tantum, que fit per sententiam iudicis, an illa etiam que fit per executorem sententiae, qua expoliatis presentialiter omnia reciduntur. Hec ultima expoliatis prestanda est.'''
     # append
     key = 'C.3 q.1 d.p.c.6'
-    dictionary[key] = dictionary[key] + ''' His ita respondetur. Si uicium electionis ecclesie notum fuerit et ideo reprobati fuerint et si aliqua uiolentia in sedibus illis irrepserit eiecti restitutionem postulare non possunt. Si autem ecclesia eos per pacientiam tolerare uoluerit et eis gradum honoris concesserit et si uiciosa fuerit eorum electio, tamen post eiectionem restituendi sunt, ante regularem ad synodi uocationem.'''
+    dictionary_1r[key] = dictionary_1r[key] + ''' His ita respondetur. Si uicium electionis ecclesie notum fuerit et ideo reprobati fuerint et si aliqua uiolentia in sedibus illis irrepserit eiecti restitutionem postulare non possunt. Si autem ecclesia eos per pacientiam tolerare uoluerit et eis gradum honoris concesserit et si uiciosa fuerit eorum electio, tamen post eiectionem restituendi sunt, ante regularem ad synodi uocationem.'''
     # special fix
     key = 'C.15 q.1 d.p.c.11'
-    dictionary[key] = dictionary[key][0:-1] + ':'
+    dictionary_1r[key] = dictionary_1r[key][0:-1] + ':'
     # interpolate
     key = 'C.15 q.3 d.p.c.4'
     pattern = '(Cum autem sacris.*?hoc non infertur\.).*?(Quamuis igitur sacris.*?credi non oportet)'
-    result = re.search(pattern, dictionary[key])
+    result = re.search(pattern, dictionary_1r[key])
     if result:
-        dictionary[key] = fixString(result.group(1)) + ''' Quecumque enim persone humanis legibus copulari prohibentur et diuinis, non omnium copula a sacris canonibus admittitur, quorum conuentio legibus imperatorum indulgetur. ''' + fixString(result.group(2))
+        dictionary_1r[key] = fixString(result.group(1)) + ''' Quecumque enim persone humanis legibus copulari prohibentur et diuinis, non omnium copula a sacris canonibus admittitur, quorum conuentio legibus imperatorum indulgetur. ''' + fixString(result.group(2))
     else:
-        print('no match: ' + key + '\n' + dictionary[key], file=sys.stderr)
+        print('no match: ' + key + '\n' + dictionary_1r[key], file=sys.stderr)
     # insert
     key = 'C.21 q.3 d.a.c.1'
-    dictionary[key] = '''Quod autem clerici secularium negotiorum procuratores esse non ualeant auctoritate Calcedonensis synodi probatur in qua sic statutum est legitur:'''
+    dictionary_1r[key] = '''Quod autem clerici secularium negotiorum procuratores esse non ualeant auctoritate Calcedonensis synodi probatur in qua sic statutum est legitur:'''
     # append
     key = 'C.23 q.8 d.p.c.25'
-    dictionary[key] = dictionary[key] + ''' Unde in quodam concilio statutum est ut episcopi non proficiscantur ad comitatum nisi formatas ab apostolico acceperint.'''
+    dictionary_1r[key] = dictionary_1r[key] + ''' Unde in quodam concilio statutum est ut episcopi non proficiscantur ad comitatum nisi formatas ab apostolico acceperint.'''
     # append
     key = 'de Pen. D.1 d.a.c.1'
-    dictionary['de Pen. D.1 d.a.c.1'] = dictionary[key].rstrip('.') + ''' Leonis pape:'''
+    dictionary_1r['de Pen. D.1 d.a.c.1'] = dictionary_1r[key].rstrip('.') + ''' Leonis pape:'''
 
     all = open('./Gratian1.txt', 'w')
     keys = tuple(open('./toc_1r.txt', 'r'))
@@ -149,8 +171,8 @@ def main():
         key = key.rstrip()
         outfilename = './1r/' + key + '.txt'
         each = open(outfilename, 'w')
-        each.write(dictionary[key] + '\n')
-        all.write(dictionary[key] + '\n')
+        each.write(dictionary_1r[key] + '\n')
+        all.write(dictionary_1r[key] + '\n')
         each.close
     all.close()
 
