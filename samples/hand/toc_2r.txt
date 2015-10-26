@@ -182,7 +182,6 @@ C.6 q.1 d.p.c.22
 C.6 q.1 d.p.c.23
 C.6 q.3 d.p.c.3
 C.6 q.4 d.p.c.2
-C.6 q.4 d.p.c.7
 C.6 q.5 d.p.c.1
 C.6 q.5 d.p.c.2
 C.7 q.1 d.p.c.14
