@@ -1,0 +1,62 @@
+D.25 d.p.c.1
+D.25 d.p.c.3
+D.26 d.p.c.4
+D.30 d.a.c.1
+D.31 d.p.c.11
+D.42 d.p.c.1
+D.45 d.p.c.17
+D.47 d.p.c.8
+D.54 d.p.c.23
+D.63 d.p.c.28
+D.63 d.p.c.34
+D.68 d.p.c.2
+C.1 q.1 d.p.c.51
+C.1 q.1 d.p.c.123
+C.1 q.4 d.p.c.9
+C.1 q.4 d.p.c.12
+C.2 q.3 d.p.c.7
+C.2 q.6 d.p.c.31
+C.2 q.6 d.p.c.39
+C.2 q.7 d.p.c.40
+C.2 q.8 d.p.c.5
+C.3 q.1 d.p.c.6
+C.3 q.11 d.p.c.3
+C.5 q.3 d.p.c.1
+C.6 q.1 d.p.c.21
+C.11 q.1 d.p.c.34
+C.11 q.3 d.p.c.40
+C.13 q.1 d.p.c.1
+C.13 q.2 d.p.c.3
+C.13 q.2 d.p.c.8
+C.14 q.1 d.p.c.1
+C.14 q.2 d.p.c.1
+C.14 q.5 d.p.c.14
+C.15 q.1 d.p.c.3
+C.15 q.1 d.p.c.11
+C.15 q.1 d.p.c.12
+C.16 q.1 d.p.c.40
+C.16 q.1 d.p.c.47
+C.16 q.1 d.p.c.53
+C.16 q.3 d.p.c.15
+C.16 q.3 d.p.c.16
+C.17 q.2 d.p.c.2
+C.21 q.2 d.p.c.3
+C.22 q.1 d.p.c.16
+C.22 q.2 d.p.c.5
+C.23 q.4 d.p.c.26
+C.23 q.4 d.p.c.27
+C.23 q.4 d.p.c.30
+C.23 q.8 d.p.c.25
+C.23 q.8 d.p.c.27
+C.29 q.1 d.a.c.1
+C.29 q.2 d.p.c.6
+C.30 q.4 d.p.c.5
+C.31 q.1 d.p.c.7
+C.32 q.1 d.p.c.10
+C.32 q.4 d.p.c.10
+C.33 q.2 d.p.c.9
+de Pen. D.1 d.a.c.1
+de Pen. D.1 d.p.c.87
+de Pen. D.2 d.a.c.1
+de Pen. D.2 d.p.c.24
+C.35 q.2 d.p.c.21
