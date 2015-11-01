@@ -22,3 +22,4 @@ do
     cat "$file" >> Gratian2.txt
 done < toc_2r.txt
 shasum -c Gratian1.sha1
+shasum -c Gratian2.sha1
