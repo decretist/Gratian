@@ -22,7 +22,7 @@ def main():
             '\<P 1\>|'          # or Palea,
             '\<T [AIPRT]\>'      # or inscription or text tag.
         ')', file, re.S)        # re.S (re.DOTALL) makes '.' special character match any character including newline.
-    # print('expected 1277 dicta, found ' + str(len(dicta)) + ' dicta', file=sys.stderr)
+    print('expected 1277 dicta, found ' + str(len(dicta)) + ' dicta', file=sys.stderr)
     for dictum in dicta:
         dictum = re.sub('\<S \d{1,4}\>\<L 1\> \-\d{1,4}\+', '', dictum) # remove page and line number tags.
         dictum = re.sub('\<P 1\> \-\[PALEA\.\+', '', dictum)    # remove Palea tags.
@@ -38,7 +38,7 @@ def main():
             dictum = dictionary_Fr[key] + ' ' + dictum
         dictionary_Fr[key] = dictum
 
-    keys = tuple(open('./toc_1r.txt', 'r'))
+    keys = tuple(open('../hand/toc_1r.txt', 'r'))
     for key in keys:
         key = key.rstrip()
         dictionary_1r[key] = dictionary_Fr[key] # copy dictum from Friedberg dictionary into first-recension dictionary
@@ -87,7 +87,7 @@ def main():
         {'key': 'C.15 q.1 d.p.c.3', 'pattern': '(Ex eo autem.*?penam aut gloriam.")'},
         {'key': 'C.15 q.1 d.p.c.11', 'pattern': '(Cum itaque qui.*?Obicitur autem)'},
         {'key': 'C.15 q.1 d.p.c.12', 'pattern': '(Sunt quedam, que.*?muneris executionem inpediunt\.)'},
-        {'key': 'C.16 q.1 d.p.c.40', 'pattern': '(.*?)(Ostendit ergo Ieronimus.*?ipsum inperfectis connumerans\.)(.*?)(Ecce sufficienter monstratum.*?assecuntur potestatis executionem\.)(.*?)'}, # inperfectis
+        {'key': 'C.16 q.1 d.p.c.40', 'pattern': '(.*?)(Ostendit ergo Ieronimus.*?ipsum inperfectis connumerans\.)(.*?)(Ecce sufficienter monstratum.*?assecuntur potestatis executionem\.)(.*?$)'}, # inperfectis
         {'key': 'C.16 q.1 d.p.c.47', 'pattern': '(Quod autem dicitur.*?duos potest diuidi,)'},
         {'key': 'C.16 q.1 d.p.c.53', 'pattern': '(Sicut duo episcopatus.*?ad paucitatem redigeretur\.)'},
         {'key': 'C.16 q.3 d.p.c.15', 'pattern': '(Potest etiam aliter.*?obici non potest\.)'},
@@ -128,7 +128,7 @@ def main():
                 dictionary_2r[key] = fixString(result.group(2))
             elif len(result.groups()) == 5: # C.16 q.1 d.p.c.40
                 dictionary_1r[key] = fixString(result.group(2)) + ' ' + fixString(result.group(4))
-                dictionary_2r[key] = fixString(result.group(1)) + ' ' + fixString(result.group(3))
+                dictionary_2r[key] = fixString(result.group(1)) + ' ' + fixString(result.group(3)) + ' ' + fixString(result.group(5))
             # print(dictionary_1r[key], file=sys.stderr)
         else:
             print('no match: ' + key + '\n' + dictionary_Fr[key], file=sys.stderr)
@@ -161,7 +161,7 @@ def main():
     dictionary_1r['de Pen. D.1 d.a.c.1'] = dictionary_1r[key].rstrip('.') + ''' Leonis pape:'''
 
     all = open('./Gratian1.txt', 'w')
-    keys = tuple(open('./toc_debug.txt', 'r'))
+    keys = tuple(open('../hand/toc_1r.txt', 'r'))
     for key in keys:
         key = key.rstrip()
         outfilename = './1r/' + key + '.txt'
@@ -172,7 +172,7 @@ def main():
     all.close()
 
     all = open('./Gratian2.txt', 'w')
-    keys = tuple(open('./toc_debug.txt', 'r'))
+    keys = tuple(open('../hand/toc_2r.txt', 'r'))
     for key in keys:
         key = key.rstrip()
         outfilename = './2r/' + key + '.txt'
