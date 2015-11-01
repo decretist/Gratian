@@ -129,7 +129,6 @@ def main():
             elif len(result.groups()) == 5: # C.16 q.1 d.p.c.40
                 dictionary_1r[key] = fixString(result.group(2)) + ' ' + fixString(result.group(4))
                 dictionary_2r[key] = fixString(result.group(1)) + ' ' + fixString(result.group(3)) + ' ' + fixString(result.group(5))
-            # print(dictionary_1r[key], file=sys.stderr)
         else:
             print('no match: ' + key + '\n' + dictionary_Fr[key], file=sys.stderr)
 
