@@ -144,10 +144,11 @@ def main():
     dictionary_1r[key] = dictionary_1r[key][0:-1] + ':'
     # interpolate
     key = 'C.15 q.3 d.p.c.4'
-    pattern = '(Cum autem sacris.*?hoc non infertur\.).*?(Quamuis igitur sacris.*?credi non oportet)'
+    pattern = '(Cum autem sacris.*?hoc non infertur\.)(.*?)(Quamuis igitur sacris.*?credi non oportet\.)(.*?$)'
     result = re.search(pattern, dictionary_1r[key])
     if result:
-        dictionary_1r[key] = fixString(result.group(1)) + ''' Quecumque enim persone humanis legibus copulari prohibentur et diuinis, non omnium copula a sacris canonibus admittitur, quorum conuentio legibus imperatorum indulgetur. ''' + fixString(result.group(2))
+        dictionary_1r[key] = fixString(result.group(1)) + ''' Quecumque enim persone humanis legibus copulari prohibentur et diuinis, non omnium copula a sacris canonibus admittitur, quorum conuentio legibus imperatorum indulgetur. ''' + fixString(result.group(3))
+        dictionary_2r[key] = fixString(result.group(2)) + ' ' + fixString(result.group(4))
     else:
         print('no match: ' + key + '\n' + dictionary_1r[key], file=sys.stderr)
     # insert
