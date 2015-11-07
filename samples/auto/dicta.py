@@ -122,7 +122,7 @@ def main():
         if result:
             if len(result.groups()) == 1:
                 dictionary_1r[key] = fixString(result.group(1))
-                dictionary_2r[key] = fixString(re.sub(pattern, '', dictionary_Fr[key])) # dictionary_Fr or dictionary_2r?
+                dictionary_2r[key] = fixString(re.sub(pattern, '', dictionary_2r[key]))
             elif len(result.groups()) == 3:
                 dictionary_1r[key] = fixString(result.group(1)) + ' ' + fixString(result.group(3))
                 dictionary_2r[key] = fixString(result.group(2))
@@ -186,9 +186,6 @@ def fixString(string):
     string = re.sub('\s+', ' ', string) # 2r
     string = re.sub('^\s+', '', string) # 2r
     string = re.sub('\s+$', '', string) # 2r
-    if string[0].islower():
-        # string = string[0].upper() + string[1:]
-        pass
     if string[-1] == ',' or string[-1] == ';':
         string = string[0:-1] + '.'
     if string[-1].isalpha():
