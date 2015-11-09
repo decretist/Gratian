@@ -6,7 +6,7 @@ from __future__ import print_function
 import re
 import sys
 def main():
-    f = open('./edF.txt', 'r')
+    f = open('../../analysis/edF.txt', 'r')
     file = f.read()
     toc = open('./toc_all.txt', 'r')
     dictionary_Fr = {} # Friedberg
