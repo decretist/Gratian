@@ -7,4 +7,5 @@ corpus2: -xque stripping using Schinke pass list with false positives removed
 October-November 2015
 
 corpus3: no -xque stripping  
-corpus4: -xque stripping using Schinke pass list with false positives removed
+corpus4: -xque stripping using Schinke pass list  
+corpus5: -xque stripping using Schinke pass list with false positives removed

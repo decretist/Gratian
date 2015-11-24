@@ -446,7 +446,7 @@ Romanae
 ecclesiae
 et
 episcoporum
-uniuscuius xque
+uniuscuiusque
 prouinciae
 euidenter
 apparet
@@ -678,7 +678,7 @@ ita
 dicens
 Sacerdos
 quoque
-utrum xque
+utrumque
 humerum
 orario
 ambit
@@ -732,7 +732,7 @@ confiteri
 quia
 facile
 dimittuntur
-quecum xque
+quecumque
 uero
 fiunt
 ex
@@ -957,7 +957,7 @@ in
 eorum
 numero
 computatur
-Quicum xque
+Quicumque
 enim
 aliquod
 de
@@ -1120,7 +1120,7 @@ blanditus
 quam
 oportet
 si
-cuicum xque
+cuicumque
 maiori
 personae
 aut
@@ -1493,7 +1493,7 @@ delectus
 personarum
 sed
 indifferenter
-quibuscum xque
+quibuscumque
 sufficimus
 hospitales
 nos
@@ -2130,7 +2130,7 @@ sit
 uidendum
 est
 Debent
-nam xque
+namque
 litterae
 grecae
 interponi
@@ -2256,7 +2256,7 @@ scribitur
 quarta
 et
 indictionis
-quecum xque
+quecumque
 est
 illius
 temporis
@@ -2277,7 +2277,7 @@ in
 unum
 ductis
 unam
-quecum xque
+quecumque
 fuerit
 collecta
 summam
@@ -2953,7 +2953,7 @@ Legatum
 uero
 apostolicae
 sedis
-quicum xque
+quicumque
 inpedierit
 usque
 ad
@@ -3112,7 +3112,7 @@ est
 mos
 Romanae
 ecclesiae
-undecum xque
+undecumque
 legationem
 suscipere
 Unde
@@ -3333,7 +3333,7 @@ oportunitate
 exigente
 monachos
 et
-quoscum xque
+quoscumque
 clericos
 conuocare
 potest
@@ -3521,8 +3521,8 @@ maculam
 filio
 infligere
 potest
-Nam xque
-unusquis xque
+Namque
+unusquisque
 ex
 suo
 admisso
@@ -3872,7 +3872,7 @@ scribit
 dicem
 Infames
 dicimus
-quoscum xque
+quoscumque
 leges
 seculi
 infames
@@ -4163,7 +4163,7 @@ Nam
 qui
 preuaricatur
 ex
-utra xque
+utraque
 parte
 consistit
 quinimo
@@ -4644,7 +4644,7 @@ scribit
 Si
 quis
 in
-quacum xque
+quacumque
 lite
 iterum
 prouocauerit
@@ -4770,7 +4770,7 @@ non
 est
 In
 eodem
-nam xque
+namque
 libro
 et
 eodem
@@ -5141,7 +5141,7 @@ que
 sibi
 ablata
 fuerant
-quacum xque
+quacumque
 conditione
 in
 eodem
@@ -5481,7 +5481,7 @@ non
 conuenit
 etiam
 si
-utra xque
+utraque
 parte
 presente
 tribuatur
@@ -5760,7 +5760,7 @@ Aliquando
 inconsulto
 Romano
 Pontifice
-pleri xque
+plerique
 episcoporum
 dampnati
 inueniuntur
@@ -5870,7 +5870,7 @@ ex
 contumacia
 Pro
 presenti
-nam xque
+namque
 contumacia
 eum
 haberi
@@ -6174,7 +6174,7 @@ uel
 seruis
 cuiuslibet
 domus
-cuiuscum xque
+cuiuscumque
 criminis
 delator
 atque
@@ -6341,7 +6341,7 @@ siue
 in
 publico
 siue
-quocum xque
+quocumque
 loco
 ignarus
 repererit
@@ -6439,7 +6439,7 @@ illa
 que
 sunt
 per
-unamquam xque
+unamquamque
 prouinciam
 ipsius
 prouinciae
@@ -7156,7 +7156,7 @@ idem
 in
 Psalmo
 69
-utrum xque
+utrumque
 genus
 persecutionis
 distinguens
@@ -9208,7 +9208,7 @@ spem
 non
 habent
 Pietatis
-nam xque
+namque
 affectu
 et
 humanitatis
@@ -9507,7 +9507,7 @@ obicitur
 Unde
 Ieronimus
 ait
-Quicum xque
+Quicumque
 enim
 clericorum
 nuptias
@@ -10959,7 +10959,7 @@ scribit
 Bonifatio
 Episcopo
 Occasione
-nam xque
+namque
 religionis
 seruus
 dominum
@@ -11206,7 +11206,7 @@ intelligendum
 est
 Potest
 etiam
-utri xque
+utrique
 tamquam
 titulato
 preesse
@@ -12728,7 +12728,7 @@ cognoscatur
 Inp
 Anastasius
 Omnes
-cuiuscum xque
+cuiuscumque
 maioris
 uel
 minoris
@@ -12873,7 +12873,7 @@ qui
 sine
 prefata
 adiectione
-qualecum xque
+qualecumque
 diuinum
 responsum
 dictauerint
@@ -12890,7 +12890,7 @@ dictata
 ausi
 fuerint
 scribere
-cuiuscum xque
+cuiuscumque
 scrinii
 memoriales
 seu
@@ -13750,7 +13750,7 @@ queritur
 cum
 sit
 par
-utrius xque
+utriusque
 condicio
 cur
 communicantes
