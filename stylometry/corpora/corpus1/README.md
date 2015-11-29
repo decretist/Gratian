@@ -4,14 +4,14 @@ In the case statements, 1st-, and 2nd-recension _dicta_ from Gratian's _Decretum
 
 However, the 222 words include 64 occurrences of 16 unique words ending with the adverbial enclitics -_cumque_ or -_cunque_, from which the -_que_ ending should not be detached. The 222 words also includes a further 135 occurrences of 21 unique false positives:
 
-+ cumque,
-+ eque (aeque),
-+ namque,
-+ pleraque, plerique, plerisque, plerumque, (forms of plerusque)
-+ quinque,
-+ unamquamque, unaqueque, unicuique, uniuscuiusque, unumquemque, unusquisque, (forms of unusquisque)
-+ usquequaque,
-+ utramque, utraque, utrique, utrisque, utriusque, utrumque (forms of uterque)
++ _cumque_,
++ _eque_ (_aeque_),
++ _namque_,
++ _pleraque_, _plerique_, _plerisque_, _plerumque_, (forms of _plerusque_)
++ _quinque_,
++ _unamquamque_, _unaqueque_, _unicuique_, _uniuscuiusque_, _unumquemque_, _unusquisque_, (forms of _unusquisque_)
++ _usquequaque_,
++ _utramque_, _utraque_, _utrique_, _utrisque_, _utriusque_, _utrumque_ (forms of _uterque_)
 
 This leaves only 23 occurrences of 18 unique words from which the -_que_ ending should actually be detached as an enclitic.
 
