@@ -15,7 +15,7 @@ writeLines(files.to.analyze, "files_to_analyze.txt")
 stylo.results = stylo(
   gui = FALSE,
   features = "wordlist7a.txt",
-  corpus.dir = "~/Work/Gratian/stylometry/corpora/corpus7",
+  corpus.dir = "../corpora/corpus7",
   corpus.lang = "Latin.corr",
   mfw.min = 51, mfw.max = 51,
   mfw.list.cutoff = 240,
@@ -34,7 +34,7 @@ print(stylo.results$features.actually.used)
 stylo.results = stylo(
   gui = FALSE,
   features = "wordlist7a.txt",
-  corpus.dir = "~/Work/Gratian/stylometry/corpora/corpus7",
+  corpus.dir = "../corpora/corpus7",
   corpus.lang = "Latin.corr",
   mfw.min = 51, mfw.max = 51,
   mfw.list.cutoff = 240,
@@ -54,7 +54,7 @@ print(stylo.results$features.actually.used)
 stylo.results = stylo(
   gui = FALSE,
   features = "wordlist7b.txt",
-  corpus.dir = "~/Work/Gratian/stylometry/corpora/corpus7",
+  corpus.dir = "../corpora/corpus7",
   corpus.lang = "Latin.corr",
   mfw.min = 49, mfw.max = 49,
   mfw.list.cutoff = 240,
@@ -80,7 +80,7 @@ writeLines(files.to.analyze, "files_to_analyze.txt")
 stylo.results = stylo(
   gui = FALSE,
   features = "wordlist7c.txt",
-  corpus.dir = "~/Work/Gratian/stylometry/corpora/corpus7",
+  corpus.dir = "../corpora/corpus7",
   corpus.lang = "Latin.corr",
   mfw.min = 53, mfw.max = 53,
   mfw.list.cutoff = 240,
@@ -109,7 +109,7 @@ writeLines(files.to.analyze, "files_to_analyze.txt")
 stylo.results = stylo(
   gui = FALSE,
   features = "wordlist7d.txt",
-  corpus.dir = "~/Work/Gratian/stylometry/corpora/corpus7",
+  corpus.dir = "../corpora/corpus7",
   corpus.lang = "Latin.corr",
   mfw.min = 49, mfw.max = 49,
   mfw.list.cutoff = 240,
