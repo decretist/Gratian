@@ -25,11 +25,11 @@ doing for my dissertation. It's very much a snapshot of work in
 progress, so I appreciate the opportunity for feedback.
 
 When I talk about this work in front of Digital Humanities audiences,
-I have to spend several minutes carefully explaining what Gratian’s
+I have to spend several minutes carefully explaining what Gratian's
 _Decretum_ is and why it is important, something that will not be
 necessary today at the Stephan Kuttner Institute. Anyone attending
 a session on Canon Law in the Twelfth and Thirteenth Centuries is
-familiar with Anders Winroth’s discovery, now almost 20 years ago,
+familiar with Anders Winroth's discovery, now almost 20 years ago,
 of the first recension of the _Decretum_, and with subsequent debates
 (recently summarized by Melodie Eichbauer) over whether the _Decretum_
 was compiled and circulated in two distinct recensions, or whether
@@ -64,7 +64,7 @@ Linguists draw a distinction between function words and content
 words. Functions words are words like prepositions and conjunctions.
 Content words are words like adjectives, nouns and verbs. Function
 words convey meaning by their use in grammatical structure. The
-conjunction "but" doesn’t mean anything by itself, but rather it
+conjunction "but" doesn't mean anything by itself, but rather it
 places two words or grammatical constructs into an adversative
 relationship with each other.
 
@@ -77,7 +77,7 @@ are almost never added to a language, and they change very slowly
 over time, if they change at all, and are therefore, for all practical
 purposes, a closed, finite, class. In theory, that means that you
 ought to be able to make a list of every function word in a language,
-although in practice, that’s not easy to do.
+although in practice, that's not easy to do.
 
 Evidence from experimental psychology suggests that both authors
 and readers process function words at an unconscious level. The
@@ -96,7 +96,7 @@ James Madison. In 1944, Douglass Adair, using traditional scholarly
 methods, settled the dispute largely to the satisfaction of early
 American historians, determining that Madison was the author of all
 12 of the disputed numbers. In 1964, Mosteller and Wallace confirmed
-Adair’s findings by conducting a stylometric analysis of the
+Adair's findings by conducting a stylometric analysis of the
 frequencies of 30 function words to compare the 12 disputed numbers
 with numbers securely attributed to Hamilton and Madison.
 
@@ -199,7 +199,7 @@ pseudo-conjunction "xque".
 
 Now that we have the preliminaries out of the way, we can take a
 look at the results. I used the stylo R package to generate all of
-the plots that I’m going to show you today. (R is a statistical
+the plots that I'm going to show you today. (R is a statistical
 programming language.) Mike Kestemont, Maciej Eder, and Jan Rybicki
 of the Computational Stylistics Group developed the package, and
 Mike Kestemont in particular has been very generous in his technical
@@ -237,7 +237,7 @@ associated with the first-recension _dicta_. Here we see "_non_"
 on the far right, and in fact the samples from the first-recension
 _dicta_ (but not from the second-recension _dicta_) tend to spread
 out to the right. Note also that "_in_", the most common word in
-the samples, is actually pretty close to the middle. So, it’s not
+the samples, is actually pretty close to the middle. So, it's not
 so much that the second-recension _dicta_ have more occurrences of
 "_in_", it's that the first-recension _dicta_ have fewer.
 
@@ -300,7 +300,7 @@ for any features that might exaggerate the separation between the
 case statements and the _dicta_. The other, more tentative, conclusion
 that I draw is that it is going to be hard to make a clear case for
 either one or two authors for the _dicta_, and it appears that the
-authorship of Gratian’s _Decretum_ is considerably more complicated
+authorship of Gratian's _Decretum_ is considerably more complicated
 than we have imagined.
 
 #Bibliography
