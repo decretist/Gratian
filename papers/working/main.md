@@ -103,20 +103,23 @@ with numbers securely attributed to Hamilton and Madison.
 
 Let's take a first look at how this kind of stylometric analysis
 works in practice with some actual data from the first- and
-second-recension _dicta_. "_In_" is the most frequently occurring
-word in the _dicta_. There are 1,440 occurrences of "_in_" out of
-56,211 words in the first-recension _dicta_ (2.56%). There are 406
-occurrences of "_in_" out of 14,213 words in the second-recension
-_dicta_ (2.86%). "_In_" therefore occurs 12% more frequently in the
+second-recension _dicta_.[^4] "_In_" is the most frequently occurring
+word in the _dicta_. There are 1,450 occurrences of "_in_" out of
+56,713 words in the first-recension _dicta_ (2.56%). There are 411
+occurrences of "_in_" out of 14,255 words in the second-recension
+_dicta_ (2.88%). "_In_" therefore occurs 13% more frequently in the
 second-recension _dicta_ than it does in the first-recension _dicta_.
 
+[^4]: Does _not_ include either first- or second-recension _dicta_
+from _de Pen_.
+
 "_Non_" is the second most frequently occurring word in the _dicta_.
-There are 1,349 occurrences of "_non_" in the first-recension _dicta_
+There are 1,360 occurrences of "_non_" in the first-recension _dicta_
 (2.40%). There are 306 occurrences of "_non_" in the second-recension
-_dicta_ (2.15%). "_Non_" therefore occurs 11% more frequently in
+_dicta_ (2.15%). "_Non_" therefore occurs 12% more frequently in
 the first-recension _dicta_ than in the second-recension _dicta_.
 
-12% for "_in_" and 11% for "_non_" are significant variations for
+13% for "_in_" and 12% for "_non_" are significant variations for
 such common words---it's not like we're talking about low-frequency
 words where a small difference in the count can make for a big
 difference in percentage.
