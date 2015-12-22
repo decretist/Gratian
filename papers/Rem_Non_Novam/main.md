@@ -61,7 +61,7 @@ features that stylometry measures are the frequencies of occurrence
 of function words.
 
 Linguists draw a distinction between function words and content
-words. Functions words are words like prepositions and conjunctions.
+words. Function words are words like prepositions and conjunctions.
 Content words are words like adjectives, nouns and verbs. Function
 words convey meaning by their use in grammatical structure. The
 conjunction "but" doesn't mean anything by itself, but rather it
