@@ -241,7 +241,7 @@ of the Computational Stylistics Group developed the package, and
 Mike Kestemont in particular has been very generous in his technical
 advice for this project.
 
-![](JPGs/3-way_PCA_53_MFWs.jpg)
+![Updated 11 Dec 2015](3-way_PCA_51_MFWs_001.jpg)
 
 Here is the plot of a three-way comparison between the case statements,
 the first-recension _dicta_, and the second-recension _dicta_. The
@@ -258,7 +258,7 @@ fact that the case statements are so far away from the _dicta_, and
 the next step is to take a look at which function words are producing
 that effect.
 
-![](JPGs/3-way_PCA_53_MFWs_Loadings.jpg)
+![Updated 11 Dec 2015](3-way_PCA_51_MFWs_Loadings_001.jpg)
 
 Turning on a stylo option called "feature loadings" lets us see how
 strongly particular words influence the placement of text samples
@@ -285,7 +285,7 @@ next step in the stylometric analysis is to control for genre by
 removing the question words "_an_" and "_si_" from the list of
 function words.
 
-![](JPGs/3-way_PCA_51_MFWs.jpg)
+![Updated 11 Dec 2015](3-way_PCA_49_MFWs_001.jpg)
 
 We've now reached the final stage of the three-way comparison between
 the case statements, the first-recension _dicta_, and the
@@ -308,7 +308,7 @@ use of stylometry, was quite optimistic on the basis of this evidence
 that the first- and second-recension _dicta_ might be statistically
 distinguishable.
 
-![](JPGs/2-way_PCA_51_MFWs.jpg)
+![Updated 1 Dec 2015](2-way_PCA_53_MFWs_001.jpg)
 
 So, in an attempt to take a closer look at the _dicta_ by themselves,
 I removed the case statements and ran a two-way comparison of
