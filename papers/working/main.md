@@ -251,9 +251,9 @@ the first-recension _dicta_, and the second-recension _dicta_. The
 case statements are red, the first-recension _dicta_ are green, and
 the second-recension _dicta_ are blue. Each of the texts has been
 divided into 1200-words samples. Principal component 1, along the
-horizontal axis is 11.1%. Principal component 2, along the vertical
-axis is 7.2%. That is, PC1 explains 11.1% of the total variation
-between the samples, and PC2 explains 7.2% of the total variation
+horizontal axis is 11.2%. Principal component 2, along the vertical
+axis is 7.3%. That is, PC1 explains 11.2% of the total variation
+between the samples, and PC2 explains 7.3% of the total variation
 between the samples. This is good: as a general rule, we want to
 see a value for PC1 greater than 10% and we want to see a value for
 PC2 greater than 5%. The most striking feature of this plot is the
@@ -292,15 +292,14 @@ function words.
 
 We've now reached the final stage of the three-way comparison between
 the case statements, the first-recension _dicta_, and the
-second-recension _dicta_. We are now using the 51 most frequent
-words on our function list instead of the 53 most frequent words,
+second-recension _dicta_. We are now using the 49 most frequent
+words on our function list instead of the 51 most frequent words,
 having commented out "_an_" and "_si_". And even without "_an_" and
-"_si_", PC1 still explains 10.7% of the total variation between the
-samples, down slightly from 11.1%. PC2 still explains 6.9% of the
-total variation between the samples, down slightly from 7.2%. So,
-even controlling for genre, the distance between the case statements
-and the _dicta_---both first- and second-recension---is still quite
-striking.
+"_si_", PC1 still explains 10.5% of the total variation between the
+samples, down slightly from 11.2%. PC2 still explains 7.3% of the
+total variation between the samples. So, even controlling for genre,
+the distance between the case statements and the _dicta_---both
+first- and second-recension---is still quite striking.
 
 To turn to the other interesting aspect of the three-way comparison,
 you'll note that the second-recension _dicta_ in blue cluster
@@ -319,13 +318,13 @@ I removed the case statements and ran a two-way comparison of
 (Stylo changes the color assignments depending on the number of
 samples, so in this plot the first-recension _dicta_ are red and
 the second-recension _dicta_ are green.) And the results are
-ambiguous. The PC1 axis is 9.4%, somewhat under the 10% threshold
-we would like to see. Also, although we still see the second-recension
-_dicta_ clustering mostly to the left of the PC1 axis, the two sets
-of samples are not separated as cleanly as we'd like to see, and
-certainly nowhere near as cleanly as the case statements were from
-the _dicta_. And here we've reached the current frontier of my
-research.
+ambiguous. The PC1 axis is 9%, somewhat under the 10% threshold we
+would like to see. Also, although we still see the second-recension
+_dicta_ clustering mostly to the right of the PC1 axis, the two
+sets of samples are not separated as cleanly as we'd like to see,
+and certainly nowhere near as cleanly as the case statements were
+from the _dicta_. And here we've reached the current frontier of
+my research.
 
 ##Conclusion
 
