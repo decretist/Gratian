@@ -6,19 +6,20 @@ csl: chicago-fullnote-bibliography.csl
 abstract: |
   Since the discovery by Winroth in 1996 of a first recension of
   Gratian's _Decretum_, there has been scholarly controversy over
-  whether the compiler of the first recension (Gratian 1) was the
-  same person as the compiler of the second recension (Gratian 2).
-  Tools for authorship attribution recently developed by researchers
-  in the field of computation linguistics now make it possible to
-  approach this problem in a new way. Using the Stylometry with R
-  package, I have analyzed the texts from the _Decretum_ traditionally
-  attributed to Gratian himself: the _dicta_ and the case statements.
-  Principal component analysis (PCA) of the frequency of function
-  words (prepositions and conjunctions) in the texts suggests that
-  the author of the case statements may not have been the same
-  person as the author of either the first- or second-recension
-  _dicta_. PCA also provides tentative new evidence concerning the
-  authorship of the first- and second-recension _dicta_.
+  whether the compiler of the first recension was the same person
+  as the compiler of the second recension. Techniques for authorship
+  attribution developed by researchers in the field of computation
+  linguistics make it possible to approach this problem in a new
+  way. Using the Stylometry with R package, I have analyzed those
+  texts from the _Decretum_ traditionally attributed to Gratian
+  personally: the case statements and the _dicta_. Principal component
+  analysis (PCA) of the frequencies of function words (prepositions
+  and conjunctions) in the texts suggests that the author of the
+  case statements was not the same person as the authors of either
+  the first- or second-recension _dicta_. PCA also provides evidence
+  concerning the first- and second-recension _dicta_ that suggests
+  they are the product of collaborative authorship rather than being
+  the work of either one or two authors. (ICMCL version)
 ---
 Today I am going to be talking about part of the research that I'm
 doing for my dissertation. It's very much a snapshot of work in
