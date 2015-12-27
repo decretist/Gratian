@@ -21,27 +21,19 @@ abstract: |
   they are the product of collaborative authorship rather than being
   the work of either one or two authors. (ICMCL version)
 ---
-Today I am going to be talking about part of the research that I'm
-doing for my dissertation. It's very much a snapshot of work in
-progress, so I appreciate the opportunity for feedback.
-
-When I talk about this work in front of Digital Humanities audiences,
-I have to spend several minutes carefully explaining what Gratian's
-_Decretum_ is and why it is important, something that will not be
-necessary today at the Stephan Kuttner Institute. Anyone attending
-a session on Canon Law in the Twelfth and Thirteenth Centuries is
-familiar with Anders Winroth's discovery, now almost 20 years ago,
-of the first recension of the _Decretum_, and with subsequent debates
-(recently summarized by Melodie Eichbauer) over whether the _Decretum_
-was compiled and circulated in two distinct recensions, or whether
-it was instead the product of evolution. [@eichbauer_gratians_2013]
-Debate over the two-recension theory overlaps with debate over
-authorship: Was Gratian 1, the compiler of the first recension the
-same person as Gratian 2, the compiler of the second recension? It
-does not appear that the debate over authorship can be settled with
-currently available evidence. So, my question is: Can stylometry
-provide new evidence about the identity of Gratian 1 and Gratian
-2?
+Twenty years ago, Anders Winroth announced his discovery of the
+first recension of Gratian's _Decretum_ at the Tenth International
+Congress of Medieval Canon Law in Syracuse, New York. Melodie
+Eichbauer has recently summarized the subseqent debates over whether
+the _Decretum_ was compiled and circulated in two distinct recensions,
+or whether it was instead the product of evolution.
+[@eichbauer_gratians_2013] Debate over the two-recension theory
+overlaps with debate over authorship: Was Gratian 1, the compiler
+of the first recension the same person as Gratian 2, the compiler
+of the second recension? It does not appear that the debate over
+authorship can be settled with currently available evidence. So,
+my question is: Can stylometry provide new evidence about the
+identity of Gratian 1 and Gratian 2?
 
 First I'm going to discuss in general terms the use of stylometry
 for authorship attribution. Then, I'm going to discuss the methodology
