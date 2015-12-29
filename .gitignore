@@ -1,7 +1,21 @@
+.Rapp.history
+.Rhistory
+*.docx
 *.jpg
+*.png
 *.pyc
 Mallet/demo/data/gratian
 Mallet/demo/gratian-20-topic-keys.txt
 Mallet/demo/gratian-input.mallet
-stylometry/.Rhistory
+samples/auto/1r/*
+!papers/Rem_Non_Novam/*.jpg
+!papers/working/*.jpg
+samples/auto/2r/*
+samples/auto/Gratian1.txt
+samples/auto/Gratian2.txt
+samples/old/Gratian1.txt
+samples/old/Gratian2.txt
+stylometry/n-way/files_to_analyze.txt
+stylometry/n-way/stylo_config.txt
+stylometry/n-way/table_with_frequencies.txt
 
