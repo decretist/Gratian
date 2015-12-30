@@ -139,9 +139,8 @@ dimensions. This is where the technique of principle component
 analysis, or PCA, becomes useful.[^pca]
 
 [^pca]: For a general introduction to the use of principal component
-analysis (PCA) in literary stylometric analysis, see
-@schreibman_stylistic_2004 and Chapter 6 "Style" in
-@jockers_macroanalysis:_2013.
+analysis (PCA) in literary stylometric analysis, see @craig_stylistic_2004
+and Chapter 6 "Style" in @jockers_macroanalysis_2013.
 
 PCA first combines as many of the raw dimensions as possible into
 synthetic components on the basis of strong correlations, either
