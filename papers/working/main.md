@@ -1,5 +1,5 @@
 ---
-title: Can stylometry provide new evidence about the identity of Gratian 1 and Gratian 2?
+title: New evidence for the authorship of case statements and _dicta_ in Gratian's _Decretum_
 author: Paul Evans
 bibliography: project.bib
 csl: chicago-fullnote-bibliography.csl
