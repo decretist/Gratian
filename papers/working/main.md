@@ -96,15 +96,13 @@ with numbers securely attributed to Hamilton and Madison.
 
 Let's take a first look at how this kind of stylometric analysis
 works in practice with some actual data from the first- and
-second-recension _dicta_.[^4] "_In_" is the most frequently occurring
-word in the _dicta_. There are 1,450 occurrences of "_in_" out of
-56,713 words in the first-recension _dicta_ (2.56%). There are 411
-occurrences of "_in_" out of 14,255 words in the second-recension
+second-recension _dicta_.^[Does _not_ include either first- or
+second-recension _dicta_ from _de Pen_.] "_In_" is the most frequently
+occurring word in the _dicta_. There are 1,450 occurrences of "_in_"
+out of 56,713 words in the first-recension _dicta_ (2.56%). There
+are 411 occurrences of "_in_" out of 14,255 words in the second-recension
 _dicta_ (2.88%). "_In_" therefore occurs 13% more frequently in the
 second-recension _dicta_ than it does in the first-recension _dicta_.
-
-[^4]: Does _not_ include either first- or second-recension _dicta_
-from _de Pen_.
 
 "_Non_" is the second most frequently occurring word in the _dicta_.
 There are 1,360 occurrences of "_non_" in the first-recension _dicta_
@@ -136,11 +134,10 @@ are function words for which we collect data. And because human
 beings are not good at visualizing quantitative data in more than
 three dimensions, we need to find a way to reduce the number of
 dimensions. This is where the technique of principle component
-analysis, or PCA, becomes useful.[^pca]
-
-[^pca]: For a general introduction to the use of principal component
-analysis (PCA) in literary stylometric analysis, see @craig_stylistic_2004
-and Chapter 6 "Style" in @jockers_macroanalysis_2013.
+analysis, or PCA, becomes useful.^[For a general introduction to
+the use of principal component analysis (PCA) in literary stylometric
+analysis, see @craig_stylistic_2004 and Chapter 6 "Style" in
+@jockers_macroanalysis_2013.]
 
 PCA first combines as many of the raw dimensions as possible into
 synthetic components on the basis of strong correlations, either
