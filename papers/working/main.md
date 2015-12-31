@@ -320,8 +320,11 @@ would like to see. Also, although we still see the second-recension
 _dicta_ clustering mostly to the right of the PC1 axis, the two
 sets of samples are not separated as cleanly as we'd like to see,
 and certainly nowhere near as cleanly as the case statements were
-from the _dicta_. And here we've reached the current frontier of
-my research.
+from the _dicta_.
+
+![Figure 5 updated 11 Dec 2015](JPGs/4-way_PCA_49_MFWs_001.jpg)
+
+And here we've reached the current frontier of my research.
 
 ##Conclusion
 
