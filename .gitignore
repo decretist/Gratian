@@ -10,6 +10,7 @@ Mallet/demo/gratian-input.mallet
 samples/auto/1r/*
 !papers/Rem_Non_Novam/*.jpg
 !papers/working/*.jpg
+papers/working/draft.md
 samples/auto/2r/*
 samples/auto/Gratian1.txt
 samples/auto/Gratian2.txt
