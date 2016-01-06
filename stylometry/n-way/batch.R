@@ -96,6 +96,26 @@ stylo.results = stylo(
 # summary(stylo.results)
 print(stylo.results$features.actually.used)
 #
+files.to.analyze <- c("Gratian1.txt", "Gratian2.txt")
+writeLines(files.to.analyze, "files_to_analyze.txt")
+#
+stylo.results = stylo(
+  gui = FALSE,
+  features = c("in", "non"),
+  corpus.dir = "~/Work/Gratian/stylometry/corpora/corpus7",
+  corpus.lang = "Latin.corr",
+  mfw.min = 2, mfw.max = 2,
+  use.custom.list.of.files = TRUE,
+  analysis.type = "PCR",
+  sampling = "no.sampling", # default
+  write.jpg.file = TRUE,
+  custom.graph.title = "2-way",
+  custom.graph.filename = "2-way_PCA_2_MFWs",
+  pca.visual.flavour = "technical"
+)
+# summary(stylo.results)
+print(stylo.results$features.actually.used)
+#
 # 4-way comparison of case statements, 1st- and 2nd recension dicta,
 # and 1st-recension dicta from de Pen.:
 # Gratian0.txt (vulgate case statements)
