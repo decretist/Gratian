@@ -96,6 +96,11 @@ stylo.results = stylo(
 # summary(stylo.results)
 print(stylo.results$features.actually.used)
 #
+file.rename(
+  from = "table_with_frequencies.txt",
+  to = "Tukey/table_with_frequencies.txt"
+)
+#
 files.to.analyze <- c("Gratian1.txt", "Gratian2.txt")
 writeLines(files.to.analyze, "files_to_analyze.txt")
 #
