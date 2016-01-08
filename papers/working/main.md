@@ -108,7 +108,25 @@ second-recension _dicta_ than it does in the first-recension _dicta_.
 There are 1,360 occurrences of "_non_" in the first-recension _dicta_
 (2.40%). There are 306 occurrences of "_non_" in the second-recension
 _dicta_ (2.15%). "_Non_" therefore occurs 12% more frequently in
-the first-recension _dicta_ than in the second-recension _dicta_.
+the first-recension _dicta_ than in the second-recension
+_dicta_.[^footnote]
+
+[^footnote]: Including the _dicta_ from _de Penitentia_ skews the
+results of this analysis significantly.
+
+    "In" is the most frequently occurring word in the _dicta_. There
+    are 1,682 occurrences of "in" out of 66,238 words in the
+    first-recension _dicta_ (2.54%). There are 431 occurrences of
+    "in" out of 14,811 words in the second-recension _dicta_ (2.91%).
+    "In" therefore occurs 14.6% more frequently in the second-recension
+    _dicta_ than it does in the first-recension _dicta_.
+
+    "Non" is the second most frequently occurring word in the
+    _dicta_.  There are 1,622 occurrences of "non" in the first-recension
+    _dicta_ (2.45%). There are 314 occurrences of "non" in the
+    second-recension _dicta_ (2.12%). "Non" therefore occurs 15.5%
+    more frequently in the first-recension _dicta_ than in the
+    second-recension _dicta_.
 
 13% for "_in_" and 12% for "_non_" are significant variations for
 such common words---it's not like we're talking about low-frequency
