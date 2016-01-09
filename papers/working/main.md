@@ -89,10 +89,11 @@ with competing claims advanced on behalf of Alexander Hamilton and
 James Madison. In 1944, Douglass Adair, using traditional scholarly
 methods, settled the dispute largely to the satisfaction of early
 American historians, determining that Madison was the author of all
-12 of the disputed numbers. In 1964, Mosteller and Wallace confirmed
-Adair's findings by conducting a stylometric analysis of the
-frequencies of 30 function words to compare the 12 disputed numbers
-with numbers securely attributed to Hamilton and Madison.
+12 of the disputed numbers.[@adair_authorship_1944 and @tmp] In
+1964, Mosteller and Wallace confirmed Adair's findings by conducting
+a stylometric analysis of the frequencies of 30 function words to
+compare the 12 disputed numbers with numbers securely attributed
+to Hamilton and Madison.[@mosteller_inference_1964]
 
 Let's take a first look at how this kind of stylometric analysis
 works in practice with some actual data from the first- and
