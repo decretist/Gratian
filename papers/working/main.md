@@ -236,7 +236,7 @@ to Schinke, the -_que_ ending should be detached as an enclitic.
     the -_que_ ending should actually be detached as an enclitic.
 
     False positives over-represent the frequency of occurrence of
-    the -_que_’ enclitic as a conjunction by an order of magnitude.
+    the '-_que_’ enclitic as a conjunction by an order of magnitude.
     Including all false positives makes 'xque' the 37th most frequent
     word in the sample, while excluding them makes it the 376th
     most frequent word. There are 55 occurrences of the word
