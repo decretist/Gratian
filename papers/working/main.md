@@ -33,7 +33,14 @@ of the first recension the same person as Gratian 2, the compiler
 of the second recension? It does not appear that the debate over
 authorship can be settled with currently available evidence. So,
 my question is: Can stylometry provide new evidence about the
-identity of Gratian 1 and Gratian 2?
+identity of Gratian 1 and Gratian 2?[^2]
+
+[^2]: An earlier version of this paper, "Can Stylometry Provide New
+Evidence about the Identity of Gratian 1 and Gratian 2?", was
+presented to a session on Canon Law in the Twelfth and Thirteenth
+Centuries at the _Rem non novam nec insolitam aggredimur_ conference
+and grand opening of the Stephan Kuttner Institute of Medieval Canon
+Law at Yale Law School, May 21-22, 2015.
 
 First I'm going to discuss in general terms the use of stylometry
 for authorship attribution. Then, I'm going to discuss the methodology
@@ -109,11 +116,10 @@ second-recension _dicta_ than it does in the first-recension _dicta_.
 There are 1,360 occurrences of "_non_" in the first-recension _dicta_
 (2.40%). There are 306 occurrences of "_non_" in the second-recension
 _dicta_ (2.15%). "_Non_" therefore occurs 12% more frequently in
-the first-recension _dicta_ than in the second-recension
-_dicta_.[^footnote]
+the first-recension _dicta_ than in the second-recension _dicta_.[^8]
 
-[^footnote]: Including the _dicta_ from _de Penitentia_ skews the
-results of this analysis significantly.
+[^8]: Including the _dicta_ from _de Penitentia_ skews the results
+of this analysis significantly.
 
     "In" is the most frequently occurring word in the _dicta_. There
     are 1,682 occurrences of "in" out of 66,238 words in the
@@ -212,15 +218,15 @@ the frequencies of prepositions and conjunctions, it is important
 to include enclitics substituting for conjunctions. Every word in
 the samples with a -_que_ ending that is actually an enclitic, and
 not just part of the word, have been mapped to the word plus the
-pseudo-conjunction "xque".[^schinke]
+pseudo-conjunction "xque".[^10]
 
-[^schinke]: In the case statements, 1st-, and 2nd-recension _dicta_
-from Gratian's _Decretum_, there are 747 occurrences of 79 unique
-words ending in -_que_. (This does not count 423 occurrences of the
-word '_que_' itself.) Of those, 498 are occurrences of 19 unique
-words from Schinke's 54-word pass list, while 249 occurrences of
-60 unique words are not. It is from these 249 words that, according
-to Schinke, the -_que_ ending should be detached as an enclitic.
+[^10]: In the case statements, 1st-, and 2nd-recension _dicta_ from
+Gratian's _Decretum_, there are 747 occurrences of 79 unique words
+ending in -_que_. (This does not count 423 occurrences of the word
+'_que_' itself.) Of those, 498 are occurrences of 19 unique words
+from Schinke's 54-word pass list, while 249 occurrences of 60 unique
+words are not. It is from these 249 words that, according to Schinke,
+the -_que_ ending should be detached as an enclitic.
 
     However, the 249 words include 72 occurrences of 17 unique words
     ending with the adverbial enclitics -_cumque_ or -_cunque_,
