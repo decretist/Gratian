@@ -1,4 +1,4 @@
-all:	main.docx proposal.docx
+all:	main.docx
 
 clean:
 	rm -i main.docx proposal.docx
