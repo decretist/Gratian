@@ -19,12 +19,12 @@ abstract: |
   the first- or second-recension _dicta_. PCA also provides evidence
   concerning the first- and second-recension _dicta_ that suggests
   they are the product of collaborative authorship rather than being
-  the work of either one or two authors. (ICMCL version)
+  the work of either one or two authors.
 ---
 Twenty years ago, Anders Winroth announced his discovery of the
 first recension of Gratian's _Decretum_ at the Tenth International
 Congress of Medieval Canon Law in Syracuse, New York. Melodie
-Eichbauer has recently summarized the subseqent debates over whether
+Eichbauer has recently summarized the subsequent debates over whether
 the _Decretum_ was compiled and circulated in two distinct recensions,
 or whether it was instead the product of evolution.
 [@eichbauer_gratians_2013] Debate over the two-recension theory
@@ -44,17 +44,18 @@ Law at Yale Law School, May 21-22, 2015. @landau_gratian_2008
 
 First I'm going to discuss in general terms the use of stylometry
 for authorship attribution. Then, I'm going to discuss the methodology
-and the program that I am using for this project. Finally, I am
+and the software that I am using for this project. Finally, I am
 going to show the results of stylometric analysis of the case
 statements, the first-recension _dicta_, and the second-recension
-_dicta_, and discuss some possible interpretations of those results.
+_dicta_ (both with and without the _dicta_ from _de Penitentia_),
+and discuss some possible interpretations of those results.
 
 Stylometry is the measurement of style. According to one recent
 definition, "[s]tyle is a property of texts constituted by an
 ensemble of formal features which can be observed quantitatively
 or qualitatively." [@herrmann_revisiting_2015, 44]
 
-So while style itself has both qualitative and quantitative aspects,
+While style itself has both qualitative and quantitative aspects,
 stylometry is concerned only with quantitative aspects of style.
 One well-established use of stylometry is to attribute authorship.
 And for the purpose of authorship attribution, the formal linguistic
@@ -65,9 +66,9 @@ Linguists draw a distinction between function words and content
 words. Function words are words like prepositions and conjunctions.
 Content words are words like adjectives, nouns and verbs. Function
 words convey meaning by their use in grammatical structure. The
-conjunction "but" doesn't mean anything by itself, but rather it
-places two words or grammatical constructs into an adversative
-relationship with each other.
+English conjunction "but" doesn't mean anything by itself, but
+rather it places two words or grammatical constructs into an
+adversative relationship with each other.
 
 Here's another way of thinking about the distinction: function words
 are closed-class words and content words are open-class words.
@@ -105,12 +106,13 @@ to Hamilton and Madison.[@mosteller_inference_1964]
 Let's take a first look at how this kind of stylometric analysis
 works in practice with some actual data from the first- and
 second-recension _dicta_.^[Does _not_ include either first- or
-second-recension _dicta_ from _de Pen_.] "_In_" is the most frequently
-occurring word in the _dicta_. There are 1,450 occurrences of "_in_"
-out of 56,713 words in the first-recension _dicta_ (2.56%). There
-are 411 occurrences of "_in_" out of 14,255 words in the second-recension
-_dicta_ (2.88%). "_In_" therefore occurs 13% more frequently in the
-second-recension _dicta_ than it does in the first-recension _dicta_.
+second-recension _dicta_ from _de Penitentia_.] "_In_" is the most
+frequently occurring word in the _dicta_. There are 1,450 occurrences
+of "_in_" out of 56,713 words in the first-recension _dicta_ (2.56%).
+There are 411 occurrences of "_in_" out of 14,255 words in the
+second-recension _dicta_ (2.88%). "_In_" therefore occurs 13% more
+frequently in the second-recension _dicta_ than it does in the
+first-recension _dicta_.
 
 "_Non_" is the second most frequently occurring word in the _dicta_.
 There are 1,360 occurrences of "_non_" in the first-recension _dicta_
@@ -119,7 +121,9 @@ _dicta_ (2.15%). "_Non_" therefore occurs 12% more frequently in
 the first-recension _dicta_ than in the second-recension _dicta_.[^8]
 
 [^8]: Including the _dicta_ from _de Penitentia_ skews the results
-of this analysis significantly.
+of this analysis significantly. **Merge with previous footnote.
+Changes come overwhelmingly from first-recension _de Pen._ _dicta_
+(9525 words) vs. second-recension _de Pen._ _dicta_ (556 words).**
 
     "In" is the most frequently occurring word in the _dicta_. There
     are 1,682 occurrences of "in" out of 66,238 words in the
@@ -217,7 +221,7 @@ Because stylometric analysis for authorship attribution depends on
 the frequencies of prepositions and conjunctions, it is important
 to include enclitics substituting for conjunctions. Every word in
 the samples with a -_que_ ending that is actually an enclitic, and
-not just part of the word, have been mapped to the word plus the
+not just part of the word, has been mapped to the word plus the
 pseudo-conjunction "xque".[^10]
 
 [^10]: In the case statements, 1st-, and 2nd-recension _dicta_ from
