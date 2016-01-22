@@ -210,12 +210,13 @@ I generated the sample text for the first-recension _dicta_ by
 extracting from the MGH e-text of the Friedberg edition all of the
 _dicta_ listed by Winroth in the appendix of _The Making of Gratian's
 Decretum_, and by applying the changes to the _dicta_ that differed
-between the first and second recensions. I generated the sample
-text for the second-recension _dicta_ by starting with all the
-_dicta_ in parts 1 and 2 of the Friedberg edition, and then taking
-away every word that appeared in the first-recension _dicta_. For
-the case statements, I simply used the text from the vulgate
-_Decretum_ as it appears in the Friedberg edition.
+between the first and second recensions. [@winroth_making_2000,
+197-227] I generated the sample text for the second-recension _dicta_
+by starting with all the _dicta_ in parts 1 and 2 of the Friedberg
+edition, and then taking away every word that appeared in the
+first-recension _dicta_. For the case statements, I simply used the
+text from the vulgate _Decretum_ as it appears in the Friedberg
+edition.
 
 Because stylometric analysis for authorship attribution depends on
 the frequencies of prepositions and conjunctions, it is important
