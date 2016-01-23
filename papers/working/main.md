@@ -266,7 +266,7 @@ the plots that I'm going to show you today. (R is a statistical
 programming language.) Mike Kestemont, Maciej Eder, and Jan Rybicki
 of the Computational Stylistics Group developed the package, and
 Mike Kestemont in particular has been very generous in his technical
-advice for this project.
+advice for this project. [@kestemont_collaborative_2013]
 
 ![Figure 1 updated 11 Dec 2015](JPGs/3-way_PCA_51_MFWs_001.jpg)
 
