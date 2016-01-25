@@ -194,11 +194,11 @@ the first recension is making progress, but is not yet complete
 enough for me to use on this project. So, I am working with the
 electronic text of the Friedberg edition that Timothy Reuter and
 Gabriel Silagi used to produce the _Wortkonkordanz zum Decretum
-Gratiani_ for the MGH. The MGH e-text is encoded in the obsolete
-Oxford Concordance Program format. The OCP format is very difficult
-to parse because it is not tree-structured---it has start tags for
-elements such as canons and _dicta_, cases and distinctions, but
-not end tags.
+Gratiani_ for the MGH. [@reuter_wortkonkordanz_1990] The MGH e-text
+is encoded in the obsolete Oxford Concordance Program format. The
+OCP format is very difficult to parse because it is not
+tree-structured---it has start tags for elements such as canons and
+_dicta_, cases and distinctions, but not end tags.
 
 Anders Winroth and Lou Burnard of the Oxford Text Archive (OTA)
 each provided me with copies of the MGH e-text. The copies differed,
