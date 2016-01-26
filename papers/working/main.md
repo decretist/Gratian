@@ -198,7 +198,7 @@ Gratiani_ for the MGH. [@reuter_wortkonkordanz_1990] The MGH e-text
 is encoded in the obsolete Oxford Concordance Program format. The
 OCP format is very difficult to parse because it is not
 tree-structured---it has start tags for elements such as canons and
-_dicta_, cases and distinctions, but not end tags.
+_dicta_, cases and distinctions, but not end tags. [@hockey_history_2004]
 
 Anders Winroth and Lou Burnard of the Oxford Text Archive (OTA)
 each provided me with copies of the MGH e-text. The copies differed,
