@@ -40,7 +40,7 @@ Evidence about the Identity of Gratian 1 and Gratian 2?", was
 presented to a session on Canon Law in the Twelfth and Thirteenth
 Centuries at the _Rem non novam nec insolitam aggredimur_ conference
 and grand opening of the Stephan Kuttner Institute of Medieval Canon
-Law at Yale Law School, May 21-22, 2015. @landau_gratian_2008
+Law at Yale Law School, May 21-22, 2015. @landau_gratian_2008.
 
 First I'm going to discuss in general terms the use of stylometry
 for authorship attribution. Then, I'm going to discuss the methodology
