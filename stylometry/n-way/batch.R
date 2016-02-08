@@ -150,3 +150,50 @@ stylo.results = stylo(
 # summary(stylo.results)
 print(stylo.results$features.actually.used)
 #
+# 7 February 2016
+#
+files.to.analyze <- c("Gratian0.txt", "Gratian1.txt", "Gratian2.txt", "dePen1.txt")
+writeLines(files.to.analyze, "files_to_analyze.txt")
+#
+stylo.results = stylo(
+  gui = FALSE,
+  features = "wordlist7d.txt",
+  corpus.dir = "../corpora/corpus7",
+  corpus.lang = "Latin.corr",
+  mfw.min = 49, mfw.max = 49,
+  mfw.list.cutoff = 240,
+  delete.pronouns = TRUE,
+  use.custom.list.of.files = TRUE,
+  analysis.type = "PCR",
+  sampling = "normal.sampling",
+  sample.size = 1200,
+  write.jpg.file = TRUE,
+  pca.visual.flavour = "loadings",
+  custom.graph.title = "4-way",
+  custom.graph.filename = "4-way_PCA_49_MFWs_Loadings"
+)
+# summary(stylo.results)
+print(stylo.results$features.actually.used)
+#
+files.to.analyze <- c("Gratian0.txt", "Gratian1.txt", "Gratian2.txt", "dePen1.txt")
+writeLines(files.to.analyze, "files_to_analyze.txt")
+#
+stylo.results = stylo(
+  gui = FALSE,
+  features = "wordlist7e.txt",
+  corpus.dir = "../corpora/corpus7",
+  corpus.lang = "Latin.corr",
+  mfw.min = 46, mfw.max = 46,
+  mfw.list.cutoff = 240,
+  delete.pronouns = TRUE,
+  use.custom.list.of.files = TRUE,
+  analysis.type = "PCR",
+  sampling = "normal.sampling",
+  sample.size = 1200,
+  write.jpg.file = TRUE,
+  custom.graph.title = "4-way",
+  custom.graph.filename = "4-way_PCA_46_MFWs"
+)
+# summary(stylo.results)
+print(stylo.results$features.actually.used)
+#
