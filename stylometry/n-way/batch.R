@@ -107,7 +107,7 @@ writeLines(files.to.analyze, "files_to_analyze.txt")
 stylo.results = stylo(
   gui = FALSE,
   features = c("in", "non"),
-  corpus.dir = "~/Work/Gratian/stylometry/corpora/corpus7",
+  corpus.dir = "../corpora/corpus7",
   corpus.lang = "Latin.corr",
   mfw.min = 2, mfw.max = 2,
   use.custom.list.of.files = TRUE,
