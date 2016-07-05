@@ -254,11 +254,11 @@ the -_que_ ending should be detached as an enclitic.
     most frequent word. There are 55 occurrences of the word
     '_namque_', the most frequently occurring false positive.
     Detaching the '-_que_' ending from '_namque_' overstates the
-    frequency the frequency of '_nam_', making what is actually the
-    480th most frequent word appear to be the 130th, while making
-    '_namque_', which is actually the 176th most frequent word in
-    the samples when false positives are excluded, disappear from
-    the list altogether.
+    frequency of '_nam_', making what is actually the 480th most
+    frequent word appear to be the 130th, while making '_namque_',
+    which is actually the 176th most frequent word in the samples
+    when false positives are excluded, disappear from the list
+    altogether.
 
 Now that we have the preliminaries out of the way, we can take a
 look at the results. I used the stylo R package to generate all of
