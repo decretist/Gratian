@@ -197,3 +197,35 @@ stylo.results = stylo(
 # summary(stylo.results)
 print(stylo.results$features.actually.used)
 #
+# 5 July 2015
+#
+# 2-way comparison of case statements and 1st-recension dicta:
+# Gratian0.txt (vulgate case statemeents)
+# Gratian1.txt (1st-recension dicta without de Pen.)
+#
+files.to.analyze <- c("Gratian0.txt", "Gratian1.txt")
+writeLines(files.to.analyze, "files_to_analyze.txt")
+#
+stylo.results = stylo(
+  gui = FALSE,
+  features = "wordlist7x.txt",
+  corpus.dir = "../corpora/corpus7",
+  corpus.lang = "Latin.corr",
+  mfw.min = 51, mfw.max = 51,
+  mfw.cutoff = 240,
+  delete.pronouns = TRUE,
+  use.custom.list.of.files = TRUE,
+  analysis.type = "PCR",
+  sampling = "normal.sampling",
+  sample.size = 1200,
+  write.jpg.file = TRUE,
+  custom.graph.title = "Experimental",
+  custom.graph.filename = "Experimental"
+)
+# summary(stylo.results)
+print(stylo.results$features.actually.used)
+#
+file.rename(
+  from = "table_with_frequencies.txt",
+  to = "Tukey_x/table_with_frequencies.txt"
+)
