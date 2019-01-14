@@ -21175,7 +21175,7 @@ fuerit, emolumentum uictoriae etiam ad alios pertinebit.
 <S 483><L 1> -483+
 Si autem unus tantum appellauerit eiusque appellatio iusta
 pronunciata est, ei quoque prodest, qui non appellauit. -@. 20.+
-Quod si etatis auxilio unus contra sententiam restitutionem inpetraverit
+Quod si etatis auxilio unus contra sententiam restitutionem inpetrauerit
 maiori, qui suo iure non appellauit, hoc rescriptum
 non prodest. -@. 21.+ Iudicibus autem non solum
 suscipiendae appellationis necessitas uidetur inposita, uerum etiam
