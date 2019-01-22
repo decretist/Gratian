@@ -22,4 +22,7 @@ stylometry/n-way/Tukey_x
 stylometry/n-way/files_to_analyze.txt
 stylometry/n-way/stylo_config.txt
 stylometry/n-way/table_with_frequencies.txt
+stylometry/sg/files_to_analyze.txt
+stylometry/sg/stylo_config.txt
+stylometry/sg/table_with_frequencies.txt
 
