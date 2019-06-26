@@ -1,0 +1,5 @@
+- Gratian1_2.txt: D.19 d.p.c.8 (Fr.64) - D.28 d.p.c.13 §.3 (Fr.105)
+- Gratian1_3.txt: D.28 d.p.c.13 §.3 (Fr.105) - D.37 d.p.c.7 §.6 (Fr.137)
+- Gratian1_4.txt: D.37 d.p.c.7 §.6 (Fr.137) - D.47 d.p.c.7 (Fr.172)
+- Gratian1_5.txt: D.47 d.p.c.7 (Fr.172) - D.55 d.a.c.1 (Fr.209)
+- Gratian1_6.txt: D.55 d.a.c.1 (Fr.209) - D.74 d.a.c.1 (F.262)
