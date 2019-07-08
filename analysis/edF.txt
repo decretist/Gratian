@@ -24953,7 +24953,7 @@ oportet.
 <1 C><S 566><L 6>
 <2 7><T Q> -CAUSA VII.+
 -GRATIANUS.+
-Quidam longa inualetudinem grauatus episcopus alium sibi
+Quidam longa inualetudine grauatus episcopus alium sibi
 substitui rogauit, cuius precibus summus Pontifex annuit, et quod
 rogauerat ei concessit. Postea uero conualuit idem episcopus,
 et quod prius fecerat cupit rescindi; aduersus eum, qui sibi
