@@ -6,15 +6,14 @@ Roll up _dicta_ samples into 2500- to 3000-word chunks
 '''
 import re
 def main():
-    print('Humanum genus duobus regitur')
     file_number = 1
     running = 0 # running count of words in sample
     sample = '' # sample accumulator
-    toc_file = open('toc_2r.txt', 'r')
+    toc_file = open('toc_1r.txt', 'r')
     lines = toc_file.readlines()
     for line in lines:
         input_filename = line.rstrip()
-        input_file = open('./2r/' + input_filename + '.txt', 'r')
+        input_file = open('./1r/' + input_filename + '.txt', 'r')
         string = input_file.read()
         input_file.close()
         word_count = len(string.split())
@@ -24,15 +23,15 @@ def main():
             running += word_count
             sample += string
         else:
-            output_filename = './tmp/Gratian2_' + str(file_number) + '.txt'
+            output_filename = './tmp/Gratian1_' + str(file_number) + '.txt'
             output_file = open(output_filename, 'w')
             output_file.write(sample)
             output_file.close()
             file_number += 1
-            running = 0
+            running = word_count
             sample = string
     # output incomplete sample
-    output_filename = './tmp/Gratian2_' + str(file_number) + '.txt'
+    output_filename = './tmp/Gratian1_' + str(file_number) + '.txt'
     output_file = open(output_filename, 'w')
     output_file.write(sample)
     output_file.close()
