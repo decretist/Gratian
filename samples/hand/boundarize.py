@@ -1,39 +1,37 @@
 #!/usr/local/bin/python3
 # Paul Evans (10evans@cua.edu)
-# 5 February 2019
-'''
-Roll up _dicta_ samples into 2500- to 3000-word chunks
-'''
+# 5 February 2020
+'''Roll up _dicta_ samples into 2500- to 3000-word chunks'''
 import re
 def main():
-    file_number = 1
-    running = 0 # running count of words in sample
-    sample = '' # sample accumulator
-    toc_file = open('toc_1r.txt', 'r')
+    recension = '1' # either '1' or '2'
+    sequence = 1
+    running_total = 0
+    dicta = '' # accumulator
+    toc_file = open(f'toc_{recension}r.txt', 'r')
     lines = toc_file.readlines()
     for line in lines:
+        output_filename = f'./tmp/Gratian{recension}_' + str(sequence) + '.txt'
         input_filename = line.rstrip()
-        input_file = open('./1r/' + input_filename + '.txt', 'r')
-        string = input_file.read()
+        input_file = open(f'./{recension}r/' + input_filename + '.txt', 'r')
+        dictum = input_file.read()
         input_file.close()
-        word_count = len(string.split())
+        word_count = len(dictum.split())
         # findall returns same word count as split for all 1r and 2r samples
-        # word_count = len(re.findall(r'\w+', string))
-        if running <= 2500:
-            running += word_count
-            sample += string
+        # word_count = len(re.findall(r'\w+', dictum))
+        if running_total <= 2500:
+            running_total += word_count
+            dicta += dictum
         else:
-            output_filename = './tmp/Gratian1_' + str(file_number) + '.txt'
             output_file = open(output_filename, 'w')
-            output_file.write(sample)
+            output_file.write(dicta)
             output_file.close()
-            file_number += 1
-            running = word_count
-            sample = string
-    # output incomplete sample
-    output_filename = './tmp/Gratian1_' + str(file_number) + '.txt'
+            sequence += 1
+            running_total = word_count
+            dicta = dictum
+    # output final incomplete sample
     output_file = open(output_filename, 'w')
-    output_file.write(sample)
+    output_file.write(dicta)
     output_file.close()
 
 if __name__ == '__main__':
