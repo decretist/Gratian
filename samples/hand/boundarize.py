@@ -2,11 +2,25 @@
 # Paul Evans (10evans@cua.edu)
 # 5 February 2020
 '''Roll up _dicta_ samples into 2500- to 3000-word chunks'''
+import argparse
 import re
 def main():
-    recension = '2' # either '1' or '2'
-    output_all = False # True equivalent to corpus3, False equivalent to corpus6
-    output_de_Pen = False
+    parser = argparse.ArgumentParser()
+    parser.add_argument('recension', type=str, help="'1' or '2'")
+    parser.add_argument('-a', '--all', action='store_true')
+    parser.add_argument('-p', '--dePen', action='store_true')
+    args = parser.parse_args()
+    recension = args.recension
+    if args.all:
+        output_all = True # equivalent to corpus3
+        output_de_Pen = False
+    else:
+        output_all = False # equivalent to corpus6
+        if args.dePen: output_de_Pen = True
+        else: output_de_Pen = False
+    # recension = '2'
+    # output_all = False
+    # output_de_Pen = False
     if output_de_Pen: output_file_basename = f'./tmp/dePen{recension}_'
     else: output_file_basename = f'./tmp/Gratian{recension}_'
     sequence = 1
