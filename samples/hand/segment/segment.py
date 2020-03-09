@@ -25,7 +25,7 @@ def main():
     sequence = 1
     running_total = 0
     output_string = ''
-    table_of_contents_file = open(f'toc_{recension}r.txt', 'r')
+    table_of_contents_file = open(f'../toc_{recension}r.txt', 'r')
     lines = table_of_contents_file.readlines()
     for line in lines:
         input_filename = line.rstrip()
@@ -36,7 +36,7 @@ def main():
             else:
                 if match: continue
         output_filename = output_file_basename + str(sequence) + '.txt'
-        input_file = open(f'./{recension}r/' + input_filename + '.txt', 'r')
+        input_file = open(f'../{recension}r/' + input_filename + '.txt', 'r')
         input_string = input_file.read()
         input_file.close()
         word_count = len(input_string.split())

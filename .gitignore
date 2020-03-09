@@ -18,8 +18,8 @@ samples/auto/cases/*
 samples/auto/Gratian0.txt
 samples/auto/Gratian1.txt
 samples/auto/Gratian2.txt
-samples/hand/corpus3_save
-samples/hand/corpus6_save
+samples/hand/segment/corpus3
+samples/hand/segment/corpus6
 samples/old/Gratian1.txt
 samples/old/Gratian2.txt
 stylometry/n-way/Tukey_x
