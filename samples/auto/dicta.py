@@ -1,8 +1,11 @@
-#!/usr/bin/python
+#!/usr/local/bin/python3
 #
-# Paul Evans (10evans@cardinalmail.cua.edu)
+# Paul Evans (10evans@cua.edu)
+#  7 Mar- 8 Mar 2020
+# 25 Oct- 8 Nov 2015
+# 17 Mar-24 Oct 2013
+# 12 Mar-20 Mar 2013
 #
-from __future__ import print_function
 import re
 import sys
 def main():
@@ -158,7 +161,9 @@ def main():
     dictionary_1r[key] = dictionary_1r[key] + ''' Unde in quodam concilio statutum est ut episcopi non proficiscantur ad comitatum nisi formatas ab apostolico acceperint.'''
     # append
     key = 'de Pen. D.1 d.a.c.1'
-    dictionary_1r['de Pen. D.1 d.a.c.1'] = dictionary_1r[key].rstrip('.') + ''' Leonis pape:'''
+    dictionary_1r[key] = dictionary_1r[key].rstrip('.') + ''' Leonis pape:'''
+    # special fix
+    dictionary_2r[key] = dictionary_2r[key][0:-1] + ','
 
     all = open('./Gratian1.txt', 'w')
     keys = tuple(open('../hand/toc_1r.txt', 'r'))
