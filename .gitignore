@@ -22,6 +22,7 @@ samples/hand/segment/corpus3
 samples/hand/segment/corpus6
 samples/old/Gratian1.txt
 samples/old/Gratian2.txt
+stylometry/corpora/tmp
 stylometry/n-way/Tukey_x
 stylometry/n-way/files_to_analyze.txt
 stylometry/n-way/stylo_config.txt

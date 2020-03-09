@@ -11,7 +11,7 @@ import sys
 def main():
     f = open('../../analysis/edF.txt', 'r')
     file = f.read()
-    toc = open('./toc_all.txt', 'r')
+    toc = open('../hand/toc_all.txt', 'r')
     dictionary_Fr = {} # Friedberg
     dictionary_1r = {} # first recension
     dictionary_2r = {} # second recension
