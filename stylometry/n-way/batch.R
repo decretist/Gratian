@@ -1,5 +1,7 @@
+#
 # Paul Evans (decretist@gmail.com)
-# 7 December 2015
+# 19 Mar 2020
+#  7 Dec 2015
 #
 setwd("~/Work/Gratian/stylometry/n-way")
 library(stylo)
@@ -22,9 +24,12 @@ stylo.results = stylo(
   delete.pronouns = TRUE,
   use.custom.list.of.files = TRUE,
   analysis.type = "PCR",
+  distance.measure = "delta",
   sampling = "normal.sampling",
   sample.size = 1200,
   write.jpg.file = TRUE,
+  colors.on.graphs = "greyscale",
+  pca.visual.flavour = "symbols",
   custom.graph.title = "3-way",
   custom.graph.filename = "3-way_PCA_51_MFWs"
 )
@@ -41,9 +46,11 @@ stylo.results = stylo(
   delete.pronouns = TRUE,
   use.custom.list.of.files = TRUE,
   analysis.type = "PCR",
+  distance.measure = "delta",
   sampling = "normal.sampling",
   sample.size = 1200,
   write.jpg.file = TRUE,
+  colors.on.graphs = "greyscale",
   pca.visual.flavour = "loadings",
   custom.graph.title = "3-way",
   custom.graph.filename = "3-way_PCA_51_MFWs_Loadings"
@@ -61,9 +68,12 @@ stylo.results = stylo(
   delete.pronouns = TRUE,
   use.custom.list.of.files = TRUE,
   analysis.type = "PCR",
+  distance.measure = "delta",
   sampling = "normal.sampling",
   sample.size = 1200,
   write.jpg.file = TRUE,
+  colors.on.graphs = "greyscale",
+  pca.visual.flavour = "symbols",
   custom.graph.title = "3-way",
   custom.graph.filename = "3-way_PCA_49_MFWs"
 )
@@ -87,9 +97,12 @@ stylo.results = stylo(
   delete.pronouns = TRUE,
   use.custom.list.of.files = TRUE,
   analysis.type = "PCR",
+  distance.measure = "delta",
   sampling = "normal.sampling",
   sample.size = 1000,
   write.jpg.file = TRUE,
+  colors.on.graphs = "greyscale",
+  pca.visual.flavour = "symbols",
   custom.graph.title = "2-way",
   custom.graph.filename = "2-way_PCA_53_MFWs"
 )
@@ -112,11 +125,13 @@ stylo.results = stylo(
   mfw.min = 2, mfw.max = 2,
   use.custom.list.of.files = TRUE,
   analysis.type = "PCR",
+  distance.measure = "delta",
   sampling = "no.sampling", # default
   write.jpg.file = TRUE,
+  colors.on.graphs = "greyscale",
+  pca.visual.flavour = "technical",
   custom.graph.title = "2-way",
-  custom.graph.filename = "2-way_PCA_2_MFWs",
-  pca.visual.flavour = "technical"
+  custom.graph.filename = "2-way_PCA_2_MFWs"
 )
 # summary(stylo.results)
 print(stylo.results$features.actually.used)
@@ -141,9 +156,12 @@ stylo.results = stylo(
   delete.pronouns = TRUE,
   use.custom.list.of.files = TRUE,
   analysis.type = "PCR",
+  distance.measure = "delta",
   sampling = "normal.sampling",
   sample.size = 1200,
   write.jpg.file = TRUE,
+  colors.on.graphs = "greyscale",
+  pca.visual.flavour = "symbols",
   custom.graph.title = "4-way",
   custom.graph.filename = "4-way_PCA_49_MFWs"
 )
@@ -165,9 +183,11 @@ stylo.results = stylo(
   delete.pronouns = TRUE,
   use.custom.list.of.files = TRUE,
   analysis.type = "PCR",
+  distance.measure = "delta",
   sampling = "normal.sampling",
   sample.size = 1200,
   write.jpg.file = TRUE,
+  colors.on.graphs = "greyscale",
   pca.visual.flavour = "loadings",
   custom.graph.title = "4-way",
   custom.graph.filename = "4-way_PCA_49_MFWs_Loadings"
@@ -188,9 +208,12 @@ stylo.results = stylo(
   delete.pronouns = TRUE,
   use.custom.list.of.files = TRUE,
   analysis.type = "PCR",
+  distance.measure = "delta",
   sampling = "normal.sampling",
   sample.size = 1200,
   write.jpg.file = TRUE,
+  colors.on.graphs = "greyscale",
+  pca.visual.flavour = "symbols",
   custom.graph.title = "4-way",
   custom.graph.filename = "4-way_PCA_46_MFWs"
 )
@@ -216,9 +239,12 @@ stylo.results = stylo(
   delete.pronouns = TRUE,
   use.custom.list.of.files = TRUE,
   analysis.type = "PCR",
+  distance.measure = "delta",
   sampling = "normal.sampling",
   sample.size = 1200,
   write.jpg.file = TRUE,
+  colors.on.graphs = "greyscale",
+  pca.visual.flavour = "symbols",
   custom.graph.title = "Experimental",
   custom.graph.filename = "Experimental"
 )

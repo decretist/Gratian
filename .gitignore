@@ -2,6 +2,7 @@
 *.jpg
 *.png
 *.pyc
+.DS_Store
 .Rapp.history
 .Rhistory
 Mallet/demo/data/gratian
