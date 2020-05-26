@@ -25,7 +25,7 @@ def main():
             '\<P 1\>|'          # or Palea,
             '\<T [AIPRT]\>'      # or inscription or text tag.
         ')', file, re.S)        # re.S (re.DOTALL) makes '.' special character match any character including newline.
-    print('expected 1277 dicta, found ' + str(len(dicta)) + ' dicta', file=sys.stderr)
+    print('expected 1273 dicta, found ' + str(len(dicta)) + ' dicta', file=sys.stderr)
     for dictum in dicta:
         dictum = re.sub('\<S \d{1,4}\>\<L 1\> \-\d{1,4}\+', '', dictum) # remove page and line number tags.
         dictum = re.sub('\<P 1\> \-\[PALEA\.\+', '', dictum)    # remove Palea tags.
