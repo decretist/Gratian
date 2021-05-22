@@ -1898,7 +1898,7 @@ est ordinatus. -[@. 3. Deest.] @. 4.+ Quarta in Calcedone
 DCXXX. Patrum, sub Leone Papa, temporibus
 Martiani principis, contra Euticen nefandissimorum
 monachorum presulem. -@. 5.+ Quinta in Constantinopolim
-temporibus Iulii Papae, sub Iustiniano principe.
+temporibus Iulii Papae, sub Iustiniano principe,
 contra Theodorum et omnes hereticos.
 <4 10> -[C. X.]+
 <T T> Prima autem sinodus in Nicea, CCCXVIII. Patrum,
